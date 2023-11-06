@@ -1,0 +1,5524 @@
+PurchaseOrderId,product_name,purchase_count,purchase_dummy
+15791,Plug Wire,1,1
+15790,Air Filter,1,1
+15936,Bracket,1,1
+15936,Radiator Support Lower,1,1
+15794,Alternator Belt,1,1
+15793,Air Filter,1,1
+15797,Air Filter,1,1
+15796,Air Filter,1,1
+15795,Air Filter,1,1
+15808,Fender Liner - L/H Front,1,1
+15808,Fender Liner - R/H Front,1,1
+15800,Belt,1,1
+15806,Wind Shield - Front,1,1
+15805,Front Brake pad,1,1
+15802,Cam Shaft Oil Seal,1,1
+15792,Universal Wiper Blade 16,1,1
+15803,Front Brake pad,1,1
+15804,Front Brake pad,1,1
+15798,Engine Oil - Taxi Special - 5W30 (4L),1,1
+15798,Coolant (Green),1,1
+15798,Brake Oil,1,1
+15799,Oil Filter,1,1
+15799,Air Filter,1,1
+15799,CV Joint,1,1
+15799,Caliper Pin 18%,1,1
+15799,Spark Plug Set Of 4,1,1
+15799,Front Brake pad,1,1
+15799,Front Brake Disc,1,1
+15799,Gear Oil,1,1
+15799,Front Wheel Bearing,1,1
+15799,Tail Lamp Right,1,1
+15884,Bumper - Front,1,1
+15884,Front Bumper Bracket Right,1,1
+15812,Hose Pipe,1,1
+15812,Brake Booster,1,1
+15855,Splash Guard Front Bumper,1,1
+15887,Oil Filter,1,1
+15801,Clutch Kit (Disc+Pressure Plate),1,1
+15801,Clutch Release Bearing,1,1
+15809,Clutch Cable,1,1
+15844,Mirror Lens,1,1
+15844,Mirror Cap,1,1
+15821,Mirror Lens,1,1
+15822,Wind Shield - Front,1,1
+15822,AC Condenser,1,1
+15822,Splash Guard Front Bumper,1,1
+15822,Bracket,1,1
+15822,Radiator Support Lower,1,1
+15822,Radiator Assembly,1,1
+15823,Bumper - Front,1,1
+15823,Front Fog Lamp Right,1,1
+15823,Fan Assembly,1,1
+15823,AC Condenser,1,1
+15823,Radiator Assembly,1,1
+15811,Air Filter,1,1
+15815,Bumper - Front,1,1
+15814,Clutch Kit (Disc+Pressure Plate+Bearing+FlywheeL),1,1
+15814,Clutch Cable,1,1
+15892,Clip,1,1
+15892,Door Trim Clip,1,1
+15843,Bumper - Rear,1,1
+15843,Bumper - Front,1,1
+15843,Rear Bumper Bracket Right,1,1
+15843,Rear Bumper Bracket Left,1,1
+15843,Front Bumper Bracket Right,1,1
+15843,Front Bumper Bracket Left,1,1
+15843,Fender Liner - L/H Front,1,1
+15843,Fender Liner - R/H Front,1,1
+15820,Bumper - Front,1,1
+15820,Bumper Lower Grill,1,1
+15820,Splash Guard Front Bumper,1,1
+15819,Clutch Release Bearing,1,1
+15819,Clutch Kit (Disc+Pressure Plate),1,1
+15819,Fly Wheel,1,1
+15817,Power Window Regulator Front - RH,1,1
+15816,Air Filter,1,1
+15816,Mud Flap,1,1
+15824,Bumper - Front,1,1
+15824,Fog Lamp Set,1,1
+15818,Tail Lamp Right,1,1
+15832,Head Lamp - L/H,1,1
+15825,Wheel Rim,1,1
+15865,Bonnet,1,1
+15865,Head Lamp - R/H,1,1
+15865,Wiper Tank,1,1
+15879,Front Bumper Bracket Right,1,1
+15859,Latch Assy - Front Door,1,1
+15859,Right,1,1
+15826,Front Brake pad,1,1
+15828,Oil Filter,1,1
+15828,Air Filter,1,1
+15828,AC Filter,1,1
+15828,Rear Brake Shoe,1,1
+15836,Oil Filter,1,1
+15833,Air Filter,1,1
+15835,Air Filter,1,1
+15834,Air Filter,1,1
+15827,Door Latch,1,1
+15829,Oil Filter,1,1
+15842,Front Brake pad,1,1
+15830,Universal Wiper Blade 12,1,1
+15830,Universal Wiper Blade Set (13 - 13),1,1
+15830,Universal Wiper Blade 16,1,1
+15830,Universal Wiper Blade 17,1,1
+15830,Universal Wiper Blade 18,1,1
+15830,Universal Wiper Blade 19,1,1
+15830,Universal Wiper Blade 20,1,1
+15830,Universal Wiper Blade 21,1,1
+15830,Universal Wiper Blade 22,1,1
+15830,Universal Wiper Blade 24,1,1
+15830,Universal Wiper Blade 26,1,1
+15837,Shock Absorber (Front) - Left,1,1
+15837,Shock Absorber (Front) - Right,1,1
+15831,Front Brake pad,1,1
+15845,Oil Filter,1,1
+15845,Air Filter,1,1
+15845,Bulb,1,1
+15846,Oil Filter,1,1
+15846,Air Filter,1,1
+15846,Bulb,1,1
+15857,Engine Oil - Taxi Special - 5W30 (209L),1,1
+15839,Front Suspension Strut Assembly Right,1,1
+15839,Front Suspension Strut Assembly Left,1,1
+15840,Bumper - Front,1,1
+15840,Front Bumper Bracket Right,1,1
+15840,Front Bumper Bracket Left,1,1
+15847,Mirror Assy Right,1,1
+15847,Bonnet Patti,1,1
+15847,Oil Filter,1,1
+15847,Air Filter,1,1
+15847,AC Filter,1,1
+15841,Wheel Rim,1,1
+15838,Power Steering Motor Assy,1,1
+15848,Water Pump,1,1
+15858,Front Suspension Strut Left/Right,1,1
+15858,Front Suspension Strut Mount Right,1,1
+15858,Front Suspension Strut Mount Left,1,1
+15858,Lower Arm Lefts,1,1
+15858,Lower Arm Rights,1,1
+15858,Link Rod,1,1
+15858,Tie Rod End Left/Right,1,1
+15858,Stabilizer Bar Bushes,1,1
+15858,Wheel Brake Cylinder - L/H Rear,1,1
+15858,Wheel Brake Cylinder - R/H Rear,1,1
+15858,Drive Shaft Right,1,1
+15858,Drive Shaft Left,1,1
+15863,Mirror Assy Right,1,1
+15869,Ball Joint,1,1
+15852,Hose Pipe,1,1
+15849,AC Gas,1,1
+15850,Timing Belt,1,1
+15850,Tensioner Adjuster,1,1
+15850,Front Brake pad,1,1
+15853,Wheel Brake Cylinder - L/H Rear,1,1
+15853,Wheel Brake Cylinder - R/H Rear,1,1
+15851,Clutch Release Bearing,1,1
+15851,Clutch Kit (Disc+Pressure Plate),1,1
+15854,Bumper - Front,1,1
+15854,Holder,2,1
+15854,Front Bumper Left,1,1
+15854,Front Bumper Right,1,1
+15854,Bonnet,1,1
+15868,Wiper Tank,1,1
+15856,Bonnet,1,1
+15856,Fender - L/H Front,1,1
+15856,Fender - R/H Front,1,1
+15856,Bumper - Front,1,1
+15856,Bumper - Rear,1,1
+15856,Fender Liner - L/H Front,1,1
+15856,Fender Liner - R/H Front,1,1
+15935,Bumper - Rear,1,1
+15966,Mud Flap,1,1
+15966,Rear Wheel Arch Cladding Left,1,1
+15966,Reflector Assy,1,1
+15966,Rear Left,1,1
+15966,Tail Lamp Left,1,1
+15966,Holder,1,1
+15966,Rear Bumper Side Left,1,1
+15966,Cap,1,1
+15864,Wheel Bearing,1,1
+15872,Bumper - Front,1,1
+15872,Head Lamp - L/H,1,1
+15872,Front Bumper Bracket Right,1,1
+15872,Front Bumper Bracket Left,1,1
+15872,Panel Assy - Under Cover,1,1
+15872,Front,1,1
+15872,Bonnet,1,1
+15872,Hinges (Bonnet) Right,1,1
+15896,Front Wheel Arch Cladding Left,1,1
+15896,Front Wheel Arch Cladding Right,1,1
+15896,Rear Wheel Arch Cladding Left,1,1
+15905,Mirror Assy Left,1,1
+15905,Fender indicator assy LH,1,1
+15905,Door Handle (ExternaL) Front Left,1,1
+15871,Auto Tensioner Assy,1,1
+15860,Bumper - Front,1,1
+15860,Bumper Grill,1,1
+15860,Towing cap,1,1
+15867,Bumper - Front,1,1
+15875,Hose,1,1
+15875,Fuel (Pipe To Engine),1,1
+15861,Oil Filter,1,1
+15862,Lower Arm Lefts,1,1
+15862,Lower Arm Rights,1,1
+15862,Spark Plug Set Of 4,1,1
+15862,Air Filter,1,1
+15862,AC Filter,1,1
+15888,Tail Lamp Right,1,1
+15866,Bumper - Front,1,1
+15866,Front Bumper Bracket Left,1,1
+15866,Front Bumper Bracket Right,1,1
+15870,Clutch Kit (Disc+Pressure Plate),1,1
+15870,Clutch Slave Cylinder,1,1
+15873,Link Rod,1,1
+15873,Front Suspension Strut Mount,1,1
+15873,Front Suspension Strut Left,1,1
+15873,Front Suspension Strut Right,1,1
+15886,Sensor,1,1
+15878,Hose Pipe,1,1
+15878,Thermostat Housing,1,1
+15876,Clutch Kit (Disc+Pressure Plate),1,1
+15876,Clutch Slave Cylinder,1,1
+15876,Diesel Filter,1,1
+15876,Shock Absorber Plate,1,1
+15876,Releaser Bearing,1,1
+15877,Clutch Kit (Disc+Pressure Plate),1,1
+15877,Clutch Slave Cylinder,1,1
+15877,Diesel Filter,1,1
+15877,Shock Absorber Plate,1,1
+15877,Releaser Bearing,1,1
+15900,Door - R/H Front,1,1
+15900,Door - R/H Rear,1,1
+15900,Quarter Panel - R/H Rear,1,1
+15901,Tie Rod End,1,1
+15901,Lower Arm,1,1
+15901,Front Brake pad,1,1
+15901,AC Filter,1,1
+15901,Rear Wiper Blade,1,1
+15880,Oil Seal,1,1
+15880,Gear Lever Knob,1,1
+15880,Front Brake pad,1,1
+15881,Front Brake Disc,1,1
+15882,Front Brake Disc,1,1
+15883,Clutch Kit (Disc+Pressure Plate+Bearing),1,1
+15895,Lower Arm Set,1,1
+15895,Front Brake pad,1,1
+15895,Front Brake Disc,1,1
+15895,Clutch Kit (Disc+Pressure Plate+Bearing),1,1
+15895,Oil Filter,1,1
+16001,Mirror Assy Right,1,1
+15890,Mirror Lens,1,1
+15890,Mirror Cap,1,1
+15891,Bumper - Front,1,1
+15893,Air Filter,1,1
+15893,Oil Filter,1,1
+15893,Spark Plug 16Mm,1,1
+15893,Brake Master Cylinder,1,1
+15893,Shock Absorber (Rear),1,1
+15893,Engine Bedding,1,1
+15893,Engine Bedding - C,1,1
+15918,Wheel Bearing,1,1
+15889,Head Lamp - R/H,1,1
+15889,Holder,1,1
+15889,Front Bumper Right,1,1
+15894,Rocker Arm,1,1
+15894,Head Gasket,1,1
+15894,Valve Door Gasket,1,1
+15894,Oil Seal,1,1
+15894,Hose Pipe,1,1
+15894,Intercooler Hose,1,1
+15910,Lower Arm Rights,1,1
+15910,Lower Arm Lefts,1,1
+15912,Shock Absorber Mount,1,1
+15912,Balance Rod Bush,1,1
+15912,Tie Rod End Left/Right,1,1
+15912,Front Wheel Bearing,1,1
+15912,Fender Liner - R/H Front,1,1
+15912,Fender Liner - L/H Front,1,1
+16042,Fender Liner - R/H Front,1,1
+16042,Fender Liner - L/H Front,1,1
+16042,Body Filler,1,1
+15898,Mirror Assy Right,1,1
+15908,Fuel Tank,1,1
+15906,Door Handle (ExternaL) Front Right,1,1
+15906,Rear Wiper Blade,1,1
+15899,Power Window Switch,1,1
+15902,Wind Shield - Front,1,1
+15902,Wind Shield Beading,1,1
+15904,Mirror Cap,1,1
+15907,Bumper - Front,1,1
+15922,Front Suspension Strut Mount,1,1
+15943,Thermoshaft Valve,1,1
+15909,Moulding,1,1
+15903,Bulb (Headlight),1,1
+15917,Caliper,1,1
+15913,Front Brake pad,1,1
+15913,Fender Liner - LH Rear,1,1
+15913,Front Wheel Bearing,1,1
+15913,Fog Lamp Rear Right,1,1
+15913,V Belt,1,1
+15914,Oil Filter,1,1
+15914,Air Filter,1,1
+15924,Seat Belt,1,1
+15911,Air Filter,1,1
+15967,Door - R/H Front,1,1
+15967,Door - L/H Front,1,1
+15916,Fender Liner - R/H Front,1,1
+15915,Rear Shock Absorber,1,1
+15919,Dicky Shocks,2,1
+15919,Right,1,1
+15919,Left,1,1
+15929,Releaser Bearing,1,1
+15929,Clutch Kit (Disc+Pressure Plate),1,1
+15931,Bumper Lower Grill,1,1
+15921,Mirror Assy Electrical with Indicator - LH,1,1
+15926,Door Handle (ExternaL) Front Left,1,1
+15926,Caliper Pin 18%,1,1
+15926,Front Brake pad,1,1
+15926,Rear Brake Shoe,1,1
+15926,AC Filter,1,1
+15926,Air Filter,1,1
+15926,Tail Lamp Right,1,1
+15926,Door Stopper,1,1
+15926,Hose Pipe,1,1
+15926,Holder,2,1
+15926,Rear Bumper Side Left,1,1
+15926,Rear Bumper Side Right,1,1
+15920,Door Handle,1,1
+15923,Bumper - Front,1,1
+15933,Lower Arm Rights,1,1
+15933,Front Stabilizer Link Right,1,1
+15933,Head Lamp - R/H,1,1
+15925,Steering Box,1,1
+15925,Balance Rod Bush,1,1
+15928,Cap,1,1
+16253,AC Pipe,1,1
+15930,Air Filter,1,1
+15930,Front Brake pad,1,1
+15930,Lower Arm Lefts,1,1
+15930,Lower Arm Rights,1,1
+15927,Clutch Kit (Disc+Pressure Plate),1,1
+15927,Releaser Bearing,1,1
+15927,Intercooler Hose,1,1
+15932,Front Wheel Arch Cladding Left,1,1
+15946,Shock Absorber (Front) - Left,1,1
+16031,Gear Lever Knob,1,1
+16031,Boot,1,1
+15968,Bumper - Front,1,1
+15968,Holder,2,1
+15968,Front Bumper Right,1,1
+15968,Front Bumper Left,1,1
+15968,Weather Strip,1,1
+16127,Spring,1,1
+15942,Tail Lamp Left,1,1
+15937,Ac Liquid Pipe,1,1
+15941,Power Window Switch,1,1
+15941,Clutch Cable,1,1
+15954,Power Window Switch - LH,1,1
+15940,Shock Absorber Strut,1,1
+15940,Lower Arm,1,1
+15940,Shock Absorber Mount,1,1
+15939,Hose Pipe,1,1
+15938,Radiator Assembly,1,1
+15960,Front Bumper Bracket Right,1,1
+15960,Lhs Fender Lining,1,1
+15949,Fender Liner - L/H Front,1,1
+15961,Clutch Cable,1,1
+15961,Fuel Filter,1,1
+15963,Diesel Filter,1,1
+15980,Bumper - Front,1,1
+15970,Garnish,1,1
+15970,Trunk Lid,1,1
+15945,Clutch Master Cylinder,1,1
+15947,Door Latch,1,1
+15944,Brake Oil,1,1
+15944,Dot 4(250ML),1,1
+15956,AC Compressor,1,1
+15958,Coolant bottom hose,1,1
+16028,Wiper Blade 13,1,1
+16028,Wiper Blade 14,1,1
+16028,Wiper Blade 12,1,1
+16028,Wiper Blade 16,1,1
+16028,Wiper Blade 17,1,1
+16028,Wiper Blade 18,1,1
+16028,Wiper Blade 19,1,1
+16028,Wiper Blade 20,1,1
+16028,Wiper Blade 21,1,1
+16028,Wiper Blade 22,1,1
+16028,Wiper Blade 24,1,1
+15948,Engine Oil - 5W30,1,1
+15948,Front Brake pad,1,1
+15948,Oil Filter,1,1
+15948,Air Filter,1,1
+15962,AC Filter,1,1
+16030,Coolant Red,1,1
+16030,Coolant Blue,1,1
+16030,Coolant Green,1,1
+16029,Brake Oil,1,1
+16029,Dot 4(500ml),1,1
+16195,Engine Oil - Taxi Special - 5W30 (209L),1,1
+15952,Thermostat Housing,1,1
+15951,Oil Cap,1,1
+15950,Brake Disc,1,1
+15953,Clutch Kit (Disc+Pressure Plate),1,1
+15993,Bumper - Front,1,1
+15993,Bumper - Rear,1,1
+15993,Bonnet Patti,1,1
+15959,Fender Liner Clip,1,1
+15959,Lhs Fender Lining,1,1
+15964,Bumper - Front,1,1
+15964,Front Wheel Arch Cladding Left,1,1
+16238,Front Bumper Bracket Left,1,1
+16238,Front Bumper Bracket Right,1,1
+16238,Front Windshield,1,1
+16238,Front Bumper Upper Grill,1,1
+16238,Fender Liner - L/H Front,1,1
+15957,Coolant Tank,1,1
+15955,Crankshaft Pulley,1,1
+15955,Plug,1,1
+15955,Egr Gasket,1,1
+15991,Bumper - Front,1,1
+16002,Fender Liner - R/H Front,1,1
+16002,Fender - R/H Front,1,1
+16002,Fender Liner Clip,1,1
+15981,Link Rod,1,1
+15981,Ball Joint,1,1
+15981,Front Brake pad,1,1
+15981,Rear Brake Shoe Set,1,1
+15981,Rear Shock Absorber,1,1
+15981,Front Suspension Strut Assy - LH/RH,1,1
+15981,Tie Rod End Set,1,1
+15981,Shock Absorber Mount,1,1
+15981,Front Strut Bush Kit,1,1
+15974,Bonnet Assy Stay Rod,1,1
+15965,Fender - L/H Front,1,1
+15965,Front Fender Lining - RH,1,1
+15965,Front Fender Lining - LH,1,1
+15965,Bumper - Front,1,1
+15965,Front Bumper Bracket Left,1,1
+15965,Front Bumper Bracket Right,1,1
+15965,Mud Flap Set,1,1
+15965,Gear Lever Boot,1,1
+15965,Rear Bumper Bracket - RH,1,1
+15965,Rear Bumper Bracket - LH,1,1
+15973,Front Wheel Bearing,1,1
+15973,Tensioner Bearing,1,1
+15987,Timing Kit Packing,1,1
+16011,Rear Door Rear Inner Garnish - RH,1,1
+15986,Latch Assy - Front Door,1,1
+15986,Right,1,1
+15971,Steering Box,1,1
+15971,Balance Rod Bush,1,1
+15971,Top Strut Mounting,1,1
+15969,Hose Pipe,1,1
+15976,Oil Sump Packing,1,1
+15976,Oil Seal Crank Shaft,1,1
+15976,Chain Timing,1,1
+15976,Timing Chain Guide,1,1
+15976,Timing Chain Tensioner Lever,1,1
+15972,Rear Tail Lamp - LH,1,1
+15975,Oil Filter,1,1
+15975,Air Filter,1,1
+15978,AC Cooling Module Assy,1,1
+15977,Coolant Elbow,1,1
+15982,Tensioner Bearing,1,1
+15982,Auto Tensioner Assy,1,1
+15979,Power Window Switch,1,1
+15983,Lower Arm,1,1
+15984,Clutch Kit (Disc+Pressure Plate),1,1
+15984,Clutch Release Bearing,1,1
+15984,Clutch Cable,1,1
+15984,Air Filter,1,1
+15996,Clutch Release Bearing,1,1
+16035,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+15985,Brake Master Cylinder,1,1
+15998,AC Cooling Module Assy,1,1
+16003,Petrol Pipe,1,1
+15997,Front Bumper,1,1
+15997,Front Fender - LH,1,1
+15997,Head Lamp - LH,1,1
+15997,Front Bumper Lower,1,1
+15997,Front Wheel Arch Cladding - LH,1,1
+15997,Front Fender Lining - LH,1,1
+15997,Front Bumper Bracket - RH,1,1
+15997,Front Bumper Bracket - LH,1,1
+15995,Ac Control Unit,1,1
+16015,Radiator,1,1
+16015,AC Condenser,1,1
+16015,Intercooler,1,1
+16015,Radiator Frame,1,1
+16015,Radiator Fan Assy,1,1
+16004,Front Door - LH,1,1
+15989,Rear Propellor Shaft,1,1
+15994,Front Mud Flap Set,1,1
+15988,Oil Filter,1,1
+15990,Oil Filter,1,1
+15992,Lower Ball Joint,1,1
+15992,Lower Control Arm Bush,1,1
+16016,Head Lamp - RH,1,1
+16007,Front Bumper,1,1
+16007,Front Bumper Bracket - LH,1,1
+16007,Front Bumper Bracket - RH,1,1
+16007,Fog Lamp Cover - LH,1,1
+16018,Head Lamp - RH,1,1
+16005,Front Fender Lining - RH,1,1
+16005,Front Fender Lining - LH,1,1
+16000,Mirror Assy - RH,1,1
+15999,Lower Arm,1,1
+15999,Tie Rod End,1,1
+15999,Rear Shock Absorber - LH/RH,1,1
+15999,Front Strut Bush Kit,1,1
+15999,Front Suspension Strut Mount,1,1
+15999,Front Stabilizer Link - LH/RH,1,1
+15999,Front Suspension Strut Assy - LH/RH,1,1
+15999,Ball Joint,1,1
+16145,Rear Fender Lining - LH,1,1
+16021,Front Bumper,1,1
+16021,Holder,2,1
+16021,Front Bumper - RH,1,1
+16021,Front Bumper - LH,1,1
+16021,Radiator Support Bracket Upper,1,1
+16021,Head Lamp - RH,1,1
+16021,Head Lamp - LH,1,1
+16021,Windshield Beeding,1,1
+16021,Outer Door Handle - RH,1,1
+16021,Power Window Switch,1,1
+16021,Fender Liner Clip,1,1
+16052,Front Fender Lining - RH,1,1
+16067,Front Bumper,1,1
+16067,Front Bumper Lower,1,1
+16067,Garnish,1,1
+16067,Front Bumper Lower - LH,1,1
+16067,Bumper Grill,1,1
+16067,Intercooler,1,1
+16067,Radiator,1,1
+16067,AC Condenser,1,1
+16067,Cross Member,1,1
+16527,Blower Motor Assy,1,1
+16006,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16006,Flywheel,1,1
+16010,Rear Tail Lamp - LH,1,1
+16012,Front Suspension Strut - RH,1,1
+16012,Front Suspension Strut - LH,1,1
+16012,Winding Machine,1,1
+16013,Mirror Lens - RH,1,1
+16008,AC Filter,1,1
+16008,Front Brake pad,1,1
+16008,Oil Filter,1,1
+16009,Head Lamp Wiring With Relay(X861),1,1
+16224,Front Bumper,1,1
+16224,Head Lamp - LH,1,1
+16224,Front Bumper Bracket,1,1
+16017,Brake Booster,1,1
+16014,Front Suspension Strut - LH,1,1
+16014,Front Suspension Strut - RH,1,1
+16014,Tie Rod End - LH/RH,1,1
+16023,Outer Door Handle - RH,1,1
+16019,Rear Bumper,1,1
+16019,Rear Bumper Bracket - RH,1,1
+16019,Rear Bumper Bracket - LH,1,1
+16022,Side Mirror Indicator - RH,1,1
+16024,Oil Filter,1,1
+16024,Air Filter,1,1
+16024,Front Brake pad,1,1
+16024,Rear Brake Pad,1,1
+16034,Spark Plug,1,1
+16034,Wheel Brake Cylinder,1,1
+16034,Rear - RH,1,1
+16020,Air Filter,1,1
+16026,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16032,Lower Arm,1,1
+16032,Shock Absorber Strut,1,1
+16032,Rear Shock Absorber,1,1
+16032,Brake Shoe,1,1
+16032,Rear Wiper Blade,1,1
+16032,Rear Outer Door Handle,1,1
+16032,Gear Leaver,1,1
+16032,Belt,1,1
+16032,Caliper Pin 1,1,1
+16032,Oil Filter,1,1
+16032,Air Filter,1,1
+16032,Timing Kit Packing,1,1
+16027,Head Lamp - RH,1,1
+16027,Head Lamp - LH,1,1
+16050,Oil Pump,1,1
+16050,Glove Box Lock,1,1
+16043,Front Shock Absorber,1,1
+16043,Shock Absorber Mount,1,1
+16043,Rear Shock Absorber,1,1
+16043,Stablizer Bar Bushes,1,1
+16043,Steering Assy,1,1
+16033,Clutch Cable,1,1
+16396,Front Bumper,1,1
+16398,Front Bumper Upper Grill,1,1
+16398,Front Wheel Arch Cladding - RH,1,1
+16398,Front Wheel Arch Cladding - LH,1,1
+16047,Front Wheel Bearing,1,1
+16045,Wheel Cap,1,1
+16068,Gear Leaver,1,1
+16038,Wiper Motor & Link Set,1,1
+16036,Front Bumper,1,1
+16040,Tensioner Assy,1,1
+16037,Engine Oil - HX5 - 15W40 (3.5L),1,1
+16037,Oil Filter,1,1
+16037,Air Filter,1,1
+16037,AC Filter,1,1
+16037,Fuel Filter,1,1
+16037,Drain Nut,1,1
+16037,Oil Filter Cap,1,1
+16039,Wheel Brake Cylinder,2,1
+16039,Rear - RH,1,1
+16039,Rear - LH,1,1
+16039,Oil Filter,1,1
+16039,Rear Wheel Bearing,1,1
+16041,Clutch Kit (Disc+Pressure Plate),1,1
+16041,Clutch Release Bearing,1,1
+16111,Lower Arm - RH,1,1
+16044,Water Pump,1,1
+16044,Clutch Kit (Disc+Pressure Plate),1,1
+16044,Clutch Release Bearing,1,1
+16044,Lower Arm - LH,1,1
+16086,Seat Belt,1,1
+16086,Shock Absorber Mount,1,1
+16071,Front Bumper Upper Grill,1,1
+16057,Clutch Kit (Disc+Pressure Plate),1,1
+16057,Clutch Release Bearing,1,1
+16057,Clutch Slave Cylinder,1,1
+16049,Front Bumper Bracket - LH,1,1
+16049,Front Bumper,1,1
+16048,Wiper Blade 12,1,1
+16048,Wiper Blade 26,1,1
+16048,Wiper Blade 13,1,1
+16048,Wiper Blade 14,1,1
+16048,Wiper Blade 16,1,1
+16048,Wiper Blade 17,1,1
+16048,Wiper Blade 21,1,1
+16048,Wiper Blade 22,1,1
+16048,Wiper Blade 24,1,1
+16051,Thermostat Housing,1,1
+16062,Front Bumper,1,1
+16053,Clutch Release Bearing,1,1
+16053,Clutch Kit (Disc+Pressure Plate),1,1
+16053,Clutch Cable,1,1
+16056,Wiper Tank,1,1
+16056,Front Fender Lining - RH,1,1
+16056,Mirror Lens Right,1,1
+16056,Fender Indicator - RH,1,1
+16055,Rear Mud Flap - LH,1,1
+16054,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16159,Sensor,1,1
+16064,Rear Shock Absorber - LH,1,1
+16064,Rear Shock Absorber - RH,1,1
+16060,Cap,1,1
+16060,Mirror Assy - RH,1,1
+16060,Fender Indicator - RH,1,1
+16059,Ac Heater Coil,1,1
+16140,Head Lamp - LH,1,1
+16140,Front Bumper,1,1
+16140,Front Bumper Bracket Left,1,1
+16140,Front Fender - LH,1,1
+16140,Fender Lining,1,1
+16128,Rear Wheel Arch Cladding - LH,1,1
+16070,Rear Bumper,1,1
+16070,Front Bumper,1,1
+16070,Front Fender Lining - RH,1,1
+16070,Front Fender Lining - LH,1,1
+16070,Rear Fender Lining - RH,1,1
+16070,Emblem(S),1,1
+16070,Emblem (Vdi),1,1
+16070,Weatherstrip,3,1
+16070,Rear Door - RH,1,1
+16070,Front Door - LH,1,1
+16070,Front Door - RH,1,1
+16070,Towing cap,1,1
+16063,Rear Brake Shoe Set,1,1
+16058,Rear Bumper,1,1
+16058,Holder,1,1
+16058,Rear Bumper Side Right,1,1
+16170,Ac Control Unit,1,1
+16061,Oil Seal,1,1
+16131,Interior Rear View Mirror,1,1
+16065,Front Brake Disc,1,1
+16065,Lower Arm - LH,1,1
+16065,Lower Arm - RH,1,1
+16065,Front Stabilizer Link Set,1,1
+16065,Front Fog Lamp - LH,1,1
+16066,AC Cooling Module Assy,1,1
+16085,Air Filter,1,1
+16079,Clip,1,1
+16072,Oil Filter,1,1
+16072,Air Filter,1,1
+16072,Fuel Filter,1,1
+16072,Front Stabilizer Link - LH/RH,1,1
+16083,Emblem Kit,1,1
+16073,Front Bumper,1,1
+16069,Fuel Filter Assy,1,1
+16093,Holder,1,1
+16093,Front Bumper - RH,1,1
+16093,Front Fender - RH,1,1
+16096,Head Lamp - RH,1,1
+16096,Front Bumper,1,1
+16096,Front Fender Lining - RH,1,1
+16096,Head Lamp - LH,1,1
+16074,Caliper,1,1
+16074,Bolt,1,1
+16074,Wheel Nut,1,1
+16074,Fog Lamp Cover - RH,1,1
+16077,Gear Shifter Cable,1,1
+16081,Holder,1,1
+16081,Front Bumper - LH,1,1
+16076,Fuel Filter,1,1
+16075,Air Filter,1,1
+16078,Mirror Assy - LH,1,1
+16097,Pipe,1,1
+16080,Oil Cooler,1,1
+16084,Ignition Coil,1,1
+16082,AC Gas - 450G,1,1
+16176,Wiper Blade,1,1
+16176,Mud Flap Set,1,1
+16089,Front Brake pad,1,1
+16089,AC Filter,1,1
+16099,Rear Brake Shoe Set,1,1
+16099,Front Indicator Lens - RH,1,1
+16099,Inner Door Handle - RH,1,1
+16088,Air Filter,1,1
+16100,Engine Oil - Taxi Special - 5W30 (209L),1,1
+16090,Mirror Assy - RH,1,1
+16092,Radiator Fan Assy,1,1
+16094,Cap,1,1
+16094,Belt,1,1
+16087,Rear Bumper,1,1
+16095,Radiator Shroud,1,1
+16091,Oil Filter,1,1
+16107,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16293,Chrom Top Grill,1,1
+16293,Head Lamp - LH,1,1
+16293,Front Bumper Lower,1,1
+16293,Radiator Support Bracket Upper,1,1
+16113,Air Filter,1,1
+16108,Oil Filter,1,1
+16098,Fog Lamp Set,1,1
+16102,Front Fender - LH,1,1
+16102,Head Lamp - LH,1,1
+16115,Lower Arm Set,1,1
+16115,Front Shock Absorber,1,1
+16115,Shock Absorber Strut Kit,1,1
+16115,Front Suspension Strut Mount,1,1
+16115,Balance Rod Bush,1,1
+16115,Front Stabilizer Link - LH/RH,1,1
+16103,Tie Rod End,1,1
+16112,Front Brake pad,1,1
+16106,Pipe,1,1
+16105,Power Steering Motor Assy,1,1
+16101,Holder,1,1
+16101,Front Bumper - RH,1,1
+16104,Crankshaft Sensor,1,1
+16305,Mirror Lens - RH,1,1
+16121,Mirror Cap,1,1
+16109,Air Filter,1,1
+16110,Air Filter,1,1
+16118,Mirror Assy - RH,1,1
+16119,Rear Tail Lamp - RH,1,1
+16124,Air Filter,1,1
+16124,Rear Tail Lamp - RH,1,1
+16124,Rear Tail Lamp - LH,1,1
+16124,AC Filter,1,1
+16160,Rear Power Window Regulator - RH,1,1
+16122,Front Brake pad,1,1
+16122,Seal,1,1
+16122,Diff Side Oil - LH,1,1
+16123,Front Brake pad,1,1
+16123,Seal,1,1
+16123,Diff Side Oil - LH,1,1
+16114,Rear Tail Lamp - RH,1,1
+16116,Front Suspension Strut - RH,1,1
+16116,Front Suspension Strut - LH,1,1
+16116,Lower Arm,1,1
+16117,Air Filter,1,1
+16117,Brake Light Switch,1,1
+16158,Valve Door Gasket,1,1
+16158,Weatherstrip,1,1
+16158,Rear Door Outer - RH,1,1
+16132,Front Bumper,1,1
+16120,Rear Tail Lamp - RH,1,1
+16125,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16125,Clutch Cable,1,1
+16125,Gear Oil 1L,1,1
+16126,Gear Leaver Knob,1,1
+16139,Front Bumper Upper Grill,1,1
+16139,Front Bumper Lower Grill,1,1
+16139,Fog Lamp Cover - RH,1,1
+16139,Bush,1,1
+16139,Front Fender Lining - RH,1,1
+16141,Controller Assy,1,1
+16141,Epi -A/C,1,1
+16133,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16133,Ball Joint,1,1
+16133,Tie Rod End Set,1,1
+16133,Oil Seal,1,1
+16133,Front Stabilizer Link Set,1,1
+16148,Fender Lining,1,1
+16135,AC Filter,1,1
+16135,Glass,1,1
+16136,AC Filter,1,1
+16136,Glass,1,1
+16130,Alternator Belt,1,1
+16129,Member Front Side,1,1
+16134,Clutch Kit (Disc+Pressure Plate),1,1
+16134,Clutch Release Bearing,1,1
+16134,Clutch Cable,1,1
+16205,Front Wheel Arch Cladding - RH,1,1
+16205,Indicator Front - RH,1,1
+16210,Rear Bumper,1,1
+16138,Front Wheel Bearing,1,1
+16138,Wiper Tank,1,1
+16137,Front Bumper,1,1
+16246,Wheel Cap,1,1
+16246,Air Duct Assy - RH,1,1
+16246,Rear Bumper Rail,1,1
+16142,Front Brake pad,1,1
+16142,Rear Brake Disc,1,1
+16142,Front Stabilizer Link - LH/RH,1,1
+16142,Lower Arm,1,1
+16142,Balance Rod Bush,1,1
+16142,Front Fog Lamp - LH,1,1
+16143,Rear Bumper,1,1
+16143,Rear Bumper Bracket - LH,1,1
+16143,Rear Bumper Bracket - RH,1,1
+16143,Rear Fender Lining - RH,1,1
+16149,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16528,Gear Oil 1L,1,1
+16144,Logo,1,1
+16270,Mirror Assy - RH,1,1
+16270,Running Board - RH,1,1
+16147,Rear Bumper,1,1
+16147,Rear Tail Lamp - LH,1,1
+16146,Weatherstrip,1,1
+16146,Front Door Outer - RH,1,1
+16154,Coolant Tank,1,1
+16155,Coolant Red,1,1
+16151,Front Shock Absorber,1,1
+16151,Rear Shock Absorber,1,1
+16151,Front Strut Bush Kit,1,1
+16151,Front Suspension Strut Mount,1,1
+16150,Gear Shifter/Selector Cable,1,1
+16185,Front Fender - LH,1,1
+16193,Rear Windshield,1,1
+16266,Radiator,1,1
+16266,AC Condenser,1,1
+16174,Rear Wheel Arch Cladding - RH,1,1
+16152,Front Wheel Bearing,1,1
+16153,Rear Wheel Bearing,1,1
+16153,Rear Wheel Brake Cylinder,1,1
+16156,Logo,1,1
+16184,Front Brake pad,1,1
+16200,Timing Chain,1,1
+16157,Idler Arm,1,1
+16157,Steering Box,1,1
+16157,Belt,1,1
+16157,Gear Lever Bush,1,1
+16157,Front Mud Flap Set,1,1
+16157,Rear Mud Flap Set,1,1
+16190,Cylinder Head Gasket,1,1
+16162,Front Bumper,1,1
+16162,Front Fender - LH,1,1
+16162,Front Bumper Bracket - LH,1,1
+16162,Bumper Grill,1,1
+16162,Wheel Cap,1,1
+16189,Gasket,1,1
+16189,Cylinder Head Cover,1,1
+16165,Lower Arm - LH,1,1
+16165,Front Stabilizer Link - LH,1,1
+16161,Steering Assy,1,1
+16164,Glow Plug,1,1
+16168,Front Stabilizer Link - LH,1,1
+16168,Front Shock Absorber,1,1
+16233,Glass Run Rear Door,1,1
+16234,Quarter Panel Glass - LH Front,1,1
+16175,Mirror Lens - LH,1,1
+16199,Fuel Main Hose,1,1
+16166,Front Fender Lining - LH,1,1
+16178,Rear Bumper,1,1
+16178,Rear Bumper Bracket - LH,1,1
+16178,Rear Tail Lamp - LH,1,1
+16173,Hose,1,1
+16172,Front Fender Lining - LH,1,1
+16172,Front Fender Lining - RH,1,1
+16196,Mirror Assy - RH,1,1
+16203,Mirror Cap,1,1
+16167,Front Fender - RH,1,1
+16167,Front Fender - LH,1,1
+16285,Wiper Tank,1,1
+16169,Head Light Bracket - RH,1,1
+16169,Head Light Bracket - LH,1,1
+16171,Cap,1,1
+16177,Run Front Door Glass - LH,1,1
+16235,Glass Run Rear Door,1,1
+16182,Clutch Master Cylinder,1,1
+16183,Wheel Nut,1,1
+16183,Belt,1,1
+16183,Front Wheel Bearing,1,1
+16179,Power Window Switch,1,1
+16192,Sensor,1,1
+16180,Seat Belt,1,1
+16180,Front Mud Flap Set,1,1
+16181,Mount,1,1
+16181,Radiator Support Lower,1,1
+16211,Front Brake pad,1,1
+16213,Air Filter,1,1
+16213,Oil Filter,1,1
+16213,Front Fender - LH,1,1
+16191,Front Brake pad,1,1
+16212,Rear Bumper Bracket - LH,1,1
+16212,AC Filter,1,1
+16286,Wheel Arch Front - LH,1,1
+16286,Rear Wheel Arch Cladding - LH,1,1
+16286,Rear Door - LH,1,1
+16304,Dicky Panel,1,1
+16304,Rear Bumper,1,1
+16304,Holder,2,1
+16304,Rear Bumper Side - RH,1,1
+16304,Rear Bumper Side - LH,1,1
+16304,Rear Tail Lamp - LH,1,1
+16304,Rear Tail Lamp - RH,1,1
+16304,Hinge Rear Door Slide - LH,1,1
+16304,Hinge Rear Door Slide - RH,1,1
+16304,Panel Assy -Tail Gate Trim,1,1
+16188,Bonnet Assy Release Cable,1,1
+16187,Mount,1,1
+16187,Radiator Support Lower,1,1
+16186,AC Gas - 450G,1,1
+16289,Alternator Assy,1,1
+16239,Shock Absorber,1,1
+16239,Head Lamp - RH,1,1
+16239,Bumper Grill,1,1
+16194,Front Brake pad,1,1
+16194,Oil Filter,1,1
+16194,Air Filter,1,1
+16194,Coolant Blue,1,1
+16220,Holder,1,1
+16220,Front Bumper - LH,1,1
+16221,Front Bumper,1,1
+16197,Mirror Assy - RH,1,1
+16202,Clutch Master Cylinder,1,1
+16202,Clutch Kit (Disc+Pressure Plate),1,1
+16202,Clutch Release Bearing,1,1
+16201,Tie Rod End - LH/RH,1,1
+16216,Clutch Kit (Disc+Pressure Plate),1,1
+16216,Air Filter,1,1
+16216,Rear Propellor Shaft,1,1
+16277,Mirror Assy - LH,1,1
+16198,Petrol Pipe,1,1
+16204,Rear Shock Absorber,1,1
+16249,Radiator Fan Motor,1,1
+16249,Accelerator Cable,1,1
+16206,Wiper Blade 16,1,1
+16206,Wiper Blade 18,1,1
+16206,Wiper Blade 19,1,1
+16206,Wiper Blade 20,1,1
+16206,Wiper Blade 21,1,1
+16206,Wiper Blade 24,1,1
+16206,Wiper Blade 22,1,1
+16206,Coolant Green,1,1
+16247,Mirror Lens - LH,1,1
+16207,Front Power Window Regulator - RH,1,1
+16208,Fender Liner Clip,1,1
+16209,Horn,1,1
+16214,Wiper Blade 21,1,1
+16214,Wiper Blade 12,1,1
+16281,Rear Door - RH,1,1
+16225,Fog Lamp Cover - RH,1,1
+16225,Garnish Fog Lamp Assy Bezel - RH,1,1
+16219,Engine Control Module [ECM],1,1
+16222,Door Window Regulator,1,1
+16222,Run Front Door Glass - RH,1,1
+16218,Relay,1,1
+16223,Fuel Lid Opener,1,1
+16217,Front Fender Lining - RH,1,1
+16217,Fender Liner Clip,1,1
+16232,Fender Liner Clip,1,1
+16215,Front Fender Lining - LH,1,1
+16215,Rear Bumper Bracket - LH,1,1
+16215,Quarter Panel Rear - RH,1,1
+16215,Fender Liner Clip,1,1
+16365,Steering Assy,1,1
+16365,Front Shock Absorber,1,1
+16365,Balance Rod,1,1
+16365,Balance Rod Bush,1,1
+16365,Lower Arm,1,1
+16365,Oil Sump Packing,1,1
+16261,Rear Bumper Rail,1,1
+16261,Rear Bumper Bracket - LH,1,1
+16331,Cylinder Head Gasket,1,1
+16226,Front Suspension Strut Mount,1,1
+16229,Silencer,1,1
+16227,Oil Seal,1,1
+16228,Horn,1,1
+16231,Engine Oil - 5W30,1,1
+16230,Thermostat Housing,1,1
+16237,Rear Wiper Blade With Arm,1,1
+16244,Side Mirror Indicator - RH,1,1
+16245,Indicator Assly,1,1
+16248,Balance Rod Bush,1,1
+16248,Front Stabilizer Link Set,1,1
+16248,Tie Rod End Set,1,1
+16248,Ball Joint Set,1,1
+16248,Front Control Arm Bush Kit,1,1
+16248,Caliper,1,1
+16248,Lower Ball Joint - LH,1,1
+16248,Lower Ball Joint - RH,1,1
+16248,Air Filter,1,1
+16248,Oil Filter,1,1
+16248,Front Brake pad,1,1
+16241,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16251,Engine Oil - Taxi Special - 5W30 (209L),1,1
+16240,Seat Belt,1,1
+16236,Front Shock Absorber,1,1
+16236,Rear Tail Lamp - RH,1,1
+16250,Rear Tail Lamp - RH,1,1
+16875,Inner Door Handle,1,1
+16243,Clutch Kit (Disc+Pressure Plate),1,1
+16243,Clutch Release Bearing,1,1
+16242,Silencer,1,1
+16252,Steering Box,1,1
+16262,Radiator Fan Motor,1,1
+16264,Front Brake pad,1,1
+16264,Front Brake Disc,1,1
+16255,Clutch Kit (Disc+Pressure Plate),1,1
+16255,Clutch Cable,1,1
+16255,Clutch Release Bearing,1,1
+16256,Clutch Kit (Disc+Pressure Plate),1,1
+16256,Clutch Release Bearing,1,1
+16254,Clutch Kit (Disc+Pressure Plate),1,1
+16254,Clutch Cable,1,1
+16254,Clutch Release Bearing,1,1
+16257,Outer Door Handle - RH,1,1
+16258,Dicky Shocks,1,1
+16260,Clutch Release Bearing,1,1
+16260,Clutch Kit (Disc+Pressure Plate),1,1
+16259,Oil Filter,1,1
+16278,Brake Booster And Tandem Master Cylinder,1,1
+16349,Brake Master Cylinder,1,1
+16267,Lower Arm,1,1
+16267,Front Stabilizer Link Set,1,1
+16267,Front Suspension Strut Mount,1,1
+16267,Front Suspension Strut Bush Kit,1,1
+16267,Ball Joint,1,1
+16267,Tie Rod End,1,1
+16265,Rear Bumper,1,1
+16265,Rear Bumper Bracket - LH,1,1
+16265,Rear Bumper Bracket - RH,1,1
+16263,Front Fender - LH,1,1
+16263,Head Lamp - LH,1,1
+16263,Moulding,1,1
+16273,Front Bumper,1,1
+16273,Holder,2,1
+16273,Front Bumper - RH,1,1
+16273,Front Bumper - LH,1,1
+16290,Front Bumper,1,1
+16290,Front Bumper Bracket - RH,1,1
+16290,Head Lamp - RH,1,1
+16268,Clutch Kit (Disc+Pressure Plate),1,1
+16268,Clutch Release Bearing,1,1
+16269,Member Front Side - LH,1,1
+16269,Member Front Side - RH,1,1
+16269,Cross Member,1,1
+16271,Head Lamp - RH,1,1
+16271,Head Lamp - LH,1,1
+16272,Sash Comp Rear Door - LH,1,1
+16274,Rear Door - LH,1,1
+16274,Rear Outer Door Handle - LH,1,1
+16274,Door Beeding,1,1
+16275,Front Brake Disc,1,1
+16275,Front Brake pad,1,1
+16275,Steering Box,1,1
+16275,Lower Arm,1,1
+16275,Air Filter,1,1
+16275,Fender Lining,1,1
+16276,Interior Rear View Mirror,1,1
+16315,Front Bumper Lower Grill,1,1
+16288,Power Window Switch,1,1
+16279,Power Window Switch,1,1
+16319,Air Filter,1,1
+16282,Engine Oil - 5W30,1,1
+16291,Power Window Switch,1,1
+16295,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16280,Steering Box,1,1
+16442,Hand Brake Lever,1,1
+16442,Gear Leaver Knob,1,1
+16284,Front Drive Shaft - RH,1,1
+16283,Front Bumper,1,1
+16296,Switch Assy,1,1
+16296,Control,1,1
+16287,Mirror Assy - RH,1,1
+16300,Rear Bumper,1,1
+16300,Rear Bumper Bracket - LH,1,1
+16300,Rear Tail Lamp - LH,1,1
+16320,Window Regulator Without Motor,1,1
+16302,Engine Oil - HX6 - 5W30 (209L),1,1
+16294,Front Fog Lamp Cover,1,1
+16323,Clip,1,1
+16337,Mirror Lens - LH,1,1
+16405,Mirror Cap - LH,1,1
+16313,Speedometer Assy,1,1
+16306,Sensor,1,1
+16297,Thermostat Housing,1,1
+16297,Air Filter,1,1
+16346,Rear Bumper,1,1
+16292,Front Brake Disc,1,1
+16298,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16299,Clutch Cable,1,1
+16301,Air Filter Assy,1,1
+16301,Volve Door Packing,1,1
+16301,Spark Plug Set Of 4,1,1
+16301,Door Beeding,1,1
+16301,Front Glass Channel,1,1
+16301,Air Filter,1,1
+16301,Oil Filter,1,1
+16314,Front Bumper Upper Grill,1,1
+16314,Front Bumper Lower Grill,1,1
+16324,Tyre,1,1
+16308,Timing Kit,1,1
+16311,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16303,Mirror Assy - RH,1,1
+16303,Moulding,1,1
+16309,Front Shock Absorber,1,1
+16310,Front Suspension Strut Mount - LH,1,1
+16310,Front Suspension Strut Mount - RH,1,1
+16310,Front Stabilizer Link - LH/RH,1,1
+16310,Lower Arm - LH,1,1
+16310,Lower Arm - RH,1,1
+16310,Brake Shoe,1,1
+16466,Transmission Oil,1,1
+16316,Power Steering Motor Assy,1,1
+16312,Mirror Assy - RH,1,1
+16347,Windshield Beeding,1,1
+16307,Gear Shift Control Lever,1,1
+16321,Lower Arm,1,1
+16321,Ball Joint,1,1
+16321,Dicky Shocks,1,1
+16335,Bonnet Hinge Assy - LH,1,1
+16335,Bonnet Hinge Assy - RH,1,1
+16335,Front Glass Bottom Channel,1,1
+16335,Rear Power Window Regulator - RH,1,1
+16335,Rear Glass Channel - RH,1,1
+16335,Lock,1,1
+16336,Bonnet Hinge Assy - LH,1,1
+16336,Bonnet Hinge Assy - RH,1,1
+16336,Front Glass Bottom Channel,1,1
+16336,Rear Power Window Regulator - RH,1,1
+16336,Rear Glass Channel - RH,1,1
+16336,Lock,1,1
+16406,Hood Latch,1,1
+16406,Door Hinge - LH,1,1
+16317,Clutch Kit (Disc+Pressure Plate),1,1
+16317,Clutch Release Bearing,1,1
+16317,Clutch Cable,1,1
+16491,Clutch Kit (Disc+Pressure Plate),1,1
+16491,Clutch Release Bearing,1,1
+16513,Shock Absorber Strut,1,1
+16513,Lower Arm Set,1,1
+16513,Front Stabilizer Link - LH/RH,1,1
+16513,Ball Joint Set,1,1
+16513,Stabilizer Rod Bush Kit,1,1
+16737,Head Lamp - RH,1,1
+16737,Head Lamp - LH,1,1
+16737,Rear Tail Lamp - LH/RH,1,1
+16318,Rear Bumper Bracket - LH,1,1
+16318,Rear Bumper Bracket - RH,1,1
+16356,Alternator Belt,1,1
+16326,Engine Oil - HX6 - 5W30 (209L),1,1
+16322,Lower Arm,1,1
+16407,Front Door - RH,1,1
+16325,Engine Oil - Taxi Special - 5W30 (209L),1,1
+16333,Front Shock Absorber,1,1
+16327,Engine Oil - Taxi Special - 5W30 (209L),1,1
+16328,Axle Seal,1,1
+16388,Coolant Tank,1,1
+16329,Front Brake pad,1,1
+16363,Front Outer Door Handle - RH,1,1
+16363,Rear Outer Door Handle - LH,1,1
+16341,Fuel Injector Controller,1,1
+16385,Front Bumper,1,1
+16332,Radiator Fan Motor,1,1
+16330,Front Shock Absorber,1,1
+16330,Rear Shock Absorber,1,1
+16330,Front Stabilizer Link - LH/RH,1,1
+16334,Air Filter,1,1
+16563,Washer,1,1
+16383,Rear Bumper,1,1
+16383,Front Fender - RH,1,1
+16339,Clutch Kit (Disc+Pressure Plate),1,1
+16340,Clutch Release Bearing,1,1
+16338,Mirror Lens - RH,1,1
+16345,Front Suspension Strut - RH,1,1
+16345,Rear Suspension Strut,1,1
+16345,Front Suspension Strut - LH,1,1
+16345,Front Suspension Strut Mount - LH,1,1
+16345,Front Suspension Strut Mount - RH,1,1
+16342,Throttle Body & Carburettor Cleaner - 100ml,1,1
+16372,Silencer,1,1
+16703,Rear Bumper,1,1
+16703,Dicky Panel,1,1
+16344,Rear Shock Absorber,1,1
+16344,Front Fender Lining - RH,1,1
+16344,Front Fender Lining - LH,1,1
+16344,Fender Liner Clip,1,1
+16343,AC Condenser,1,1
+16373,Lower Arm,1,1
+16373,Rear Stabilizer Link Set,1,1
+16373,Window Regulator With Motor,1,1
+16352,Front Stabilizer Link - LH/RH,1,1
+16352,Rear Shock Absorber,1,1
+16353,Air Filter,1,1
+16354,Dashboard,1,1
+16350,Air Filter,1,1
+16367,Cap,1,1
+16348,Air Filter,1,1
+16351,Oil Filter,1,1
+16351,Air Filter,1,1
+16351,AC Filter,1,1
+16351,Front Brake pad,1,1
+16360,Wheel Cap,1,1
+16360,Rear Tail Lamp - RH,1,1
+16357,Crankshaft Sensor,1,1
+16374,Sensor,1,1
+16404,Tensioner Bearing,1,1
+16404,Timing Kit,1,1
+16355,Mud Flap Set,1,1
+16368,Fog Lamp Set,1,1
+16359,Towing cap,1,1
+16408,Bonnet Assy,1,1
+16408,Bonnet Hinge Assy - LH,1,1
+16408,Bonnet Hinge Assy - RH,1,1
+16408,Head Lamp - LH,1,1
+16408,Head Lamp - RH,1,1
+16408,Panel,1,1
+16408,Valance,1,1
+16361,Power Steering Motor Assy,1,1
+16422,Rear Shock Absorber,1,1
+16358,Garnish Rear Quarter - RH,1,1
+16364,Front Brake pad,1,1
+16364,Front Brake Disc,1,1
+16362,Rear Outer Door Handle - LH,1,1
+16366,Lower Ball Joint - LH,1,1
+16366,Lower Ball Joint - RH,1,1
+16366,Balance Rod Bush,1,1
+16366,Shock Absorber Strut Kit,1,1
+16366,Suspension Strut Mounting,1,1
+16366,Front Suspension Strut - RH,1,1
+16366,Front Suspension Strut - LH,1,1
+16366,Front Stabilizer Link Set,1,1
+16369,Front Shock Absorber,1,1
+16369,Shock Absorber Strut Kit,1,1
+16369,Shock Absorber Mount,1,1
+16370,Oil Filter,1,1
+16371,Clutch Kit (Disc+Pressure Plate),1,1
+16371,Clutch Release Bearing,1,1
+16371,Front Bumper Lower Grill,1,1
+16375,Front Brake Disc,1,1
+16375,Front Brake pad,1,1
+16375,Oil Filter,1,1
+16375,Air Filter,1,1
+16375,Front Wheel Bearing,1,1
+16375,Rear Axle,1,1
+16375,Volve Door Packing,1,1
+16375,Spark Plug Set Of 4,1,1
+16377,Rear Tail Lamp - LH,1,1
+16380,Rear Bumper,1,1
+16379,Front Fog Lamp - RH,1,1
+16379,Front Fender Lining - RH,1,1
+16379,Front Bumper,1,1
+16379,Fender Liner Clip,1,1
+16389,Splash Guard Front Bumper,1,1
+16378,Steering Assy,1,1
+16376,Wiper Blade 22,1,1
+16376,Wiper Blade 24,1,1
+16376,Wiper Blade 16,1,1
+16376,Wiper Blade 14,1,1
+16376,Wiper Blade 12,1,1
+16386,Caliper Pin,1,1
+16472,Key,1,1
+16381,Rear Windshield,1,1
+16382,Clutch Kit (Disc+Pressure Plate),1,1
+16382,Clutch Release Bearing,1,1
+16523,Front Fender Protector - RH,1,1
+16523,Front Fender Protector - LH,1,1
+16387,AC Filter,1,1
+16387,Oil Filter,1,1
+16387,Air Filter,1,1
+16387,Front Fender Lining - RH,1,1
+16387,Bulb,1,1
+16384,Mirror Assy - RH,1,1
+16391,Ignition Coil,1,1
+16390,Moulding Assy -Side Sill,1,1
+16399,Regulator Assy Front Window - LH,1,1
+16399,Hand Brake Cable,1,1
+16394,Brake Light Switch,1,1
+16392,Weatherstrip,5,1
+16392,Front Door Outer - RH,1,1
+16392,Front Door Outer - LH,1,1
+16392,Rear Door Outer - RH,1,1
+16392,Rear Door Outer - LH,1,1
+16392,Front Door Inner - RH,1,1
+16451,Head Lamp - RH,1,1
+16451,Head Lamp - LH,1,1
+16451,Front Fender Lining - LH,1,1
+16451,Mirror Assy - LH,1,1
+16451,Mirror Assy - RH,1,1
+16400,Oil Filter,1,1
+16400,Front Wheel Bearing,1,1
+16400,Rear Wheel Bearing,1,1
+16400,Wiper Nozzle,1,1
+16400,Rear Brake Pad,1,1
+16430,Rear Window Regulator Manual - LH,1,1
+16397,Rear Tail Lamp - RH,1,1
+16395,Seal,1,1
+16395,Diff Side Oil - RH,1,1
+16393,Door Beeding,1,1
+16605,Radiator,1,1
+16605,Front Bumper Lower Grill,1,1
+16605,Fender Indicator - RH,1,1
+16605,Front Wheel Arch Cladding - RH,1,1
+16401,AC Filter,1,1
+16401,Oil Filter,1,1
+16401,Air Filter,1,1
+16410,Outer Door Handle - LH,1,1
+16453,Front Fender Lining - RH,1,1
+16453,Front Fender Lining - LH,1,1
+16453,Front Bumper Center Grill,1,1
+16453,Front Bumper Lower Grill,1,1
+16453,Splash Guard Front Bumper,1,1
+16453,Gear Lever Boot,1,1
+16453,Hood Pad Insulating,1,1
+16453,Cap,1,1
+16453,Mirro Switch Assy,1,1
+16453,Ac Vent,1,1
+16454,Wiper Blade 19,1,1
+16454,Wiper Blade 16,1,1
+16455,Wiper Blade 19,1,1
+16455,Wiper Blade 16,1,1
+16402,Front Fender Lining - RH,1,1
+16419,Fog Lamp Cover - LH,1,1
+16424,Battery,1,1
+16403,Belt,1,1
+16688,Centre Ac Vent,1,1
+16412,Oil Filter,1,1
+16409,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16411,Engine Oil - HX6 - 5W30 (209L),1,1
+16414,Coolant Green,1,1
+16414,Coolant Red,1,1
+16413,Spark Plug,1,1
+16417,Head Lamp - RH,1,1
+16417,Antenna,1,1
+16439,Front Wheel Arch Cladding - RH,1,1
+16439,Front Wheel Arch Cladding - LH,1,1
+16436,Air Bag,1,1
+16436,Head Lining Roof,1,1
+16415,Front Bumper,1,1
+16415,Front Fog Lamp - LH,1,1
+16415,Fog Lamp Cover - LH,1,1
+16415,Front Fender Lining - LH,1,1
+16415,Rear Glass Bottom Channel,1,1
+16416,Front Drive Shaft - LH,1,1
+16418,Rear Bumper,1,1
+16423,Rear Tail Lamp - RH,1,1
+16440,Hood Lock,1,1
+16420,Front Suspension Strut - LH,1,1
+16421,Radiator,1,1
+16426,Clutch Cable,1,1
+16427,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16428,Dicky Shocks,1,1
+16425,Clutch Kit (Disc+Pressure Plate),1,1
+16425,Clutch Release Bearing,1,1
+16585,Brake Light Switch,1,1
+16495,Rear Wheel Arch Cladding - LH,1,1
+16495,Rear Door - LH,1,1
+16429,Interior Rear View Mirror,1,1
+16433,O2 Sensor,1,1
+16433,Exhaust Manifold Gasket,1,1
+16432,AC Filter,1,1
+16431,Rear Bumper,1,1
+16431,Rear Windshield,1,1
+16435,Engine Oil - Taxi Special - 5W30 (3.5L),1,1
+16437,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16437,Oil Filter,1,1
+16437,Air Filter,1,1
+16434,Mirror Assy - LH,1,1
+16441,Fender Liner Clip,1,1
+16441,Front Fender Lining - LH,1,1
+16441,Front Fender Lining - RH,1,1
+16438,Rear Bumper,1,1
+16443,Upper Arm,1,1
+16526,Ignition Switch,1,1
+16452,Pipe,1,1
+16469,Front Wheel Arch Cladding - LH,1,1
+16553,Caliper Pin,1,1
+16554,Caliper Pin,1,1
+16555,Caliper Pin,1,1
+16444,Oil Filter,1,1
+16446,Rear Bumper,1,1
+16446,Rear Bumper Bracket - LH,1,1
+16446,Rear Tail Lamp - LH,1,1
+16694,Water Temperature Sensor,1,1
+16694,Cooling Fan Pulley,1,1
+16694,Inlet Separator Hose,1,1
+16508,Radiator Upper Grille,1,1
+16508,Quarter Panel Rear - RH,1,1
+16508,Rear Door - RH,1,1
+16508,Rear Bumper,1,1
+16508,Rear Bumper Bracket - RH,1,1
+16508,Front Bumper,1,1
+16508,Front Bumper Bracket - LH,1,1
+16508,Front Bumper Bracket - RH,1,1
+16508,Front Fender - LH,1,1
+16509,Radiator Upper Grille,1,1
+16509,Quarter Panel Rear - RH,1,1
+16509,Rear Door - RH,1,1
+16509,Rear Bumper,1,1
+16509,Rear Bumper Bracket - RH,1,1
+16509,Front Bumper,1,1
+16509,Front Bumper Bracket - LH,1,1
+16509,Front Bumper Bracket - RH,1,1
+16509,Front Fender - LH,1,1
+16445,Dicky Shocks,1,1
+16447,Wiper Blade 16,1,1
+16447,Coolant Red,1,1
+16448,Front Bumper Upper Grill,1,1
+16450,Oil Filter,1,1
+16450,Air Filter,1,1
+16450,AC Filter,1,1
+16449,Oil Filter,1,1
+16457,Headlight Bulb,1,1
+16479,Dicky Shocks,1,1
+16479,Weatherstrip,1,1
+16479,Front Door Outer - RH,1,1
+16573,Oxygen Sensor,1,1
+16463,Front Bumper,1,1
+16463,Head Lamp - LH,1,1
+16463,Front Bumper Bracket - LH,1,1
+16463,Front Bumper Bracket - RH,1,1
+16463,Front Fender - LH,1,1
+16463,Front Fender Lining - LH,1,1
+16463,Fog Lamp Cover - LH,1,1
+16463,Engine Cover,1,1
+16463,Front Stabilizer Link - LH,1,1
+16463,Lower Arm - LH,1,1
+16456,Rear Brake Shoe Set,1,1
+16465,Belt,1,1
+16458,Lower Control Arm Bush,1,1
+16458,Front Stabilizer Link - LH/RH,1,1
+16458,Front Brake pad,1,1
+16471,Front Windshield,1,1
+16471,Windshield Beeding,1,1
+16645,Indicator Front - RH,1,1
+16459,Front Brake pad,1,1
+16459,AC Filter,1,1
+16459,Air Filter,1,1
+16459,Oil Filter,1,1
+16461,Balance Rod Bush,1,1
+16461,Engine Mounting Pad - C,1,1
+16460,AC Gas - 450G,1,1
+16464,Steering Box,1,1
+16504,Clip,1,1
+16504,Front Fender Lining - RH,1,1
+16504,Front Bumper,1,1
+16492,Engine Compartment Wiring Harness,1,1
+16492,Mirror Assy - LH,1,1
+16492,Cover Rear Window Lock - RH,1,1
+16492,Cover Rear Window Lock - LH,1,1
+16462,Front Brake pad,1,1
+16498,Front Bumper,1,1
+16498,Towing cap,1,1
+16498,Head Lamp - RH,1,1
+16498,Bonnet Assy,1,1
+16498,Front Fender - RH,1,1
+16498,Holder,1,1
+16498,Front Bumper - RH,1,1
+16478,Head Lining Roof,1,1
+16485,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16485,Clutch Master Cylinder,1,1
+16485,Clutch Slave Cylinder,1,1
+16539,Front Bumper,1,1
+16615,Holder,1,1
+16615,Front Bumper - LH,1,1
+16468,Air Filter,1,1
+16468,Front Fender Lining - LH,1,1
+16507,Monogram Set,1,1
+16507,Connector/Coolant Flange - Water Inlet,1,1
+16476,Weatherstrip,2,1
+16476,Front Door Outer - RH,1,1
+16476,Front Door Inner - RH,1,1
+16476,Mirror Assy - RH,1,1
+16476,Front Fender - RH,1,1
+16476,Front Bumper,1,1
+16556,Front Door - RH,1,1
+16477,Door Beeding,1,1
+16475,Rear Bumper,1,1
+16474,Front Bumper,1,1
+16494,Front Windshield,1,1
+16467,Air Filter,1,1
+16473,Rear Bumper,1,1
+16470,Rear Shock Absorber,1,1
+16490,Clutch Kit (Disc+Pressure Plate),1,1
+16490,Clutch Release Bearing,1,1
+16481,Oil Filter,1,1
+16481,AC Filter,1,1
+16481,Air Filter,1,1
+16482,Rear Shock Absorber,1,1
+16483,Rear Suspension Bush Kit,1,1
+16486,Lower Arm Set,1,1
+16486,Front Stabilizer Link - LH/RH,1,1
+16521,Radiator Fan Assy,1,1
+16488,Rear Bumper,1,1
+16488,Rear Bumper Bracket - LH,1,1
+16488,Rear Bumper Bracket - RH,1,1
+16488,Front Bumper Bracket - RH,1,1
+16487,Steering Box,1,1
+16484,Gear Box Beeding,1,1
+16480,Front Wheel Bearing,1,1
+16489,Brake Shoe,1,1
+16627,Air Filter,1,1
+16627,Oil Filter,1,1
+16627,V Belt,1,1
+16493,Rear Brake Shoe Set,1,1
+16493,Wheel Brake Cylinder,2,1
+16493,Rear - RH,1,1
+16493,Rear - LH,1,1
+16510,Front Brake pad,1,1
+16510,Rear Brake Pad,1,1
+16510,Oil Filter,1,1
+16510,Air Filter,1,1
+16511,Front Brake pad,1,1
+16511,Rear Brake Pad,1,1
+16511,Oil Filter,1,1
+16511,Air Filter,1,1
+16525,Rear Tail Lamp - LH,1,1
+16560,Rear Tail Lamp - RH,1,1
+16496,Front Radiator Grille,1,1
+16608,Mirror Assy - RH,1,1
+16566,Tie Rod,1,1
+16566,Front Brake pad,1,1
+16566,Oil Filter,1,1
+16566,Air Filter,1,1
+16566,Clutch Cable,1,1
+16566,Volve Door Packing,1,1
+16567,Mirror Assy - RH,1,1
+16593,Front Windshield,1,1
+16593,Windshield Beeding,1,1
+16570,Timing Belt,1,1
+16570,Tensioner Assy,1,1
+16503,Wheel Brake Cylinder,2,1
+16503,Rear - LH,1,1
+16503,Rear - RH,1,1
+16514,Belt,1,1
+16558,Belt,1,1
+16497,Oil Filter,1,1
+16497,Air Bag,1,1
+16497,AC Filter,1,1
+16497,Front Brake pad,1,1
+16497,Rear Wheel Bearing,1,1
+16501,Front Bumper,1,1
+16500,Belt,1,1
+16530,Power Window Switch,1,1
+16506,Front Shock Absorber,1,1
+16506,Front Stabilizer Link - LH/RH,1,1
+16506,Front Brake pad,1,1
+16742,Head Lamp - RH,1,1
+16499,Rear Bumper,1,1
+16499,Holder,2,1
+16499,Rear Bumper Side - RH,1,1
+16499,Rear Bumper Side - LH,1,1
+16499,Rear Tail Lamp - LH,1,1
+16529,Front Bumper,1,1
+16529,Front Bumper Bracket - LH,1,1
+16529,Front Bumper Bracket - RH,1,1
+16529,Front Outer Door Handle - LH,1,1
+16529,Front Outer Door Handle - RH,1,1
+16529,Rear Outer Door Handle - LH,1,1
+16529,Rear Outer Door Handle - RH,1,1
+16529,Air Filter,1,1
+16529,Oil Filter,1,1
+16529,Fender Liner Clip,1,1
+16529,Front Fender Lining - RH,1,1
+16529,Front Fender Lining - LH,1,1
+16512,Air Filter,1,1
+16512,Oil Filter,1,1
+16502,Power Window Switch,1,1
+16502,Oil Filter,1,1
+16502,Air Filter,1,1
+16502,AC Filter,1,1
+16502,Clutch Kit (Disc+Pressure Plate),1,1
+16502,Clutch Release Bearing,1,1
+16502,Clutch Cable,1,1
+16502,Oil Seal,1,1
+16522,Front Brake pad,1,1
+16522,Front Wiper Arm,1,1
+16522,Wheel Nut,1,1
+16522,Air Filter,1,1
+16569,Turbo Charger,1,1
+16579,Tensioner Belt,1,1
+16579,Pulley,1,1
+16517,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16517,Front Brake pad,1,1
+16517,Clutch Release Bearing,1,1
+16505,Rear Tail Lamp - LH,1,1
+16505,Rear Tail Lamp - RH,1,1
+16515,Front Shock Absorber,1,1
+16515,Lower Arm Set,1,1
+16515,Front Brake pad,1,1
+16515,Front Brake Disc,1,1
+16515,Balance Rod Bush,1,1
+16515,Hose Pipe,1,1
+16674,AC Condenser,1,1
+16674,Front Bumper,1,1
+16674,Radiator Frame,1,1
+16674,Air Filter Assy,1,1
+16674,Engine Mounting Pad - A,1,1
+16674,Front Bumper Upper Grill,1,1
+16736,Head Lamp - RH,1,1
+16736,Head Lamp - LH,1,1
+16736,Cross Member - Hood Lock,1,1
+16736,Front Fender - RH,1,1
+16736,Front Fender - LH,1,1
+16736,Bonnet Assy,1,1
+16736,Wiper Tank,1,1
+16736,Heater Inlet Hose,1,1
+16736,Radiator,1,1
+16736,Mirror Assy - RH,1,1
+16604,Fuel Lid Opener,1,1
+16518,Rear Tail Lamp - LH,1,1
+16707,Rear Shock Absorber,1,1
+16707,Rear Control Arm Bush,1,1
+16707,Rear Stabilizer Link,1,1
+16707,Upper Arm,1,1
+16707,Front - LH,1,1
+16707,Front Stabilizer Bush,1,1
+16707,Seal,1,1
+16707,Diff Side Oil - RH,1,1
+16707,Front Stabilizer Link Set,1,1
+16524,Clutch Kit (Disc+Pressure Plate),1,1
+16524,Clutch Slave Cylinder,1,1
+16934,Tensioner Bearing,1,1
+16516,Coolant Red,1,1
+16516,Wiper Blade 18,1,1
+16516,Wiper Blade 21,1,1
+16516,Wiper Blade 24,1,1
+16519,Carb & Choke Cleaner Filter Oil - 283gm,1,1
+16520,Rear Tail Lamp - RH,1,1
+16540,Towing cap,1,1
+16614,Wheel Cap,1,1
+16551,Balance Rod Bush,1,1
+16551,Rear Stabilizer Link,1,1
+16551,Tie Rod (Steering),1,1
+16559,Front Stabilizer Link - LH/RH,1,1
+16597,Wiper Tank,1,1
+16597,CV Joint,1,1
+16597,Rear Power Window Regulator - RH,1,1
+16598,Wiper Tank,1,1
+16598,CV Joint,1,1
+16598,Rear Power Window Regulator - RH,1,1
+16534,Silencer,1,1
+16549,Gear Leaver Knob,1,1
+16538,Rear Door Latch Assy - LH,1,1
+16550,Sensor,1,1
+16531,Front Brake Disc,1,1
+16536,Ac Vent,1,1
+16537,Front Brake pad,1,1
+16537,Front Brake Disc,1,1
+16541,Engine Mounting,1,1
+16541,Volve Door Packing,1,1
+16541,Tappet Cover Packing,1,1
+16541,Lower Arm,1,1
+16543,Caliper Pin,1,1
+16543,Lower Arm,1,1
+16543,Rear Shock Absorber,1,1
+16543,Valve Door Gasket,1,1
+16532,Air Filter,1,1
+16533,Belt,1,1
+16557,Engine Oil - Taxi Special - 5W30 (209L),1,1
+16571,Fuel Filter,1,1
+16535,Front Windshield,1,1
+16535,Windshield Beeding,1,1
+16542,Air Filter,1,1
+16544,Front Shock Absorber,1,1
+16544,Front Stabilizer Link - LH/RH,1,1
+16544,AC Filter,1,1
+16544,Balance Rod Bush,1,1
+16544,Shock Absorber Mount,1,1
+16546,Front Brake Disc,1,1
+16546,Lower Arm - LH,1,1
+16546,Lower Arm - RH,1,1
+16545,Shock Absorber Mount,1,1
+16548,Front Fender - LH,1,1
+16547,Spark Plug Wire,1,1
+16596,Speed Sensor,1,1
+16552,Front Bumper,1,1
+16552,Front Fog Lamp Assy,1,1
+16552,Front Fog Lamp Cover,1,1
+16552,Holder,2,1
+16552,Front Bumper - RH,1,1
+16552,Front Bumper - LH,1,1
+16552,Front Fender - RH,1,1
+16552,Mud Flap Set,1,1
+16565,Oil Filter,1,1
+16565,Air Filter,1,1
+16565,AC Filter,1,1
+16565,Brake Disc,1,1
+16565,Front Brake pad,1,1
+16565,Rear Brake Shoe Set,1,1
+16565,Headlight Bulb,1,1
+16565,Fuel Filter,1,1
+16564,Bonnet Seal,1,1
+16611,Front Bumper,1,1
+16611,Head Lamp - LH,1,1
+16611,Holder,2,1
+16611,Front Bumper - RH,1,1
+16611,Front Bumper - LH,1,1
+16611,Front Fender - LH,1,1
+16611,Indicator Front - LH,1,1
+16611,Front Fender Lining - LH,1,1
+16611,Bonnet Assy,1,1
+16611,Bonnet Hinge Assy - LH,1,1
+16611,Bonnet Hinge Assy - RH,1,1
+16611,Intercooler,1,1
+16654,Mirror Assy - RH,1,1
+16672,Front Door - RH,1,1
+16572,Mirror Assy - LH,1,1
+16575,Rear Shock Absorber,1,1
+16575,Front Shock Absorber,1,1
+16575,Lower Arm - LH,1,1
+16575,Lower Arm - RH,1,1
+16575,Fog Lamp Cover - RH,1,1
+16575,Front Stabilizer Link Set,1,1
+16581,Clutch Kit (Disc+Pressure Plate),1,1
+16581,Clutch Release Bearing,1,1
+16743,Rear Bumper,1,1
+16743,Holder,2,1
+16743,Rear Bumper Side - RH,1,1
+16743,Rear Bumper Side - LH,1,1
+16743,Rear Tail Lamp,1,1
+16743,Rear Bumper Reflector,1,1
+16743,Dicky Panel,1,1
+16743,Dicky Hinge - RH,1,1
+16743,Dicky Hinge - LH,1,1
+16743,Dicky Latch,1,1
+16743,Panel Assy -Tail Gate Trim,1,1
+16743,Logo,1,1
+16743,Dicky Emblems,1,1
+16562,Speed Sensor,1,1
+16561,Ignition Coil,1,1
+16630,Water Pump,1,1
+16630,Belt,1,1
+16568,Power Window Regulator - RH,1,1
+16582,Clip,1,1
+16576,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16574,Front Brake pad,1,1
+16578,Rear Shock Absorber,1,1
+16577,Front Fender Lining - RH,1,1
+16577,Front Fender Lining - LH,1,1
+16595,AC Hose,1,1
+16584,Front Windshield,1,1
+16584,Windshield Beeding,1,1
+16583,Lock,1,1
+16599,Seal,1,1
+16599,Diff Side Oil - LH,1,1
+16599,Brake Light Switch,1,1
+16599,Belt,1,1
+16599,Compressor,1,1
+16599,Front Stabilizer Link Set,1,1
+16580,Front Brake pad,1,1
+16580,Brake Disc,1,1
+16586,Air Filter,1,1
+16586,Oil Filter,1,1
+16586,Wheel Brake Cylinder,2,1
+16586,Rear - RH,1,1
+16586,Rear - LH,1,1
+16586,Front Brake pad,1,1
+16587,Air Filter,1,1
+16587,Oil Filter,1,1
+16587,Wheel Brake Cylinder,2,1
+16587,Rear - RH,1,1
+16587,Rear - LH,1,1
+16587,Front Brake pad,1,1
+16607,Engine Bedding,1,1
+16590,Gear Leaver Knob,1,1
+16588,Front Bumper,1,1
+16588,Mirror Assy - LH,1,1
+16588,Mirror Assy - RH,1,1
+16668,Head Lamp - RH,1,1
+17161,Fender Indicator - LH,1,1
+16589,Front Brake pad,1,1
+16589,Rear Brake Shoe Set,1,1
+16600,Oil Sump Packing,1,1
+16594,Clutch Kit (Disc+Pressure Plate),1,1
+16602,Holder,1,1
+16602,Front Bumper - LH,1,1
+16602,Inner Door Handle,1,1
+16592,Front Wheel Bearing,1,1
+16592,Rear Wheel Bearing,1,1
+16603,Clutch Kit (Disc+Pressure Plate),1,1
+16603,Wheel Nut,1,1
+16603,Bolt,1,1
+16606,Clutch Release Bearing,1,1
+16625,Front Shock Absorber,1,1
+16625,Lower Arm Set,1,1
+16625,Front Brake Disc Set,1,1
+16625,Front Brake pad,1,1
+16625,Front Wheel Bearing,1,1
+16625,Rear Wheel Bearing,1,1
+16625,Front Stabilizer Link - LH/RH,1,1
+16625,Tie Rod End Set,1,1
+16625,Ball Joint,1,1
+16625,Rear Shock Absorber,1,1
+16625,Emblem (Vdi),1,1
+16626,Front Shock Absorber,1,1
+16626,Lower Arm Set,1,1
+16626,Front Brake Disc Set,1,1
+16626,Front Brake pad,1,1
+16626,Front Wheel Bearing,1,1
+16626,Rear Wheel Bearing,1,1
+16626,Front Stabilizer Link - LH/RH,1,1
+16626,Tie Rod End Set,1,1
+16626,Ball Joint,1,1
+16626,Rear Shock Absorber,1,1
+16626,Emblem (Vdi),1,1
+16601,Coolant Green,1,1
+16601,Coolant Blue,1,1
+16601,Coolant Red,1,1
+16612,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16612,Clutch Cable,1,1
+16613,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16613,Clutch Cable,1,1
+16609,Oil Filter,1,1
+16609,Air Filter,1,1
+16609,Front Brake pad,1,1
+16609,Engine Oil - HX5 - 15W40 (3.5L),1,1
+16610,Oil Filter,1,1
+16610,Air Filter,1,1
+16610,AC Filter,1,1
+16610,Engine Oil - HX5 - 15W40 (3.5L),1,1
+16616,Clutch Kit (Disc+Pressure Plate),1,1
+16629,Rear Tail Lamp - RH,1,1
+16632,Front Bumper,1,1
+16622,Front Bumper,1,1
+16622,Head Lamp - LH,1,1
+17484,Front Fog Lamp - LH,1,1
+16621,Fuel Main Hose,1,1
+16621,Hose Pipe,1,1
+16621,Hose Pipe Pvc,1,1
+16617,Air Filter,1,1
+16618,Air Filter,1,1
+16619,Air Filter,1,1
+16620,Air Filter,1,1
+16623,Pipe,1,1
+16624,Rear Bumper Reflector,1,1
+16641,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16641,Air Filter,1,1
+16641,Oil Filter,1,1
+16647,Clutch Slave Cylinder,1,1
+16636,Air Filter,1,1
+16631,Front Brake Disc,1,1
+16634,Air Filter Assy,1,1
+16661,AC Gas - 450G,1,1
+16653,Door Beeding,1,1
+16628,Oil Filter,1,1
+16643,Clutch Kit (Disc+Pressure Plate),1,1
+16643,Clutch Release Bearing,1,1
+16643,Belt,1,1
+16635,AC Filter,1,1
+16635,Oil Filter,1,1
+16635,Air Filter,1,1
+16635,Engine Oil - Taxi Special - 5W30 (3L),1,1
+16637,Spark Plug,1,1
+16633,Clutch Slave Cylinder,1,1
+16638,Running Board - LH,1,1
+16638,Running Board - RH,1,1
+16640,Head Lamp - RH,1,1
+16640,Cladding,1,1
+16640,Front Fender - RH,1,1
+16640,Front Bumper Bracket - RH,1,1
+16639,Oil Filter,1,1
+16639,Air Filter,1,1
+16639,AC Filter,1,1
+16639,Engine Oil - HX5 - 15W40 (3L),1,1
+16639,Engine Oil - HX5 - 15W40 (1L),1,1
+16642,Adjuster,1,1
+16642,Hdyr Valve,1,1
+16649,Front Bumper,1,1
+16649,Front Bumper Lower,1,1
+16649,Front Bumper Bracket - LH,1,1
+16649,Front Fog Lamp - LH,1,1
+16644,Clutch Cable,1,1
+16644,Silencer Packing,1,1
+16783,Front Bumper,1,1
+16783,Front Bumper Bracket - RH,1,1
+16783,Front Bumper Bracket - LH,1,1
+16783,Front Bumper Upper Grill,1,1
+16783,Front Bumper Lower Grill,1,1
+16783,Front Fog Lamp - LH,1,1
+16783,Front Brake pad,1,1
+16646,Brake Disc,1,1
+16646,Front Brake pad,1,1
+16646,Rear Brake Shoe Set,1,1
+16646,Lower Arm - LH,1,1
+16646,Lower Arm - RH,1,1
+16646,Bearing,1,1
+16657,Rear Tail Lamp - LH,1,1
+16673,Air Filter,1,1
+16673,Cylinder Head Gasket,1,1
+16652,Air Filter,1,1
+16652,Rear Elbow Hose,1,1
+16652,Hose,1,1
+16652,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16652,Clutch Cable,1,1
+16652,Coolant Elbow,1,1
+16652,Oil Seal,1,1
+16650,Clutch Cable,1,1
+16650,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16656,Oil Filter,1,1
+16656,Air Filter,1,1
+16656,AC Filter,1,1
+16656,Clutch Master Cylinder,1,1
+16655,Front Bumper,1,1
+16655,Engine Under Cover - LH,1,1
+16655,Engine Under Cover - RH,1,1
+16648,Front Brake pad,1,1
+16651,Rear Shock Absorber,1,1
+16651,Front Wheel Bearing,1,1
+16662,Belt,1,1
+16662,Front Brake pad,1,1
+16662,Caliper Pin,1,1
+16662,Rear Tail Lamp - RH,1,1
+16675,Alternator Belt,1,1
+16858,AC Compressor,1,1
+16659,Mud Flap Set,1,1
+16658,Silencer,1,1
+16667,Wheel Cap,1,1
+16667,Door Beeding,1,1
+16667,Garnish Assy Roof Side - RH,1,1
+16660,Oil Filter,1,1
+16660,Air Filter,1,1
+16663,Clutch Kit (Disc+Pressure Plate),1,1
+16663,Clutch Release Bearing,1,1
+16664,Clutch Cable,1,1
+16664,Door Beeding,1,1
+16695,Front Fender - LH,1,1
+16665,Head Lamp - LH,1,1
+16665,Front Fender - LH,1,1
+16666,Front Brake pad,1,1
+16671,Air Filter,1,1
+16671,Oil Filter,1,1
+16670,Power Window Switch,1,1
+16669,Brake Disc,1,1
+16680,Blower Motor Assy,1,1
+16680,Front Inner Door Handle,1,1
+16679,Hose Pipe,1,1
+16700,Front Fender Lining - RH,1,1
+16792,Wheel Cap,1,1
+16806,Wheel Cap,1,1
+16821,Fog Lamp Cover - LH,1,1
+16676,Oil Filter,1,1
+16758,Front Fender - LH,1,1
+16683,Head Lamp - LH,1,1
+16683,De -Rust - 500ml,1,1
+16684,Head Lamp - LH,1,1
+16684,De -Rust - 500ml,1,1
+16729,Oil Seal,1,1
+16678,Lower Arm,1,1
+16678,Front Stabilizer Link - LH/RH,1,1
+16677,Oil Filter,1,1
+16681,Glass,1,1
+16725,Wheel Rim,1,1
+16725,Front Fender Lining - LH,1,1
+16725,Front Fender Lining - RH,1,1
+16725,Wiper Tank,1,1
+16715,Mud Flap Set,1,1
+16715,Door Switch Assy,1,1
+16682,Centre Ac Vent,1,1
+16682,Ac Vent,1,1
+16685,Wiper Blade 16,1,1
+16685,Wiper Blade 14,1,1
+16685,Wiper Blade 13,1,1
+16687,Front Strut Bush Kit,1,1
+16687,Front Suspension Strut Mount,1,1
+16687,Gear Box Beeding,1,1
+16687,Lower Arm,1,1
+16702,Front Bumper,1,1
+16702,Clip,1,1
+16702,Front Bumper Bracket,1,1
+16702,Head Light Bracket - RH,1,1
+16686,Engine Oil - HX8 - 5W30 (5L),1,1
+16689,Oil Filter Cap,1,1
+16691,Oil Filter,1,1
+16691,Air Filter,1,1
+16691,AC Filter,1,1
+16699,Air Filter,1,1
+16690,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16724,Rear Bumper,1,1
+16724,Rear Tail Lamp - LH,1,1
+16696,Lower Arm - LH,1,1
+16696,Lower Arm - RH,1,1
+16696,Balance Rod Bush,1,1
+16696,Front Brake Disc,1,1
+16696,Front Brake pad,1,1
+16696,Front Stabilizer Link - LH/RH,1,1
+16697,Lower Arm - LH,1,1
+16697,Lower Arm - RH,1,1
+16697,Balance Rod Bush,1,1
+16697,Front Brake Disc,1,1
+16697,Front Brake pad,1,1
+16697,Front Stabilizer Link - LH/RH,1,1
+16693,Power Window Switch - RH,1,1
+16692,Front Brake Disc,1,1
+16713,Rear Brake Pad,1,1
+16713,Air Filter,1,1
+16713,Oil Filter,1,1
+16713,AC Filter,1,1
+16705,Front Bumper,1,1
+16705,Rear Bumper,1,1
+16705,Head Lamp - RH,1,1
+16705,Head Lamp - LH,1,1
+16705,Cap,1,1
+16705,Fender Lining,1,1
+16705,Front Mud Flap Set,1,1
+16705,Fog Lamp Set,1,1
+16705,Fog Lamp Cover - RH,1,1
+16705,Fog Lamp Cover - LH,1,1
+16705,Emblem(S),1,1
+16709,Steering Oil,1,1
+16698,Air Filter,1,1
+16701,Front Brake pad,1,1
+16886,Strut Mount Kit,1,1
+16706,Oil Filter,1,1
+16706,Air Filter,1,1
+16706,Volve Door Packing,1,1
+16706,Wheel Brake Cylinder,2,1
+16706,Rear - RH,1,1
+16706,Rear - LH,1,1
+16711,Clutch Kit (Disc+Pressure Plate),1,1
+16711,Clutch Release Bearing,1,1
+16704,Lower Arm,1,1
+16704,Front Shock Absorber,1,1
+16708,Brake Lining,1,1
+16710,Thermostat Housing,1,1
+16712,Belt,1,1
+16718,Oil Seal,1,1
+16718,Oil Seal Crankshaft,1,1
+16722,Radiator Fan Motor,1,1
+16745,Spark Plug,1,1
+16714,Wiper Blade 19,1,1
+16714,Wiper Blade 20,1,1
+16714,Wiper Blade 21,1,1
+16714,Wiper Blade 22,1,1
+16714,Wiper Blade 24,1,1
+16771,Intake Manifold Gasket,1,1
+16771,Exhaust Manifold,1,1
+16771,Glow Plug,1,1
+16731,Tyre,1,1
+16953,Engine Oil - 5W30 - 210L,1,1
+16726,Mirror Assy - RH,1,1
+16738,Front Bumper,1,1
+16738,Front Fog Lamp - RH,1,1
+16738,Bumper Holder,1,1
+16738,Fender Lining,1,1
+16738,Clip,1,1
+16739,Switch Assy,1,1
+16739,Control,1,1
+16716,Engine Oil - 20W50 (3.5L),1,1
+16716,Oil Filter,1,1
+16716,Fuel Filter,1,1
+16716,Air Filter,1,1
+16716,Engine Oil Flush,1,1
+16716,Coolant Green,1,1
+16732,Outer Door Handle,1,1
+16732,Cap,1,1
+16730,Clutch Kit (Disc+Pressure Plate),1,1
+16734,Water Pump,1,1
+16717,Hose Pipe,1,1
+16850,Rear Bumper,1,1
+16721,Oil Cooler,1,1
+16720,Air Filter,1,1
+16719,Rear Tail Lamp - LH,1,1
+16719,Head Lamp Set,1,1
+16723,Clutch Kit (Disc+Pressure Plate),1,1
+16723,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16817,Alloy Wheel Rim,1,1
+16817,Front Wheel Arch Cladding - RH,1,1
+16817,Cladding,1,1
+16817,Front Fender - RH,1,1
+16727,Front Brake pad,1,1
+16728,Front Bumper,1,1
+16728,Fender Lining,1,1
+16735,Front Windshield,1,1
+16740,Air Filter,1,1
+16733,Thermostat Elbow,1,1
+16741,Rear Tail Lamp - LH,1,1
+16755,Cowl Top,1,1
+16777,Fender Liner Clip,1,1
+16777,Front Fender Lining - RH,1,1
+16777,Front Fender Lining - LH,1,1
+16779,Holder,2,1
+16779,Front Bumper - LH,1,1
+16779,Front Bumper - RH,1,1
+16779,Bonnet Assy,1,1
+16779,Front Bumper Lower Grill,1,1
+16779,Front Bumper Upper Grill,1,1
+16781,Front Bumper,1,1
+16781,Head Lamp - LH,1,1
+16834,Front Fender - LH,1,1
+16746,Front Stabilizer Link - LH/RH,1,1
+16760,Head Lamp - LH,1,1
+16748,Front Bumper,1,1
+16748,Front Fender - LH,1,1
+16748,Holder,2,1
+16748,Front Bumper - RH,1,1
+16748,Front Bumper - LH,1,1
+16849,Head Lamp - LH,1,1
+16744,Oil Filter,1,1
+16744,Fuel Filter,1,1
+16744,Air Filter,1,1
+16744,Spark Plug,1,1
+16744,Front Brake pad,1,1
+16747,Wheel Brake Cylinder,2,1
+16747,Rear - RH,1,1
+16747,Rear - LH,1,1
+16751,Front Bumper,1,1
+16751,Holder,1,1
+16751,Front Bumper - LH,1,1
+16751,Fog Lamp Cover - LH,1,1
+16751,Splash Guard Front Bumper,1,1
+16751,Splash Guard Front Fender - RH,1,1
+16751,Splash Guard Front Fender - LH,1,1
+16751,Fender Lining,1,1
+16751,Front Bumper Lower Grill,1,1
+16753,Clutch Release Bearing,1,1
+16753,Clutch Kit (Disc+Pressure Plate),1,1
+16753,Brake Disc,1,1
+16757,Front Suspension Strut Mount,1,1
+16757,Balance Rod Bush,1,1
+16757,Caliper Pin,1,1
+16757,Air Filter,1,1
+16757,Wiper Motor & Link Set,1,1
+16752,Front Bumper,1,1
+16752,Front Bumper Lower Grill,1,1
+16754,Oil Filter,1,1
+16754,Air Filter,1,1
+16754,Fuel Filter,1,1
+16754,Front Brake pad,1,1
+16754,Gear Leaver Knob,1,1
+16754,Towing cap,1,1
+16765,Front Suspension Strut Assy - LH/RH,1,1
+16765,Timing Kit,1,1
+16765,Lower Ball Joint,1,1
+16765,Front Stabilizer Link - LH/RH,1,1
+16765,Lower Arm Set,1,1
+16765,Oil Pump Gasket,1,1
+16750,Front Bumper,1,1
+16750,Holder,2,1
+16750,Front Bumper - RH,1,1
+16750,Front Bumper - LH,1,1
+16749,Clutch Kit (Disc+Pressure Plate),1,1
+16749,Flywheel,1,1
+16766,Timing Kit,1,1
+16766,Water Pump,1,1
+16761,Front Bumper,1,1
+16761,Front Bumper Bracket,1,1
+16762,Engine Mounting - LH,1,1
+16762,Engine Mounting - RH,1,1
+16756,Timing Belt,1,1
+16808,Front Bumper,1,1
+16808,Front Fender Lining - RH,1,1
+16808,Front Fender Lining - LH,1,1
+16808,Holder,2,1
+16808,Front Bumper - LH,1,1
+16808,Front Bumper - RH,1,1
+16767,Front Bumper,1,1
+16767,Front Bumper Bracket - RH,1,1
+16767,Front Bumper Bracket - LH,1,1
+16767,Engine Under Cover,1,1
+16767,Engine Under Cover - RH,1,1
+16759,AC Filter,1,1
+16772,Wiper Blade 24 Clear Advantage,1,1
+16772,Wiper Blade 16 Clear Advantage,1,1
+16772,Wiper Blade 17,1,1
+16772,Wiper Blade 18,1,1
+16772,Wiper Blade 19,1,1
+16772,Wiper Blade 20,1,1
+16772,Wiper Blade 22,1,1
+16772,Wiper Blade 26,1,1
+16764,Bolt,1,1
+16778,Fog Lamp Set,1,1
+16768,Rear Bumper,1,1
+16768,Rear Tail Lamp - RH,1,1
+16851,Rear Power Window Regulator - LH,1,1
+16799,Front Bumper Bracket - LH,1,1
+16799,Front Bumper Bracket - RH,1,1
+16799,Front Fog Lamp Cover Set,1,1
+16799,Front Bumper Lower Grill,1,1
+16799,Antenna,1,1
+16763,Clutch Release Bearing,1,1
+16763,Clutch Kit (Disc+Pressure Plate),1,1
+16769,Air Filter,1,1
+16769,Head Lamp - RH,1,1
+16769,Lower Arm Set,1,1
+16814,Air Filter,1,1
+16814,Spark Plug Set Of 4,1,1
+16814,Mud Flap Set,1,1
+16814,Front Fender Lining - LH,1,1
+16814,Front Fender Lining - RH,1,1
+16814,Wheel Cap,1,1
+16814,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16814,Clutch Cable,1,1
+16814,Flywheel Bearing,1,1
+16807,Fog Lamp Bezel Set,1,1
+16832,Front Bumper,2,1
+16832,Front Bumper Lower Grill,1,1
+16832,Skid Plate Lower,1,1
+16832,AC Condenser,1,1
+16832,Radiator,1,1
+16874,Front Wheel Arch Cladding - LH,1,1
+16874,Front Wheel Arch Cladding - RH,1,1
+16874,Front Front Bumper Lower Grill,1,1
+16874,Front Bumper Lower Grill,1,1
+16943,Rear Wheel Arch Cladding - LH,1,1
+16943,Quarter Panel Outer - LH,1,1
+16943,Rear Door - LH,1,1
+16943,Head Lamp - LH,1,1
+16943,Head Lamp - RH,1,1
+16943,Front Fender - LH,1,1
+16943,Front Fender - RH,1,1
+16943,Holder,2,1
+16943,Front Bumper - LH,1,1
+16943,Front Bumper - RH,1,1
+16943,Front Bumper,1,1
+16943,Front Bumper Upper Grill,1,1
+16780,Rear Tail Lamp - RH,1,1
+16782,Ignition Coil,1,1
+16788,Rear Brake Shoe Set,1,1
+17004,AC Blower Switch,1,1
+16774,Front Drive Shaft - RH,1,1
+16774,Rear Shock Absorber,1,1
+16775,Front Bumper,1,1
+16775,Front Front Bumper Lower Grill,1,1
+16775,Head Lamp - LH,1,1
+16773,Steering Assy,1,1
+16773,Balance Rod Bush,1,1
+16770,Oil Filter,1,1
+16770,AC Filter,1,1
+16770,Air Filter,1,1
+16770,Spark Plug Set Of 4,1,1
+16770,Wiper Hose,1,1
+16770,Wiper Arm Cap,1,1
+16770,Ac Vent,1,1
+16794,Lower Arm Set,1,1
+16794,Balance Rod Bush,1,1
+16794,Steering Box,1,1
+16794,Rear Shock Absorber,1,1
+16794,Front Shock Absorber,1,1
+16794,Mirror Assy - LH,1,1
+16794,Glove Box Lock,1,1
+16794,Dicky Shocks,1,1
+16794,Rear Wheel Bearing,1,1
+16794,Brake Disc,1,1
+16794,Caliper Pin,1,1
+16776,Clutch Kit (Disc+Pressure Plate),1,1
+16776,Clutch Release Bearing,1,1
+16840,Front Bumper Upper Grill,1,1
+16840,Front Bumper Bracket - LH,1,1
+16840,Front Bumper Bracket - RH,1,1
+16838,Pedal Set,1,1
+16838,Clutch And Brake,1,1
+16810,Front Bumper,1,1
+16810,Bumper Holder,1,1
+16810,Idler Arm,1,1
+16810,Trim Front Lower Bumper,1,1
+16859,Fender Lining,1,1
+16797,Ac Vent,1,1
+16784,Front Suspension Strut - RH,1,1
+16784,Front Suspension Strut - LH,1,1
+16784,Front Stabilizer Link - LH/RH,1,1
+16784,Lower Ball Joint,1,1
+16784,Ball Joint,1,1
+16784,Stabilizer Rod Bush Kit,1,1
+16785,Tie Rod End - LH/RH,1,1
+16793,Weather Strip,1,1
+16795,Rear Shock Absorber,1,1
+16795,Lock,1,1
+16818,Thermostat Elbow,1,1
+16786,Head Lamp - RH,1,1
+16786,Head Lamp - LH,1,1
+16787,Rear Bumper,1,1
+16787,Rear Bumper Bracket - RH,1,1
+16787,Rear Bumper Bracket - LH,1,1
+16789,Engine Oil - Taxi Special - 5W30 (209L),1,1
+17363,Fuel Filter,1,1
+17363,Glow Plug,1,1
+16898,Gear Oil 1L,1,1
+16899,Clutch Kit (Disc+Pressure Plate),1,1
+16899,Clutch Release Bearing,1,1
+16899,Ignition Coil,1,1
+16899,Spark Plug Wire,1,1
+16899,Spark Plug Set Of 4,1,1
+16899,Front Stabilizer Link - LH/RH,1,1
+16899,Strut Mount Kit,1,1
+16928,Gearbox Mounting,1,1
+16928,Oil Pressure Switch,1,1
+17074,Oil Seal - Engine,1,1
+16790,Oil Filter,1,1
+16790,AC Filter,1,1
+16889,Air Filter,1,1
+16800,Engine Oil - HX6 - 5W30 (209L),1,1
+16835,AC Cooling Module Assy,1,1
+16865,Mirror Assy - LH,1,1
+16813,Lower Arm - RH,1,1
+16796,Air Filter,1,1
+16798,Tail Lamp (Body Side),1,1
+16791,Battery,1,1
+16920,Radiator,1,1
+16801,Front Fender Lining - RH,1,1
+16801,Front Fender Lining - LH,1,1
+16801,Antenna Base,1,1
+16801,Fender Liner Clip,1,1
+16801,Weatherstrip,2,1
+16801,Front Door Outer - RH,1,1
+16801,Front Door Outer - LH,1,1
+16804,Rear Tail Lamp - RH,1,1
+16802,Front Bumper,1,1
+16802,Holder,2,1
+16802,Front Bumper - RH,1,1
+16802,Front Bumper - LH,1,1
+16802,Towing cap,1,1
+16816,Rear Bumper Bracket - RH,1,1
+16816,Towing cap,1,1
+16816,Fog Lamp Cover - RH,1,1
+16816,Fog Lamp Cover - LH,1,1
+16816,Fog Lamp Set,1,1
+16816,Front Bumper Upper Grill,1,1
+16816,Front Bumper Lower Grill,1,1
+16816,Rear Bumper Bracket - LH,1,1
+16816,Front Bumper Bracket,1,1
+16803,Splash Guard Front Bumper,1,1
+16823,Rear Shock Absorber,1,1
+16823,Tensioner Bearing,1,1
+16823,Water Pump,1,1
+16809,Air Filter,1,1
+16825,Front Bumper,1,1
+16825,Chrom Top Grill,1,1
+16805,Rear Shock Absorber - LH/RH,1,1
+16815,Engine Mounting - RH,1,1
+16815,Rear Brake Shoe Set,1,1
+16812,Wheel Arch Front - LH,1,1
+16811,Front Brake pad,1,1
+16811,Oil Filter,1,1
+16820,Front Bumper,1,1
+16820,Holder,1,1
+16820,Front Bumper - LH,1,1
+16819,Rear Shock Absorber,1,1
+16826,Clutch Release Fork,1,1
+16824,Timing Chain,1,1
+16824,Timing Chain Guide,1,1
+16824,Timing Chain Tensioner,1,1
+16824,Timing Kit Packing,1,1
+16824,Oil Seal,1,1
+16822,Front Suspension Strut - RH,1,1
+16822,Front Suspension Strut - LH,1,1
+16827,Bolt,1,1
+16831,Rear Brake Shoe Set,1,1
+16831,Front Brake Shoe Set,1,1
+16831,Front Stabilizer Link - LH/RH,1,1
+16857,Bush,1,1
+16828,Front Brake pad,1,1
+16829,Front Brake pad,1,1
+16830,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16830,Clutch Cable,1,1
+16830,Flywheel Bearing,1,1
+16837,Steering Assy,1,1
+16837,Front Shock Absorber,1,1
+16837,Front Stabilizer Link - LH/RH,1,1
+16837,Bush,1,1
+16837,Shock Absorber Mount,1,1
+16836,Oil Seal,1,1
+16848,Clutch Kit (Disc+Pressure Plate),1,1
+16848,Clutch Release Bearing,1,1
+16923,Front Fender - RH,1,1
+16923,Steering Assy,1,1
+16923,Front Bumper Lower,1,1
+16923,Front Bumper Upper,1,1
+16923,Head Lamp - RH,1,1
+16923,Front Fender Lining - RH,1,1
+16923,Front Fog Lamp - RH,1,1
+16923,Front Drive Shaft - RH,1,1
+16923,Fog Lamp Cover - RH,1,1
+16847,Member Comp Front Bumper Upper,1,1
+16847,Holder,1,1
+16847,Front Bumper - LH,1,1
+16847,Indicator Front - LH,1,1
+16873,AC Filter,1,1
+16833,Wheel Cap,1,1
+16861,Front Bumper,1,1
+16861,Rear Bumper,1,1
+16861,Lower Arm Set,1,1
+16861,Fog Lamp Cover - RH,1,1
+16861,Fog Lamp Cover - LH,1,1
+16922,Front Fender Lining - LH,1,1
+16922,Fender Liner Clip,1,1
+16839,Mirror Assy - RH,1,1
+16855,Accelerator Cable,1,1
+16843,Belt,1,1
+16842,Rear Bumper,1,1
+16862,Water Pump,1,1
+16862,Oil Seal,1,1
+16841,Bonnet Assy,1,1
+16860,Front Brake pad,1,1
+16845,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16846,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16844,Brake Disc,1,1
+16876,Engine Oil - HX5 - 15W40 (209L),1,1
+16854,Oil Filter,1,1
+16852,Front Brake pad,1,1
+16852,Rear Brake Pad,1,1
+16863,Lower Arm,1,1
+16863,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16863,Clutch Cable,1,1
+16853,Gear Leaver,1,1
+16856,Regulator Assy Front Window - RH,1,1
+16872,Clutch Cable,1,1
+16864,Front Drive Shaft - RH,1,1
+16995,Radiator Upper Grille,1,1
+16995,Fog Lamp Cover - LH,1,1
+16870,AC Compressor,1,1
+16917,Head Lamp - RH,1,1
+16917,Head Lamp - LH,1,1
+16871,Wheel Rim,1,1
+16987,Front Bumper,1,1
+16866,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+16867,Front Stabilizer Link Set,1,1
+17010,Engine Oil - HX6 - 5W30 (209L),1,1
+16868,Clutch Kit (Disc+Pressure Plate),1,1
+16868,Clutch Release Bearing,1,1
+16942,Timing Kit Packing,1,1
+16942,Water Pump,1,1
+16942,Spark Plug,1,1
+16879,Brake Booster And Tandem Master Cylinder,1,1
+16888,Rear Bumper Bracket - RH,1,1
+16869,Rear Bumper Bracket - RH,1,1
+16869,Rear Bumper Bracket - LH,1,1
+16869,Rear Bumper,1,1
+16881,Oil Filter,1,1
+16881,AC Filter,1,1
+16881,Air Filter,1,1
+16878,Lower Arm - LH,1,1
+16878,Lower Arm - RH,1,1
+16878,Front Shock Absorber,1,1
+16878,Front Strut Bush Kit,1,1
+16878,Top Strut Mount Kit,1,1
+16878,Front Stabilizer Link - LH/RH,1,1
+16878,Ball Joint Set,1,1
+16878,Tie Rod End Set,1,1
+16878,Front Stabilizer Bush,1,1
+16877,Front Brake pad,1,1
+16877,Hose Pipe,1,1
+16880,Outer Door Handle - RH,1,1
+16892,Head Lamp Set,1,1
+16882,Holder,1,1
+16882,Front Bumper - RH,1,1
+16890,Intake Manifold,1,1
+16883,Mirror Assy - RH,1,1
+16885,Power Steering Belt,1,1
+16885,Coolant Pink,1,1
+16982,AC Condenser,1,1
+16982,Radiator,1,1
+16940,Dicky Rear Tail Lamp - RH,1,1
+16940,Rear Tail Lamp - RH,1,1
+17056,Dicky Panel,1,1
+16884,Front Brake pad,1,1
+16884,Brake Disc,1,1
+16891,Rear Wiper Blade,1,1
+16891,Brake Disc,1,1
+16891,Shock Absorber Mount,1,1
+16891,Bearing,1,1
+16894,Fuel Filter,1,1
+16913,Rear Tail Lamp - RH,1,1
+16887,Side Mirror Indicator - RH,1,1
+16903,Door Beeding,1,1
+16903,Hood Pad Insulating,1,1
+16933,Front Front Bumper Lower Grill,1,1
+17009,Turbocharge Hose,1,1
+16895,Radiator,1,1
+16895,Front Bumper,1,1
+16893,Rear Brake Shoe Set,1,1
+16897,Oil Filter,1,1
+16897,Air Filter,1,1
+16897,AC Filter,1,1
+16897,Front Brake pad,1,1
+16897,Tie Rod End - LH/RH,1,1
+16896,Oil Filter,1,1
+16896,Air Filter,1,1
+16896,AC Filter,1,1
+16896,Front Brake pad,1,1
+16906,Air Filter,1,1
+16900,Front Bumper,1,1
+16900,Head Lamp - LH,1,1
+16900,Holder,1,1
+16900,Front Bumper - LH,1,1
+16900,Front Fender Lining - LH,1,1
+16921,Radiator Inlet Hose,1,1
+16921,Radiator Outlet Hose,1,1
+17000,Water Pump,1,1
+16936,Clutch Slave Cylinder,1,1
+16936,Clutch Oil Joint,1,1
+16954,Crankshaft Oil Seal,1,1
+16981,AC Condenser,1,1
+16981,Front Bumper,1,1
+16901,Wheel Rim,1,1
+16907,Mirror Assy - LH,1,1
+16907,Front Bumper Bracket - LH,1,1
+16902,Front Bumper,1,1
+16902,Holder,2,1
+16902,Front Bumper - RH,1,1
+16902,Front Bumper - LH,1,1
+16902,Front Bumper Lower Grill,1,1
+16902,Head Lamp - LH,1,1
+16916,Ignition Coil,1,1
+16916,Ignition Cable,1,1
+16916,Spark Plug Set Of 4,1,1
+16916,AC Filter,1,1
+16912,Oil Filter,1,1
+16912,Air Filter,1,1
+16911,Oil Filter,1,1
+16911,Air Filter,1,1
+16911,AC Filter,1,1
+16908,Spark Plug,1,1
+16909,Air Filter,1,1
+16915,Bolt,1,1
+16915,Wheel Nut,1,1
+16904,Air Filter,1,1
+16904,Oil Filter,1,1
+17173,Camshaft Sensor,1,1
+16951,Head Light Bracket - RH,1,1
+16951,Head Light Bracket - LH,1,1
+16951,Bumper Grill,1,1
+16951,Rear Bumper Reflector,1,1
+17001,Logo,1,1
+17046,Safety Reflector,1,1
+16910,Dicky Shocks - LH,1,1
+16910,Dicky Shocks - RH,1,1
+16914,Front Fender Lining - LH,1,1
+16905,Hose Pipe,1,1
+16948,Engine Oil - HX6 - 5W30 (209L),1,1
+16925,Ball Joint,1,1
+16925,Tie Rod (Steering),1,1
+16925,Lower Arm,1,1
+16925,Alternator Belt,1,1
+16925,Belt,1,1
+17022,Front Bumper,1,1
+17022,Front Bumper Bracket,1,1
+17022,Rear Bumper,1,1
+17022,Rear Bumper Bracket - RH,1,1
+17022,Rear end Oil seal,1,1
+17022,Oil Seal,1,1
+16931,Wheel Brake Cylinder,1,1
+16931,Rear - LH,1,1
+16926,Front Shock Absorber,1,1
+16926,Shock Absorber Mount,1,1
+16926,Shock Absorber Strut Kit,1,1
+16926,Rear Shock Absorber,1,1
+16926,Lower Arm,1,1
+16926,Front Stabilizer Link - LH/RH,1,1
+16926,Front Brake pad,1,1
+16926,Oil Filter,1,1
+16926,Air Filter,1,1
+16926,AC Filter,1,1
+16918,Clutch Release Bearing,1,1
+16924,Gear Box Beeding,1,1
+16927,Cylinder Head Gasket,1,1
+16927,Valve Door Gasket,1,1
+16927,Hose Pipe,1,1
+16938,Rear Bumper,1,1
+16938,Front Bumper,1,1
+16938,Front Bumper Bracket - LH,1,1
+16938,Front Bumper Bracket - RH,1,1
+16938,Rear Bumper Bracket - LH,1,1
+16938,Rear Bumper Bracket - RH,1,1
+16935,AC Filter,1,1
+16935,Air Filter,1,1
+16919,Radiator,1,1
+16970,Clutch Kit (Disc+Pressure Plate),1,1
+16970,Flywheel,1,1
+16971,Gear Shifter Cable,1,1
+17014,Power Steering Motor Assy,1,1
+17096,Dicky Panel,1,1
+17096,Rear Tail Lamp - RH,1,1
+17096,Quarter Panel Rear - RH,1,1
+16944,Rear Tail Lamp - LH,1,1
+17006,Front Shock Absorber,1,1
+17006,Shock Absorber Mount,1,1
+17006,Rear Shock Absorber,1,1
+17006,Shock Absorber Strut Kit,1,1
+17006,Gear Lever Boot,1,1
+16932,Oil Filter,1,1
+16932,Air Filter,1,1
+16932,Caliper Pin 1,1,1
+16930,Rear Tail Lamp - RH,1,1
+16930,Rear Bumper,1,1
+16929,Air Filter,1,1
+16941,Brake Disc,1,1
+16941,Caliper Pin,1,1
+16937,Front Door - LH,1,1
+16989,AC Filter,1,1
+16989,Air Filter,1,1
+16939,Relay,1,1
+16939,Front Bumper Bracket,1,1
+16945,Water Pump,1,1
+16946,Mirror Assy - RH,1,1
+17198,Dicky Shocks,1,1
+16947,Alternator Belt,1,1
+16949,Dicky Shocks,1,1
+16949,Air Filter,1,1
+16949,Front Brake pad,1,1
+16949,Brake Disc,1,1
+16952,Front Bumper,1,1
+16952,Front Fog Lamp - LH,1,1
+16967,Front Bumper,1,1
+16967,Front Bumper Bracket - RH,1,1
+16967,Fog Lamp Cover - RH,1,1
+16967,Front Fog Lamp - RH,1,1
+16967,Front Fender - RH,1,1
+16967,Head Lamp - RH,1,1
+16950,Lower Arm - LH,1,1
+16950,Lower Arm - RH,1,1
+16974,AC Gas - 450G,1,1
+16973,Engine Oil - Taxi Special - 5W30 (209L),1,1
+16965,Front Bumper,1,1
+16965,Front Bumper Bracket - RH,1,1
+16964,Air Filter,1,1
+16964,Oil Filter,1,1
+16964,Engine Oil - 5W40,1,1
+16964,Wiper Blade 16,1,1
+16964,Wiper Blade 24,1,1
+16955,Ac Heater Coil,1,1
+16960,Lower Arm,1,1
+16960,Ball Joint,1,1
+16960,Front Suspension Strut Mount,1,1
+16960,Tie Rod End Set,1,1
+16961,Oil Cooler,1,1
+16958,Oil Filter,1,1
+16959,AC Filter,1,1
+16959,Front Suspension Strut Assy - LH/RH,1,1
+16959,Rear Shock Absorber,1,1
+16959,Front Brake pad,1,1
+16959,Air Filter,1,1
+16959,Fuel Filter,1,1
+16959,Gear Leaver Knob,1,1
+16956,AC Filter,1,1
+16957,Front Fender - RH,1,1
+16962,Mirror Cap - LH,1,1
+16962,Mirror Cap - RH,1,1
+16963,Wheel Cap,1,1
+16968,Lower Arm,1,1
+16968,Hose Pipe,1,1
+16969,Lower Arm,1,1
+16969,Hose Pipe,1,1
+16972,Front Bumper,1,1
+16972,Front Bumper Bracket - LH,1,1
+16972,Front Bumper Bracket - RH,1,1
+16980,Front Bumper,1,1
+16980,Head Lamp - RH,1,1
+16980,Front Fender Lining - RH,1,1
+16980,Rear Tail Lamp - RH,1,1
+16975,Rear Bumper,1,1
+16975,Holder,1,1
+16975,Rear Bumper Side - RH,1,1
+16966,Air Filter,1,1
+17018,Combination Switch,1,1
+17016,Fog Lamp Set,1,1
+17016,Front Front Bumper Lower Grill,1,1
+17016,Bumper Holder,1,1
+17016,Front Bumper,1,1
+17039,Front Windshield,1,1
+16986,Front Fender Lining - RH,1,1
+16986,Front Wheel Arch Cladding - RH,1,1
+17003,Front Windshield,1,1
+16976,Air Filter,1,1
+16976,Oil Filter,1,1
+16983,Oil Filter,1,1
+16978,Glow Plug,1,1
+16977,Engine Oil - Taxi Special - 5W30 (3.5L),1,1
+16979,Air Filter,1,1
+16979,Oil Filter,1,1
+16984,Engine Oil - 5W30 - 210L,1,1
+17149,Head Lamp - RH,1,1
+17149,Head Lamp - LH,1,1
+17192,Bonnet Assy,1,1
+17192,Front Bumper Bracket,1,1
+16997,Front Fender Lining - RH,1,1
+16985,Clutch Kit (Disc+Pressure Plate),1,1
+16985,Clutch Release Bearing,1,1
+16985,Clutch Cable,1,1
+16999,Rear Tail Lamp - LH,1,1
+16999,Rear Bumper,1,1
+17011,Engine Oil - 5W30 - 210L,1,1
+16993,Head Lamp - RH,1,1
+16993,Head Lamp - LH,1,1
+16992,Bolt,1,1
+16991,Rear Tail Lamp - LH,1,1
+16990,Bolt,1,1
+16988,Frame,1,1
+17008,Hose Pipe Pvc,1,1
+16998,AC Compressor,1,1
+17002,Head Lamp Set,1,1
+17002,Front Bumper,1,1
+17002,Front Bumper Bracket,1,1
+17005,Head Lamp - LH/RH,1,1
+17030,Front Mud Flap Set,1,1
+17023,Fuel Pump Assy,1,1
+16994,Door Beeding,1,1
+16996,Fender Liner Clip,1,1
+17017,Engine Bedding,1,1
+17007,Front Bumper,1,1
+17007,Front Bumper Upper Grill,1,1
+17007,Towing cap,1,1
+17007,Mirror Assy - RH,1,1
+17007,Front Fender Lining - LH,1,1
+17007,Front Bumper Bracket - RH,1,1
+17007,Front Bumper Bracket - LH,1,1
+17019,Engine Oil - 15W40,1,1
+17031,Rear Bumper,1,1
+17012,Bonnet Assy,1,1
+17015,Towing cap,1,1
+17013,Front Suspension Strut Assy - LH/RH,1,1
+17013,Lower Arm Set,1,1
+17013,Stablizer Bar Bushes,1,1
+17026,Shock Absorber Strut,1,1
+17026,Steering Assy,1,1
+17027,Silencer,1,1
+17038,Timing Belt,1,1
+17038,Timing Chain Tensioner,1,1
+17038,Tensioner Belt,1,1
+17038,Timing Chain Guide,1,1
+17038,Timing Chain Tensioner Lever,1,1
+17038,Oil Seal,1,1
+17038,Timing Kit Packing,1,1
+17038,Water Pump,1,1
+17020,Valve Guide,1,1
+17020,Gasket Intake Manifold,1,1
+17020,Timing Chain,1,1
+17021,Valve Guide,1,1
+17021,Gasket Intake Manifold,1,1
+17021,Timing Chain,1,1
+17029,Mirror Cap - LH,1,1
+17028,Dicky Shocks,1,1
+17024,Air Filter,1,1
+17024,Oil Filter,1,1
+17024,Coolant Pink,1,1
+17025,Brace Panel,1,1
+17025,Front Bumper Bracket - RH,1,1
+17025,Front Bumper Bracket - LH,1,1
+17035,Head Lamp - LH,1,1
+17058,Clutch Kit (Disc+Pressure Plate),1,1
+17058,Clutch Release Bearing,1,1
+17058,Clutch Cable,1,1
+17073,Front Shock Absorber,1,1
+17041,Floor Rubber Mat,1,1
+17032,Front Fender Lining - RH,1,1
+17215,Front Bumper,1,1
+17215,Fog Lamp Cover - RH,1,1
+17215,Front Fender Lining - RH,1,1
+17215,Front Bumper Bracket - RH,1,1
+17216,Head Lamp - RH,1,1
+17076,Window Regulator With Motor,1,1
+17033,Rear Tail Lamp - LH,1,1
+17033,Rear Tail Lamp - RH,1,1
+17040,Front Bumper,1,1
+17040,Front Front Bumper Lower Grill,1,1
+17040,Front Fender Lining - RH,1,1
+17040,Front Fender Lining - LH,1,1
+17036,Gear Shifter Cable,1,1
+17034,Clutch Kit (Disc+Pressure Plate),1,1
+17034,Clutch Release Bearing,1,1
+17043,Head Lamp - RH,1,1
+17071,Lower Arm - LH,1,1
+17071,Front Bumper Bracket - LH,1,1
+17071,Front Bumper Bracket - RH,1,1
+17071,Wheel Rim,1,1
+17079,Front Wheel Arch Cladding - RH,1,1
+17077,Silencer,1,1
+17037,Oil Gauge,1,1
+17037,Rear Shock Absorber,1,1
+17037,Wiper Hose,1,1
+17042,Outer Door Handle - LH,1,1
+17068,Mirror Assy - RH,1,1
+17054,Clip,1,1
+17054,Front Fender Lining - RH,1,1
+17054,Front Fender Lining - LH,1,1
+17054,Mud Flap Set,1,1
+17054,Door Beeding,1,1
+17054,Bonnet Assy Release Cable,1,1
+17054,Windsheild Washer Nozzle,1,1
+17049,Clip,1,1
+17084,Lower Arm - LH,1,1
+17084,Lower Arm - RH,1,1
+17084,Front Brake pad,1,1
+17090,Front Stabilizer Link - LH/RH,1,1
+17090,Rear Strut Bush,1,1
+17091,Rear Shock Absorber,1,1
+17044,Battery,1,1
+17053,Clutch Kit (Disc+Pressure Plate),1,1
+17053,Clutch Release Bearing,1,1
+17053,Flywheel,1,1
+17053,Gear Oil 1L,1,1
+17045,Crankshaft Oil Seal,1,1
+17047,Front Bumper,1,1
+17047,Molding Assy,1,1
+17047,Bumper Lower,1,1
+17062,Oil Filter,1,1
+17059,Rear Brake Pad,1,1
+17050,Engine Under Cover,1,1
+17050,Reverse Light Switch,1,1
+17048,Clutch Master Cylinder,1,1
+17051,Holder,1,1
+17051,Rear Bumper Side - LH,1,1
+17051,Rear Bumper,1,1
+17267,Rear Power Window Regulator - LH,1,1
+17055,Head Lamp - RH,1,1
+17055,Head Lamp - LH,1,1
+17055,AC Condenser,1,1
+17052,Front Brake pad,1,1
+17057,AC Condenser,1,1
+17057,Radiator,1,1
+17057,Cross Member,1,1
+17063,Gear Shifter Cable,1,1
+17092,Bulb,1,1
+17110,Fog Lamp Bulb,1,1
+17069,Rear Bumper,1,1
+17069,Front Bumper,1,1
+17075,Rear Bumper,1,1
+17075,Rear Bumper Bracket - RH,1,1
+17075,Rear Bumper Bracket - LH,1,1
+17061,Centre Ac Vent,1,1
+17061,Towing cap,1,1
+17395,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17395,AC Filter,1,1
+17395,Oil Filter,1,1
+17395,Air Filter,1,1
+17395,Oil Seal,1,1
+17395,Rear Shock Absorber,1,1
+17395,Front Shock Absorber,1,1
+17395,Tie Rod End Steering,1,1
+17395,Front Bumper Bracket - RH,1,1
+17395,Front Bumper Bracket - LH,1,1
+17396,Front Bumper,1,1
+17064,Rear Engine Mounting,1,1
+17060,Front Bumper,1,1
+17102,Front Bumper,1,1
+17102,Fog Lamp Cover - RH,1,1
+17072,Seal,2,1
+17072,Diff Side Oil - RH,1,1
+17072,Diff Side Oil - LH,1,1
+17103,Clutch Slave Cylinder,1,1
+17824,AC Compressor,1,1
+17099,Front Suspension Strut - LH,1,1
+17099,Brake Disc,1,1
+17087,Oil Filter,1,1
+17087,Air Filter,1,1
+17082,Bonnet Assy,1,1
+17086,Oil Filter,1,1
+17070,Front Shock Absorber,1,1
+17070,Front Wheel Bearing,1,1
+17070,Wiper Blade,1,1
+17085,AC Filter,1,1
+17078,Front Bumper,1,1
+17078,Front Bumper Upper Grill,1,1
+17078,Wiper Tank,1,1
+17094,Front Fender Lining - LH,1,1
+17094,Engine Under Cover - RH,1,1
+17094,Engine Under Cover - LH,1,1
+17097,Splash Guard Front Bumper,1,1
+17066,Wiper Blade,1,1
+17067,Oil Filter,1,1
+17067,Air Filter,1,1
+17065,Air Filter,1,1
+17065,AC Filter,1,1
+17065,Oil Filter,1,1
+17080,Front Bumper,1,1
+17080,Front Bumper Bracket - LH,1,1
+17080,Head Lamp - LH,1,1
+17080,Front Fender Lining - LH,1,1
+17080,Front Fog Lamp - LH,1,1
+17080,Front Fender - LH,1,1
+17136,Front Bumper,1,1
+17136,Front Bumper Upper Grill,1,1
+17136,Front Bumper Lower Grill,1,1
+17136,Front Bumper Bracket - LH,1,1
+17136,Front Bumper Bracket - RH,1,1
+17136,Head Lamp - RH,1,1
+17136,Monogram Set,1,1
+17136,Towing cap,1,1
+17100,Evaporator,1,1
+17163,Head Lamp - RH,1,1
+17163,Head Lamp - LH,1,1
+17081,Front Bumper,1,1
+17081,Air Filter,1,1
+17081,Wiper Blade,1,1
+17081,Fender Lining,1,1
+17083,Radiator Frame,1,1
+17106,Oil Filter,1,1
+17106,Front Brake pad,1,1
+17106,Brake Lining,1,1
+17106,Front Shock Absorber,1,1
+17106,Air Filter,1,1
+17106,Shock Absorber Mount,1,1
+17106,Front Strut Bush Kit,1,1
+17106,Front Stabilizer Link - LH/RH,1,1
+17089,Head Lamp - RH,1,1
+17089,Front Bumper,1,1
+17089,Front Fender - RH,1,1
+17089,Bonnet Assy,1,1
+17089,Front Fender Lining - RH,1,1
+17089,Mirror Assy - RH,1,1
+17089,Fog Lamp Cover - RH,1,1
+17089,Fog Lamp Set,1,1
+17089,Wiper Tank,1,1
+17113,Front Suspension Strut - RH,1,1
+17113,Front Suspension Strut - LH,1,1
+17113,Front Strut Bush Kit,1,1
+17113,Front Suspension Strut Mount,1,1
+17113,Lower Arm,1,1
+17113,Front Stabilizer Link Set,1,1
+17113,Tie Rod End Set,1,1
+17088,Daytime Light,1,1
+17088,Front Bumper Upper Grill,1,1
+17181,Mirror Assy - RH,1,1
+17095,Radiator Grill,1,1
+17156,Lower Arm - LH,1,1
+17156,Lower Arm - RH,1,1
+17156,Clutch Kit (Disc+Pressure Plate),1,1
+17156,Clutch Release Bearing,1,1
+17156,Clutch Cable,1,1
+17156,Steering Box,1,1
+17093,Rear Bumper,1,1
+17098,Clutch Slave Cylinder,1,1
+17122,Alternator,1,1
+17104,Front Bumper,1,1
+17104,Front Bumper Bracket - RH,1,1
+17168,Tie Member Assy,1,1
+17168,Head Lamp - RH,1,1
+17101,Moulding - Windshield Glass,1,1
+17105,Lock,1,1
+17108,Run Front Door Glass - LH,1,1
+17108,Front Glass Bottom Channel,1,1
+17108,Front Glass Channel - LH,1,1
+17142,Bonnet Assy,1,1
+17142,Bonnet Hinge Assy - LH,1,1
+17142,Bonnet Hinge Assy - RH,1,1
+17142,Front Fender - RH,1,1
+17142,Front Fender Lining - RH,1,1
+17142,Front Bumper,1,1
+17142,Front Bumper Lower Grill,1,1
+17142,Front Fog Lamp - RH,1,1
+17142,Wiper Tank,1,1
+17142,Splash Guard Front Bumper,1,1
+17142,Holder,1,1
+17142,Front Bumper - RH,1,1
+17142,Bumper Holder,1,1
+17142,Head Lamp - RH,1,1
+17142,Towing cap,1,1
+17142,Splash Cover - RH,1,1
+17283,AC Hose,1,1
+17114,Front Bumper,1,1
+17114,Front Fender Lining - RH,1,1
+17107,Fender Liner Clip,1,1
+17107,Bumper Clip,1,1
+17109,Rear Bumper,1,1
+17115,Clutch Cable,1,1
+17115,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17115,Gear Oil 1L,1,1
+17121,Clutch Release Bearing,1,1
+17121,Clutch Kit (Disc+Pressure Plate),1,1
+17121,Front Brake pad,1,1
+17121,Glow Plug (Heater Plug Or Coil),1,1
+17117,Lower Arm,1,1
+17117,Front Shock Absorber,1,1
+17117,Shock Absorber Strut Kit,1,1
+17117,Shock Absorber Mount,1,1
+17117,Rear Shock Absorber,1,1
+17117,Front Stabilizer Link - LH/RH,1,1
+17117,Ball Joint Set,1,1
+17117,Tie Rod End Set,1,1
+17117,Brake Shoe,1,1
+17117,Front Fender Lining - LH,1,1
+17117,Front Brake pad,1,1
+17117,Front Bumper Bracket - LH,1,1
+17117,Front Bumper Bracket - RH,1,1
+17118,Lower Arm,1,1
+17118,Front Shock Absorber,1,1
+17118,Shock Absorber Strut Kit,1,1
+17118,Shock Absorber Mount,1,1
+17118,Rear Shock Absorber,1,1
+17118,Front Stabilizer Link - LH/RH,1,1
+17118,Ball Joint Set,1,1
+17118,Tie Rod End Set,1,1
+17118,Brake Shoe,1,1
+17118,Front Fender Lining - LH,1,1
+17118,Front Brake pad,1,1
+17118,Front Bumper Bracket - LH,1,1
+17118,Front Bumper Bracket - RH,1,1
+17170,Reflector,1,1
+17125,Front Bumper,1,1
+17125,Tie Member Assy,1,1
+17125,Front Bumper Bracket - LH,1,1
+17125,Front Bumper Bracket - RH,1,1
+17214,Front Bumper,1,1
+17214,Intercooler,1,1
+17116,Lower Arm - RH,1,1
+17116,Lower Arm - LH,1,1
+17112,Air Filter,1,1
+17112,AC Filter,1,1
+17111,Steering Assy,1,1
+17111,Lower Arm Set,1,1
+17111,Balance Rod Bush,1,1
+17348,Ac Liquid Pipe,1,1
+17348,Ac Suction Pipe,1,1
+17120,Oil Filter,1,1
+17120,Brake Light Switch,1,1
+17120,Clutch Cable,1,1
+17120,Clutch Release Bearing,1,1
+17120,Clutch Kit (Disc+Pressure Plate),1,1
+17123,Rear Bumper,1,1
+17123,Holder,1,1
+17123,Rear Bumper Side - RH,1,1
+17123,Front Fender Lining - RH,1,1
+17191,Front Wheel Arch Cladding - LH,1,1
+17124,Front Stabilizer Link - LH/RH,1,1
+17124,Upper Ball Joint,1,1
+17124,Lower Ball Joint,1,1
+17124,Tie Rod Ends & Ball Joints Set,1,1
+17171,Oil Guage Lever,1,1
+17119,Front Fender - LH,1,1
+17119,Head Lamp - LH,1,1
+17119,Front Bumper,1,1
+17130,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17151,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17151,Brake Shoe,1,1
+17151,Front Brake Pad Set,1,1
+17151,Outer Door Handle,1,1
+17151,Volve Door Packing,1,1
+17131,Strut Mount Kit,1,1
+17127,Dicky Shocks,1,1
+17127,Air Filter,1,1
+17140,Front Bumper,1,1
+17140,Front Bumper Bracket - LH,1,1
+17140,Front Bumper Bracket - RH,1,1
+17128,Air Filter,1,1
+17129,Air Filter,1,1
+17126,Air Filter,1,1
+17134,Belt Water Pump,1,1
+17263,Radiator Fan Motor,1,1
+17263,Resistor,1,1
+17160,Front Bumper Bracket - LH,1,1
+17176,Dicky Shocks,1,1
+17222,Fuel Lid Opener,1,1
+17375,Front Wheel Bearing,1,1
+17139,Front Strut Bush Kit,1,1
+17139,Lower Arm - LH,1,1
+17139,Lower Arm - RH,1,1
+17139,Front Stabilizer Link - LH/RH,1,1
+17625,Front Wheel Arch Cladding - RH,1,1
+17132,Front Fender Lining - RH,1,1
+17132,Front Fender Lining - LH,1,1
+17137,Front Fender Lining - LH,1,1
+17137,Front Fender Lining - RH,1,1
+17661,Engine Oil - Taxi Special - 5W30 (209L),1,1
+17141,Alternator,1,1
+17144,Oil Filter,1,1
+17133,Front Door Latch Assy - RH,1,1
+17135,Front Shock Absorber,1,1
+17135,Lower Arm - LH,1,1
+17135,Lower Arm - RH,1,1
+17135,Tie Rod End - LH/RH,1,1
+17135,Front Stabilizer Bush,1,1
+17172,Radiator,1,1
+17138,Wiring Harness Sub Assy,1,1
+17146,Mirror Assy - RH,1,1
+17143,Air Filter,1,1
+17145,Silencer,1,1
+17148,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17148,Clutch Slave Cylinder,1,1
+17153,Lower Arm,1,1
+17153,Brake Disc,1,1
+17147,Tensioner Adjuster,1,1
+17154,Rear Bumper,1,1
+17154,Refelector Assy,1,1
+17154,Rear - LH,1,1
+17233,Front Bumper,1,1
+17233,Rear Bumper,1,1
+17233,Front Bumper Bracket - LH,1,1
+17233,Front Bumper Bracket - RH,1,1
+17233,Rear Bumper Bracket - LH,1,1
+17233,Rear Bumper Bracket - RH,1,1
+17233,Rear Tail Lamp - RH,1,1
+17233,Weatherstrip,4,1
+17233,Front Door Outer - RH,1,1
+17233,Front Door Outer - LH,1,1
+17233,Rear Door - LH,1,1
+17233,Rear Door - RH,1,1
+17233,Clutch Master Cylinder,1,1
+17159,Front Fender Lining - LH,1,1
+17150,Fender Lining,1,1
+17150,Power Window Switch,1,1
+17150,Power Window Switch - RH,1,1
+17155,Front Brake pad,1,1
+17152,Front Brake pad,1,1
+17158,Front Brake pad,1,1
+17157,Belt,1,1
+17196,Garnish Radiator Grille Upper - LH,1,1
+17196,Rear Bumper,1,1
+17196,Holder,2,1
+17196,Rear Bumper Side - RH,1,1
+17196,Rear Bumper Side - LH,1,1
+17196,Mirror Assy - RH,1,1
+17196,Rear Tail Lamp - LH,1,1
+17196,Rear Tail Lamp - RH,1,1
+17196,Bumper Holder,1,1
+17196,Weather Strip,1,1
+17276,Front Bumper,1,1
+17577,Dicky Panel,1,1
+17579,Rear Bumper,1,1
+17162,Fog Lamp Cover - LH,1,1
+17166,Regulator Assy Front Window - RH,1,1
+17165,Gear Box Beeding,1,1
+17174,Oil Filter,1,1
+17174,Air Filter,1,1
+17174,Front Brake Pad Set,1,1
+17175,Oil Filter,1,1
+17175,Air Filter,1,1
+17175,Front Brake Pad Set,1,1
+17164,Front Bumper,1,1
+17164,Holder,1,1
+17164,Front Bumper - LH,1,1
+17164,Wheel Cap,1,1
+17193,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17193,Brake Shoe,1,1
+17193,Front Shock Absorber,1,1
+17193,Front Brake pad,1,1
+17193,Outer Door Handle,1,1
+17193,Front Stabilizer Link - LH/RH,1,1
+17193,Lower Arm,1,1
+17178,Front Bumper,1,1
+17178,Splash Guard Front Bumper,1,1
+17167,Coolant Green,1,1
+17177,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17169,Front Bumper,1,1
+17169,Front Bumper Bracket - LH,1,1
+17169,Front Bumper Bracket - RH,1,1
+17169,Hood Latch,1,1
+17169,Bonnet Assy,1,1
+17169,Bonnet Hinge Assy - LH,1,1
+17169,Bonnet Hinge Assy - RH,1,1
+17180,Rear Power Window Regulator - RH,1,1
+17217,Volve Door Packing,1,1
+17217,V Belt,1,1
+17182,Brake Disc,1,1
+17182,Top Strut Mount Kit,1,1
+17182,Lower Arm Set,1,1
+17182,Front Wheel Bearing,1,1
+17182,Rear Wheel Bearing,1,1
+17182,Engine Mounting Pad - C,1,1
+17183,Volve Door Packing,1,1
+17183,Spark Plug Wire,1,1
+17183,Air Filter,1,1
+17183,Front Brake pad,1,1
+17183,Drain Nut,1,1
+17183,Spark Plug Set Of 4,1,1
+17183,Fuel Filter,1,1
+17183,Engine Oil - HX5 - 15W40 (3.5L),1,1
+17179,Front Bumper,1,1
+17187,Horn,1,1
+17188,Silencer,1,1
+17186,Coolant Green,1,1
+17184,Coolant Green,1,1
+17185,Coolant Green,1,1
+17185,Coolant Red,1,1
+17185,Coolant Blue,1,1
+17635,Front Bumper,1,1
+17635,Front Fender - LH,1,1
+17635,Front Bumper Lower Grill,1,1
+17189,Engine Oil - 15W40,1,1
+17218,Front Fender Lining - LH,1,1
+17219,Front Bumper,1,1
+17210,Front Wheel Arch Cladding - LH,1,1
+17210,Front Door - LH,1,1
+17210,Rear Door - LH,1,1
+17210,Rear Wheel Arch Cladding - LH,1,1
+17210,Alloy Wheel Rim,1,1
+17190,Coolant Green,1,1
+17278,Power Window Switch,1,1
+17194,Coolant Green,1,1
+17194,Coolant Blue,1,1
+17194,Coolant Red,1,1
+17292,Front Bumper,1,1
+17292,Wiper Tank,1,1
+17292,Front Bumper Bracket - RH,1,1
+17292,Front Bumper Bracket - LH,1,1
+17292,Fog Lamp Cover - RH,1,1
+17292,Front Fog Lamp - RH,1,1
+17292,Wiper Spray Motor,1,1
+17303,Engine Under Cover,1,1
+17195,Mirror Assy - LH,1,1
+17201,Front Bumper,1,1
+17201,Rear Bumper,1,1
+17201,Front Bumper Bracket - LH,1,1
+17201,Front Bumper Bracket - RH,1,1
+17201,Rear Bumper Bracket - LH,1,1
+17201,Rear Bumper Bracket - RH,1,1
+17201,Front Mud Flap Set,1,1
+17203,Mirror Lens - RH,1,1
+17331,Silencer,1,1
+17331,Weatherstrip,2,1
+17331,Front Door Outer - LH,1,1
+17331,Rear Door - RH,1,1
+17331,Tailgate Cable,1,1
+17331,Engine Under Cover,1,1
+17331,Door Beeding,1,1
+17331,Mirror Cap - LH,1,1
+17567,Front Stabilizer Link - LH,1,1
+17567,Tie Rod End - LH,1,1
+17567,Ball Joint,1,1
+17567,Lower Arm - LH,1,1
+17567,Front Bumper Bracket - RH,1,1
+17567,Front Bumper Bracket - LH,1,1
+17567,Front Fender Lining - LH,1,1
+17567,Front Fender - LH,1,1
+17567,Shock Absorber,1,1
+17567,Dashboard,1,1
+17206,Rear Bumper,1,1
+17206,Rear Tail Lamp - RH,1,1
+17206,Dicky Shocks,1,1
+17206,Rear Bumper Bracket - LH,1,1
+17206,Rear Bumper Bracket - RH,1,1
+17205,Silencer,1,1
+17200,Rear Wiper Blade,1,1
+17197,Coolant Green,1,1
+17197,Coolant Red,1,1
+17239,Front Bumper,1,1
+17199,Hand Brake Cable,1,1
+17204,Front Brake Disc,1,1
+17204,Front Brake pad,1,1
+17207,Thermostat Elbow,1,1
+17208,Mirror Assy - RH,1,1
+17208,Mirror Cap - RH,1,1
+17202,Lower Arm,1,1
+17202,Front Shock Absorber,1,1
+17202,Balance Rod Bush,1,1
+17202,Tie Rod End,1,1
+17202,Ball Joint,1,1
+17202,Gear Oil 1L,1,1
+17202,Clutch Cable,1,1
+17202,Clutch Release Bearing,1,1
+17202,Clutch Kit (Disc+Pressure Plate),1,1
+17209,Front Brake pad,1,1
+17209,AC Filter,1,1
+17209,Oil Filter,1,1
+17209,Air Filter,1,1
+17209,Fuel Filter,1,1
+17213,Front Bumper,1,1
+17213,Radiator,1,1
+17213,Molding Radiator Grille Lower,1,1
+17213,Fog Lamp Cover - RH,1,1
+17213,Front Bumper Lower Grill,1,1
+17224,Front Bumper,1,1
+17224,Front Bumper Bracket - LH,1,1
+17224,Head Lamp - LH,1,1
+17224,Front Fender - LH,1,1
+17224,Emblem Kit,1,1
+17220,Coolant Red,1,1
+17220,Coolant Blue,1,1
+17220,Coolant Green,1,1
+17237,Fender Indicator - LH,1,1
+17211,Power Window Switch,1,1
+17211,Front Fog Lamp - LH,1,1
+17211,Front Wheel Arch Cladding - LH,1,1
+17260,Seat Belt,1,1
+17343,Front Bumper,1,1
+17343,Head Lamp - LH,1,1
+17343,Fog Lamp Cover - LH,1,1
+17343,Front Fog Lamp - LH,1,1
+17343,AC Condenser,1,1
+17343,Radiator Shroud,1,1
+17343,Front Bumper Bracket - LH,1,1
+17343,Front Bumper Bracket - RH,1,1
+17343,Radiator Upper Grille,1,1
+17343,Front Bumper Lower Grill,1,1
+17343,Radiator,1,1
+17230,Rear Bumper,1,1
+17230,Rear Mud Flap Set,1,1
+17212,Oil Filter,1,1
+17240,Front Door - RH,1,1
+17240,Weatherstrip,1,1
+17240,Front Door Outer - RH,1,1
+17240,Sealant,1,1
+17238,Front Bumper,1,1
+17238,Front Bumper Mesh Lower,1,1
+17266,Front Bumper,1,1
+17266,Front Fender - LH,1,1
+17266,Head Lamp - LH,1,1
+17266,Front Bumper Bracket - LH,1,1
+17225,Annabond,1,1
+17225,Crankshaft Front Oil Seal,1,1
+17259,Bumper Grill,1,1
+17235,Head Lamp - LH,1,1
+17248,Front Bumper,1,1
+17297,Fog Lamp Cover - RH,1,1
+17297,Front Fog Lamp - RH,1,1
+17223,Bezel Front Fog Lamp - LH,1,1
+17226,Air Filter,1,1
+17226,Oil Filter,1,1
+17227,Oil Pump,1,1
+17221,Front Brake pad,1,1
+17229,Front Bumper,1,1
+17229,Mud Flap Set,1,1
+17228,Mud Flap Set,1,1
+17231,Spark Plug,1,1
+17232,Petrol Pipe,1,1
+17234,Front Shock Absorber,1,1
+17234,Shock Absorber Mount,1,1
+17374,Mirror Assy - LH,1,1
+17236,AC Gas - 450G,1,1
+17334,Front Door - LH,1,1
+17334,Mirror Assy - LH,1,1
+17334,Front Bumper,1,1
+17334,Front Bumper Bracket - LH,1,1
+17334,Front Bumper Bracket - RH,1,1
+17284,Front Bumper,1,1
+17284,Front Bumper Bracket - LH,1,1
+17284,Front Bumper Bracket - RH,1,1
+17284,Rear Bumper,1,1
+17284,Rear Bumper Bracket - LH,1,1
+17284,Rear Bumper Bracket - RH,1,1
+17245,Hose,1,1
+17245,Inter Cooler Outlet N0 1,1,1
+17253,Rear Tail Lamp - LH,1,1
+17290,Rear Tail Lamp - LH,1,1
+17290,Rear Tail Lamp - RH,1,1
+17501,Rear Bumper,1,1
+17501,Holder,1,1
+17501,Rear Bumper Side - RH,1,1
+17246,Refelector Assy,1,1
+17246,Rear - RH,1,1
+17250,Member Front Side,1,1
+17244,Winding Machine,1,1
+17244,Run Front Door Glass - LH,1,1
+17320,Front Bumper,1,1
+17320,Front Bumper Bracket - LH,1,1
+17320,Front Bumper Bracket - RH,1,1
+17320,Front Bumper Lower Grill,1,1
+17320,Front Bumper Upper Grill,1,1
+17320,Head Lamp - RH,1,1
+17320,Bonnet Assy,1,1
+17320,Bonnet Hinge Assy - LH,1,1
+17320,Bonnet Hinge Assy - RH,1,1
+17320,Front Fender - LH,1,1
+17320,Radiator,1,1
+17320,Hood Lock,1,1
+17320,Radiator Outlet Hose,1,1
+17320,Coolant Tank,1,1
+17320,Mount,1,1
+17320,Radiator Support Upper,1,1
+17320,Pipe,1,1
+17256,Rear Shock Absorber,1,1
+17256,Rear Coil Spring,1,1
+17256,Strut Bush Kit,1,1
+17243,Holder,1,1
+17243,Rear Bumper Side - RH,1,1
+17243,Rear Bumper Reflector,1,1
+17249,Hose,1,1
+17241,Drain Plug,1,1
+17241,AC Gas - 450G,1,1
+17241,Gear Oil 1L - S2 G 80W90,1,1
+17242,Drain Plug,1,1
+17242,AC Gas - 450G,1,1
+17242,Gear Oil 1L - S2 G 80W90,1,1
+17247,Front Windshield,1,1
+17247,Windshield Beeding,1,1
+17264,Front Bumper,1,1
+17289,Rear Bumper,1,1
+17274,Petrol Pipe,1,1
+17257,Oil Filter,1,1
+17257,Air Filter,1,1
+17257,AC Filter,1,1
+17257,Front Brake Disc,1,1
+17257,Rear Brake Shoe Set,1,1
+17257,Fuel Filter,1,1
+17257,Drain Nut,1,1
+17258,Gear Oil 1L,1,1
+17258,Brake Oil,1,1
+17258,Dot 4(500ml),1,1
+17251,Brake Disc,1,1
+17254,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17254,Oil Filter,1,1
+17254,Air Filter,1,1
+17254,Glow Plug,1,1
+17450,Engine Mounting Pad - A,1,1
+17450,Engine Mounting Pad - B,1,1
+17252,Head Lamp - LH,1,1
+17279,Rear Wheel Bearing,1,1
+17280,Air Filter,1,1
+17262,Front Windshield,1,1
+17262,Windshield Beeding,1,1
+17262,Head Lamp - LH,1,1
+17262,Head Lamp - RH,1,1
+17255,Oil Cap,1,1
+17319,Dicky Rear Tail Lamp - RH,1,1
+17261,Weatherstrip,4,1
+17261,Front Door Outer - RH,1,1
+17261,Front Door Outer - LH,1,1
+17261,Rear Door Outer - RH,1,1
+17261,Rear Door Outer - LH,1,1
+17265,Rear Tail Lamp - LH,1,1
+17268,Engine Oil - 5W30,1,1
+17326,Front Windshield,1,1
+17488,Front Bumper,1,1
+17488,Front Fender - LH,1,1
+17488,Front Bumper Upper Grill,1,1
+17488,Monogram Set,1,1
+17488,Front Fender - RH,1,1
+17614,Fender Lining,1,1
+17286,Rear Shock Absorber,1,1
+17286,Front Wheel Bearing,1,1
+17286,Caliper Kit,1,1
+17286,Front Brake pad,1,1
+17286,Front Stabilizer Link Set,1,1
+17287,Wiper Blade 16,1,1
+17287,Wiper Blade 22,1,1
+17287,AC Filter,1,1
+17293,Belt,1,1
+17316,Front Bumper,1,1
+17316,Rear Bumper,1,1
+17316,Front Bumper Bracket - LH,1,1
+17316,Front Bumper Bracket - RH,1,1
+17275,Front Brake pad,1,1
+17313,Hose Pipe,1,1
+17269,Oil Filter,1,1
+17270,Oil Filter,1,1
+17285,Ball Joint Set,1,1
+17285,Tie Rod,1,1
+17285,Caliper Kit,1,1
+17277,Radiator,1,1
+17367,Windshield Beeding,1,1
+17271,Caliper Pin,1,1
+17272,Caliper Pin,1,1
+17273,Oil Filter,1,1
+17302,Brake Disc,1,1
+17352,Front Bumper,1,1
+17352,Front Bumper Bracket - LH,1,1
+17352,Wheel Arch Front - LH,1,1
+17312,Rear Bumper,1,1
+17385,Front Bumper Upper Grill,1,1
+17281,Air Filter,1,1
+17281,Oil Filter,1,1
+17281,AC Filter,1,1
+17318,Front Fender - RH,1,1
+17318,Front Bumper Bracket - RH,1,1
+17413,Dicky Emblems,1,1
+17324,Head Lamp - LH,1,1
+17296,AC Compressor,1,1
+17282,Dicky Rear Tail Lamp - RH,1,1
+17282,Rear Tail Lamp (Body Side) - RH,1,1
+17307,Hose Pipe,1,1
+17288,Front Bumper Upper Grill,1,1
+17291,Lower Arm,1,1
+17291,Front Shock Absorber,1,1
+17291,Balance Rod Bush,1,1
+17291,Rear Bumper,1,1
+17291,Outer Door Handle,1,1
+17291,Holder,1,1
+17291,Rear Bumper Side - LH,1,1
+17480,Ac Vent,1,1
+17480,Centre Ac Vent,1,1
+17409,Belt Water Pump,1,1
+17409,Bearing,1,1
+17298,Front Bumper,1,1
+17300,Head Lamp - LH,1,1
+17294,Clutch Kit (Disc+Pressure Plate),1,1
+17294,Clutch Release Bearing,1,1
+17489,Boot Lock Assy,1,1
+17528,AC Cooling Module Assy,1,1
+17295,Caliper Kit,1,1
+17295,Front Brake pad,1,1
+17295,Wheel Brake Cylinder,2,1
+17295,Rear - LH,1,1
+17295,Rear - RH,1,1
+17304,Towing cap,1,1
+17311,Lower Arm,1,1
+17314,Front Stabilizer Link Set,1,1
+17301,Front Wheel Bearing,1,1
+17301,Timing Chain Tensioner,1,1
+17301,Timing Chain Guide,1,1
+17301,Timing Kit Packing,1,1
+17301,Timing Chain,1,1
+17301,Rear Bumper,1,1
+17301,Front Bumper,1,1
+17322,Timing Kit,1,1
+17322,Holder,1,1
+17322,Rear Bumper Side - LH,1,1
+17322,Rear Bumper Bracket - LH,1,1
+17322,Front Bumper Bracket,1,1
+17364,Mirror Assy - RH,1,1
+17299,Air Filter,1,1
+17299,Oil Filter,1,1
+17378,Front Door - RH,1,1
+17378,Rear Door - RH,1,1
+17378,Weatherstrip,1,1
+17378,Front Door Outer - RH,1,1
+17309,Front Bumper Bracket - RH,1,1
+17309,Front Bumper Bracket - LH,1,1
+17309,Front Fender - RH,1,1
+17309,Front Bumper,1,1
+17305,Clutch Kit (Disc+Pressure Plate),1,1
+17305,Clutch Release Bearing,1,1
+17306,Clutch Kit (Disc+Pressure Plate),1,1
+17306,Clutch Release Bearing,1,1
+17308,Mirror Assy - LH,1,1
+17346,Shock Absorber Strut,1,1
+17310,Bonnet Assy Stay Rod,1,1
+17393,Front Strut Bush Kit,1,1
+17393,Front Brake pad,1,1
+17393,Front Brake Disc,1,1
+17393,Shock Absorber Mount,1,1
+17394,Front Strut Bush Kit,1,1
+17394,Front Brake pad,1,1
+17394,Front Brake Disc,1,1
+17394,Shock Absorber Mount,1,1
+17323,Belt,1,1
+17405,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17315,Front Bumper,1,1
+17315,Front Fender - RH,1,1
+17315,Front Bumper Bracket,1,1
+17315,Head Lamp - RH,1,1
+17317,Dicky Panel,1,1
+17317,Bonnet Hinge Assy - LH,1,1
+17317,Bonnet Hinge Assy - RH,1,1
+17317,Panel Assy -Tail Gate Trim,1,1
+17317,Dicky Emblems,1,1
+17317,Rear Tail Lamp - LH,1,1
+17317,Rear Tail Lamp - RH,1,1
+17317,Dicky Latch,1,1
+17317,Rear Bumper,1,1
+17317,Reflector,1,1
+17317,Brace Panel,1,1
+17372,Clutch Release Bearing,1,1
+17372,Clutch Kit,1,1
+17637,Dicky Panel,1,1
+17637,Rear Bumper,1,1
+17637,Rear Tail Lamp - RH,1,1
+17637,Dicky Emblems,1,1
+17637,Monogram Set,1,1
+17340,Bulb,1,1
+17321,Engine Bedding,1,1
+17332,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17325,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17328,Front Strut Set - LH,1,1
+17328,Front Strut Set - RH,1,1
+17328,Shock Absorber Strut Kit,1,1
+17328,Suspension Strut Mounting,1,1
+17328,Lower Arm - LH,1,1
+17328,Lower Arm - RH,1,1
+17328,Front Stabilizer Link - LH/RH,1,1
+17328,Ball Joint,1,1
+17328,Tie Rod End Set,1,1
+17328,Front Brake pad,1,1
+17327,Clutch Release Bearing,1,1
+17327,Clutch Kit (Disc+Pressure Plate),1,1
+17333,Rear Tail Lamp - LH,1,1
+17341,V Belt,1,1
+17336,Dicky Panel,1,1
+17422,Gearbox Mounting,1,1
+17330,Bumper Grill,1,1
+17350,Bumper Front Lower - LH,1,1
+17353,Fender Liner Clip,1,1
+17357,Brake Oil,1,1
+17357,Dot 4(250ML),1,1
+17356,Grease,1,1
+17355,Oil Filter,1,1
+17355,Air Filter,1,1
+17347,Head Lamp - RH,1,1
+17347,Head Lamp - LH,1,1
+17347,Fog Lamp Cover - RH,1,1
+17347,Fog Lamp Cover - LH,1,1
+17347,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17347,Speed Sensor,1,1
+17347,Coolant Tank,1,1
+17347,Oil Seal - Engine,1,1
+17347,Volve Door Packing,1,1
+17347,Cylinder Head Gasket,1,1
+17347,Oil Filter,1,1
+17347,Oil Seal,1,1
+17987,Front Bumper,1,1
+17329,Clutch Cable,1,1
+17329,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17360,Wheel Cap,1,1
+17360,Fuel Filter,1,1
+17633,Wheel Brake Cylinder,2,1
+17633,Rear - RH,1,1
+17633,Rear - LH,1,1
+17633,Wiper Motor & Link Set,1,1
+17633,Shock Absorber Strut,1,1
+17633,Shock Absorber Strut Kit,1,1
+17633,Front Bumper,1,1
+17633,Bumper Holder,1,1
+17359,Wiper Blade,1,1
+17362,Strut Mount Kit,1,1
+17362,Front Strut Bush Kit,1,1
+17362,Front Stabilizer Link Set,1,1
+17362,Front Brake Disc,1,1
+17362,Front Brake pad,1,1
+17468,Front Bumper,1,1
+17468,Front Fender - RH,1,1
+17468,Bumper Holder,1,1
+17468,Bumper Grill,1,1
+17338,Front Bumper,1,1
+17338,Rear Tail Lamp - LH,1,1
+17361,Mirror Cap,1,1
+17384,Bumper Grill,1,1
+17351,Wheel Arch Front - LH,1,1
+17351,Wheel Arch Front - RH,1,1
+17351,Mirror Assy - LH,1,1
+17354,AC Cooling Module Assy,1,1
+17380,Front Shock Absorber,1,1
+17380,Rear Shock Absorber,1,1
+17379,Front Bumper,1,1
+17379,Rear Bumper,1,1
+17379,Emblem Kit,1,1
+17379,Front Fender Lining - LH,1,1
+17379,Engine Cover,1,1
+17379,Engine Under Cover - LH,1,1
+17379,Engine Under Cover - RH,1,1
+17379,Front Bumper Bracket - LH,1,1
+17379,Front Bumper Bracket - RH,1,1
+17379,Rear Bumper Bracket - LH,1,1
+17379,Rear Bumper Bracket - RH,1,1
+17345,Head Lamp - LH,1,1
+17345,Front Fender - LH,1,1
+17345,Holder,1,1
+17345,Front Bumper - LH,1,1
+17345,Front Bumper,1,1
+17464,Front Fender Lining - LH,1,1
+17344,AC Filter,1,1
+17344,Air Filter,1,1
+17337,Bolt,1,1
+17339,Wheel Nut,1,1
+17335,Air Filter,1,1
+17335,AC Filter,1,1
+17335,Oil Filter,1,1
+17373,Speed Sensor,1,1
+17342,AC Gas - 450G,1,1
+17349,Ball Joint,1,1
+17658,Front Bumper Lower,1,1
+17658,Fender Liner Clip,1,1
+17658,Front Bumper,1,1
+17658,Holder,2,1
+17658,Front Bumper - RH,1,1
+17658,Front Bumper - LH,1,1
+17658,Head Lamp - RH,1,1
+17658,Indicator Front - RH,1,1
+17658,Front Wheel Arch Cladding - RH,1,1
+17658,Front Fender - RH,1,1
+17658,Front Wheel Arch Cladding - LH,1,1
+17369,Spark Plug,1,1
+17587,Quarter Panel Outer - RH,1,1
+17587,Door Beeding,1,1
+17587,Lock,1,1
+17365,Front Brake pad,1,1
+17365,Brake Shoe,1,1
+17365,Wheel Brake Cylinder - LH,1,1
+17365,Rear Brake Drum,1,1
+17365,Spark Plug,1,1
+17365,Air Filter,1,1
+17365,Oil Filter,1,1
+17365,Fuel Filter,1,1
+17358,Front Bumper,1,1
+17358,Bumper Holder,1,1
+17358,Fender Indicator - LH,1,1
+17358,Fender Indicator - RH,1,1
+17613,Frame,1,1
+17428,Indicator Front - LH,1,1
+17428,Rear Tail Lamp - LH,1,1
+17371,Rear Bumper,1,1
+17425,Water Pump,1,1
+17425,Oil Sump Packing,1,1
+17366,Rear Shock Absorber,1,1
+17366,Brake Light Switch,1,1
+17366,Hose Pipe,1,1
+17370,Petrol Pipe,1,1
+17368,Fog Lamp Cover - RH,1,1
+17368,Mirror Assy - RH,1,1
+17368,Cross Member,1,1
+17368,AC Condenser,1,1
+17368,Towing cap,1,1
+17388,AC Cooling Module Assy,1,1
+17377,Clutch Kit (Disc+Pressure Plate),1,1
+17392,Head Lamp - RH,1,1
+17392,Head Lamp - LH,1,1
+17376,Radiator Fan Assy,1,1
+17383,Front Bumper,1,1
+17383,Wiper Tank,1,1
+17383,Radiator,1,1
+17383,AC Condenser,1,1
+17383,Air Filter Assy,1,1
+17383,Oil Filter,1,1
+17383,AC Filter,1,1
+17383,Front Suspension Strut - RH,1,1
+17383,Lower Arm - LH,1,1
+17383,Fog Lamp Cover - RH,1,1
+17383,Fog Lamp Cover - LH,1,1
+17383,Front Fog Lamp - RH,1,1
+17383,Front Fog Lamp - LH,1,1
+17383,Hood Lock,1,1
+17383,Tie Member Assy,1,1
+17407,Front Bumper Lower Grill,1,1
+17407,Radiator Fan Assy,1,1
+17407,Bonnet Assy,1,1
+17407,Air Bag,1,1
+17407,Passenger Airbag Module Assy,1,1
+17408,Front Bumper Lower Grill,1,1
+17408,Radiator Fan Assy,1,1
+17408,Bonnet Assy,1,1
+17408,Air Bag,1,1
+17408,Passenger Airbag Module Assy,1,1
+17387,Door Beeding,1,1
+17387,Front Bumper,1,1
+17387,Head Lamp - RH,1,1
+17382,Lower Arm - RH,1,1
+17382,Front Stabilizer Link Set,1,1
+17381,Garnish,1,1
+17381,Cowl Top Side - RH,1,1
+17386,Air Filter,1,1
+17386,Oil Filter,1,1
+17386,AC Filter,1,1
+17406,Steering Box,1,1
+17406,Front Stabilizer Link Set,1,1
+17406,Balance Rod Bush,1,1
+17406,Run Front Door Glass - LH,1,1
+17406,Mirror Assy - RH,1,1
+17411,Front Bumper,1,1
+17403,Front Fender Lining - RH,1,1
+17403,Front Fender Lining - LH,1,1
+17403,Splash Guard Front Bumper,1,1
+17403,Splash Guard Front Fender - LH,1,1
+17403,Splash Guard Front Fender - RH,1,1
+17390,Rear Tail Lamp - LH,1,1
+17390,Rear Fender Lining - RH,1,1
+17486,Rear Fender Lining - LH,1,1
+17455,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17574,Front Bumper,1,1
+17391,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17391,Hand Brake Cable,1,1
+17544,Head Lamp - RH,1,1
+17389,Front Bumper,1,1
+17389,Head Lamp - LH,1,1
+17389,Bumper Grill,1,1
+17389,Head Light Bracket - LH,1,1
+17389,Bonnet Assy,1,1
+17389,Bonnet Hinge Assy - LH,1,1
+17389,Bonnet Hinge Assy - RH,1,1
+17398,Valve Door Gasket,1,1
+17432,Brake Shoe,1,1
+17492,Engine O Rings,1,1
+17492,Throttle Body Gasket,1,1
+17397,Front Stabilizer Link - LH/RH,1,1
+17397,Lower Arm Set,1,1
+17402,Front Brake pad,1,1
+17402,Air Filter,1,1
+17402,Oil Filter,1,1
+17400,Gear Oil 1L,1,1
+17400,Clutch Cable,1,1
+17400,Clutch Release Bearing,1,1
+17400,Flywheel Bearing,1,1
+17400,Flywheel,1,1
+17400,Clutch Set,1,1
+17400,Wiper Blade,1,1
+17401,Gear Oil 1L,1,1
+17401,Clutch Cable,1,1
+17401,Clutch Release Bearing,1,1
+17401,Flywheel Bearing,1,1
+17401,Flywheel,1,1
+17401,Clutch Set,1,1
+17401,Wiper Blade,1,1
+17404,Wiper Blade 12,1,1
+17404,Wiper Blade 14,1,1
+17404,Wiper Blade 16,1,1
+17404,Wiper Blade 22,1,1
+17404,Wiper Blade 26,1,1
+17399,Cap,1,1
+17551,Lower Arm - LH,1,1
+17551,Lower Arm - RH,1,1
+17416,Front Brake pad,1,1
+17416,Front Shock Absorber,1,1
+17416,Rear Shock Absorber,1,1
+17416,Dicky Shocks,1,1
+17416,Clutch Cable,1,1
+17416,Clutch Release Bearing,1,1
+17416,Clutch Kit (Disc+Pressure Plate),1,1
+17416,Air Filter,1,1
+17416,Wheel Brake Cylinder,1,1
+17416,Rear - LH,1,1
+17420,Ball Joint,1,1
+17417,Crankshaft Front Oil Seal,1,1
+17417,Timing Chain Tensioner,1,1
+17417,Timing Chain Guide,1,1
+17417,Timing Kit Packing,1,1
+17417,Clutch Kit (Disc+Pressure Plate),1,1
+17417,Timing Chain,1,1
+17417,Crankshaft Timing Sprocket,1,1
+17436,V Belt,1,1
+17433,Radiator Fan Motor,1,1
+17419,Clutch Kit (Disc+Pressure Plate),1,1
+17419,Clutch Release Bearing,1,1
+17419,Clutch Slave Cylinder,1,1
+17419,Clutch Master Cylinder,1,1
+17419,Wheel Brake Cylinder,1,1
+17419,Rear - LH,1,1
+17412,Front Stabilizer Link Set,1,1
+17466,Balance Rod,1,1
+17410,Air Filter,1,1
+17539,Front Fender Lining - RH,1,1
+17445,Rear Tail Lamp - RH,1,1
+17414,Wheel Cap,1,1
+17414,Steering Assy,1,1
+17414,Gearbox Mounting,1,1
+17472,Fuel Filter,1,1
+17418,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17418,Clutch Cable,1,1
+17421,Clutch Kit (Disc+Pressure Plate),1,1
+17434,Pipe,1,1
+17415,Bonnet Assy,1,1
+17415,Bonnet Hinge Assy - LH,1,1
+17415,Bonnet Hinge Assy - RH,1,1
+17415,Front Bumper,1,1
+17415,Front Bumper Bracket - LH,1,1
+17415,Towing cap,1,1
+17415,Member Comp Front Bumper Upper,1,1
+17415,Head Lamp - LH,1,1
+17415,Front Fender - LH,1,1
+17449,Radiator Grill,1,1
+17449,Front Fender Lining - RH,1,1
+17423,AC Filter,1,1
+17424,AC Filter,1,1
+17441,Ac Heater Coil,1,1
+17822,Rear Tail Lamp - RH,1,1
+17890,Member Front Side - LH,1,1
+17438,Front Door Latch Assy - RH,1,1
+17446,Front Fender - LH,1,1
+17446,Holder,1,1
+17446,Front Bumper - LH,1,1
+17446,Ball Joint,1,1
+17446,Lower Arm,1,1
+17446,Front Stabilizer Link - LH,1,1
+17604,Mirror Cap,1,1
+17723,Running Board - LH,1,1
+17426,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17426,Radiator,1,1
+17427,Flywheel,1,1
+17481,Lower Arm,1,1
+17481,Balance Rod Bush,1,1
+17442,Oil Filter,1,1
+17442,Air Filter,1,1
+17429,Front Shock Absorber,1,1
+17643,Gear Lever Bush,1,1
+17479,Holder,1,1
+17479,Rear Bumper Side - RH,1,1
+17435,Throttle Body Assy,1,1
+17435,Rear Tail Lamp - RH,1,1
+17430,Dicky Emblems,1,1
+17430,Logo,1,1
+17443,Cap,1,1
+17558,Gearbox Mounting,1,1
+17558,Gear Shifter Cable,1,1
+17558,Front Drive Shaft - LH,1,1
+17570,Gear Oil 1L - S2 G 80W90,1,1
+17473,Clutch Kit (Disc+Pressure Plate),1,1
+17431,Silencer,1,1
+17560,Front Bumper,1,1
+17560,Holder,2,1
+17560,Front Bumper - LH,1,1
+17560,Rear Bumper Side - LH,1,1
+17560,Lower Arm - LH,1,1
+17560,Cross Member,1,1
+17560,Rear Tail Lamp (Body Side) - LH,1,1
+17556,Lower Arm - LH,1,1
+17556,Front Suspension Strut - LH,1,1
+17556,Front Drive Shaft - LH,1,1
+17556,Ball Joint,1,1
+17556,Front Bumper Upper Grill,1,1
+17636,Intake Manifold,1,1
+17636,Radiator Fan Assy,1,1
+17636,AC Condenser,1,1
+17636,Radiator,1,1
+17636,Engine Mounting,1,1
+17471,Panel Battery Box,1,1
+17439,Coolant Elbow,1,1
+17439,Rear Elbow Hose,1,1
+17440,Gear Shifter Cable,1,1
+17437,Cross Member,1,1
+17444,Ac Heater Coil,1,1
+17454,Bonnet Assy,1,1
+17454,Front Fender - RH,1,1
+17454,Head Lamp - RH,1,1
+17454,Head Lamp - LH,1,1
+17454,Bonnet Assy Latch,1,1
+17454,Front Bumper,1,1
+17454,Radiator,1,1
+17454,Rear Bumper,1,1
+17462,Mirror Assy - LH,1,1
+17462,Mirror Assy - RH,1,1
+17462,Sensor,1,1
+17462,Outer Door Handle - LH,1,1
+17475,Wheel Rim,1,1
+17589,Head Lamp - RH,1,1
+17589,Head Lamp - LH,1,1
+17589,Fog Lamp Set,1,1
+17589,Air Filter Assy,1,1
+17447,Clutch Release Bearing,1,1
+17448,Coolant Blue,1,1
+17448,Coolant Green,1,1
+17448,Coolant Red,1,1
+17470,Front Bumper Upper Grill,1,1
+17470,Front Bumper Lower Grill,1,1
+17470,Front Fog Lamp Cover,1,1
+17470,Front Wiper Arm,1,1
+17498,Front Fender Lining - RH,1,1
+17499,Impact Absorber Beam - Front Bumper,1,1
+17500,AC Condenser,1,1
+17500,Radiator,1,1
+17456,Lower Arm - LH,1,1
+17456,Tie Rod End Set,1,1
+17456,Ball Joint,1,1
+17483,Front Bumper,1,1
+17483,Holder,2,1
+17483,Front Bumper - RH,1,1
+17483,Front Bumper - LH,1,1
+17483,Pipe,1,1
+17451,Power Window Switch,1,1
+17465,Tyre,1,1
+17467,Dicky Shocks - LH,1,1
+17467,Dicky Shocks - RH,1,1
+17649,Power Window Switch - RH,1,1
+17649,Power Window Switch - LH,1,1
+17478,Cylinder Head Gasket,1,1
+17457,Lower Arm - LH,1,1
+17457,Lower Arm - RH,1,1
+17460,Caliper Pin,1,1
+17460,Brake Lining,1,1
+17460,Ac Control Unit,1,1
+17453,Front Shock Absorber,1,1
+17452,Splash Cover - RH,1,1
+17463,Clutch Master Cylinder,1,1
+17463,Clutch Slave Cylinder,1,1
+17601,Engine Control Module [ECM],1,1
+17459,Rear Wheel Hub,1,1
+17469,Head Lamp - RH,1,1
+17458,Clutch Release Bearing,1,1
+17527,Clutch Kit (Disc+Pressure Plate),1,1
+17527,Clutch Release Bearing,1,1
+17495,Front Bumper,1,1
+17495,Front Bumper Lower Grill,1,1
+17461,Rear Bumper,1,1
+17550,Front Wheel Arch Cladding - RH,1,1
+17474,Head Lamp Set,1,1
+17519,AC Condenser,1,1
+17519,Radiator Fan Assy,1,1
+17519,Radiator,1,1
+17476,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17476,Flywheel,1,1
+17476,Clutch Cable,1,1
+17477,Gear Oil 1L - S2 G 80W90,1,1
+17490,Rear Bumper Bracket - RH,1,1
+17504,Panel Battery Box,1,1
+17503,Petrol Pipe,1,1
+17628,Splash Guard Front Bumper,1,1
+17642,Window Regulator With Motor,1,1
+17482,Front Door - RH,1,1
+17482,Rear Door - RH,1,1
+17505,Silencer,1,1
+17487,Fuel Pump Assy,1,1
+17682,Door Beeding,1,1
+17599,Oil Filter,1,1
+17599,Air Filter,1,1
+17599,Gear Box Beeding,1,1
+17599,Radiator Fan Assy,1,1
+17599,Front Fender Lining - LH,1,1
+17513,Mirror Assy - LH,1,1
+17513,Mirror Assy - RH,1,1
+17513,Front Bumper,1,1
+17513,Front Wheel Arch Cladding - RH,1,1
+17513,Front Wheel Arch Cladding - LH,1,1
+17513,Head Lamp - RH,1,1
+17513,Rear Tail Lamp - LH,1,1
+17513,Rear Mud Flap,1,1
+17513,Front Fender Lining - RH,1,1
+17513,Front Fender Lining - LH,1,1
+17485,Rear Bumper,1,1
+17485,Rear Bumper Bracket - LH,1,1
+17502,Front Bumper,1,1
+17493,Door Switch Assy,1,1
+17491,Clutch Cable,1,1
+17491,Clutch Kit (Disc+Pressure Plate),1,1
+17496,Ball Joint,1,1
+17497,Glow Plug (Heater Plug Or Coil),1,1
+17494,Inner Door Handle - RH,1,1
+17841,Front Wheel Arch Cladding - LH,1,1
+17841,Rear Wheel Arch Cladding - LH,1,1
+17841,Cladding,1,1
+17841,Front Fender - RH,1,1
+17540,Engine Oil - Taxi Special - 5W30 (209L),1,1
+17510,Star Joint,1,1
+17511,Rear Tail Lamp - RH,1,1
+17506,Mirror Assy - LH,1,1
+17507,Power Steering Motor Assy,1,1
+17509,Coolant Elbow,1,1
+17509,Radiator Inlet Hose,1,1
+17509,Thermostat Elbow,1,1
+17509,Hose - Heater Coolant Outlet,1,1
+17509,Hose - Heater Coolant Inlet,1,1
+17518,Rear Wheel Bearing,1,1
+17508,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17508,Clutch Cable,1,1
+17516,Front Brake pad,1,1
+17520,Shock Absorber Mount,1,1
+17517,Power Window Switch,1,1
+17514,Front Drive Shaft - LH,1,1
+17514,Front Bumper,1,1
+17514,Front Bumper Bracket - LH,1,1
+17514,Front Bumper Bracket - RH,1,1
+17514,Weatherstrip,4,1
+17514,Front Door Outer - RH,1,1
+17514,Front Door Outer - LH,1,1
+17514,Rear Door Outer - RH,1,1
+17514,Rear Door Outer - LH,1,1
+17512,Oil Filter,1,1
+17512,Air Filter,1,1
+17512,AC Filter,1,1
+17538,Front Bumper,1,1
+17515,Oil Filter,1,1
+17610,Rear Wheel Arch Cladding - LH,1,1
+17521,Oil Filter,1,1
+17521,Air Filter,1,1
+17521,AC Filter,1,1
+17541,Rear Shock Absorber,1,1
+17541,Lower Ball Joint,1,1
+17541,Wheel Brake Cylinder,2,1
+17541,Rear - RH,1,1
+17541,Rear - LH,1,1
+17522,Oil Filter,1,1
+17523,Clutch Cable,1,1
+17523,Clutch Kit (Disc+Pressure Plate),1,1
+17523,Clutch Release Bearing,1,1
+17524,Clutch Cable,1,1
+17524,Clutch Kit (Disc+Pressure Plate),1,1
+17524,Clutch Release Bearing,1,1
+17600,Mirror Assy - RH,1,1
+17600,Front Bumper Lower Grill,1,1
+17529,Cap,1,1
+17525,Front Drive Shaft - LH,1,1
+17525,Front Drive Shaft - RH,1,1
+17526,Lower Arm,1,1
+17526,Front Stabilizer Link - LH/RH,1,1
+17526,Front Suspension Strut Assy - LH,1,1
+17526,Front Suspension Strut Assy - RH,1,1
+17526,Rear Suspension Strut Assy - LH/RH,1,1
+17555,Silencer Muffler,1,1
+17555,Lock,1,1
+17530,Rear Shock Absorber,1,1
+17530,Front Brake pad,1,1
+17572,Bolt,1,1
+17572,Door Beeding,1,1
+17554,Front Bumper,1,1
+17554,Front Fender Lining - RH,1,1
+17554,Front Fender - RH,1,1
+17554,Front Door - RH,1,1
+17554,Mirror Assy - RH,1,1
+17531,AC Cooling Module Assy,1,1
+17535,Steering Assy,1,1
+17536,Shock Absorber Mount,1,1
+17536,Balance Rod Bush,1,1
+17532,Front Stabilizer Link Set,1,1
+17542,Mirror Assy - RH,1,1
+17533,Radiator,1,1
+17533,Dicky Shocks,1,1
+17549,Front Wheel Bearing,1,1
+17543,Oil Sump Packing,1,1
+17534,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17652,Mirror Cap - LH,1,1
+17668,Mirror Lens - LH,1,1
+17547,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17673,Head Lining Roof,1,1
+17609,Head Lamp - LH,1,1
+17609,Front Bumper,1,1
+17609,Front Bumper Bracket - RH,1,1
+17609,Front Bumper Bracket - LH,1,1
+17676,Front Fender Lining - LH,1,1
+17676,Tie Member Assy,1,1
+17537,Trim - Rear Door,1,1
+17545,Lower Arm - RH,1,1
+17545,Front Brake pad,1,1
+17545,Oil Filter,1,1
+17545,Air Filter,1,1
+17562,Gear Box Beeding,1,1
+17632,Clip,1,1
+17553,Front Wheel Bearing,1,1
+17548,Mirror Assy - RH,1,1
+17546,Mirror Assy - RH,1,1
+17565,Wheel Cap,1,1
+17565,Air Filter,1,1
+17565,Oil Filter,1,1
+17566,Wheel Cap,1,1
+17566,Air Filter,1,1
+17566,Oil Filter,1,1
+17561,Mirror Assy - LH,1,1
+17581,Air Filter,1,1
+17581,Oil Filter,1,1
+17552,Wiper Motor & Link Set,1,1
+17639,Front Bumper,1,1
+17639,Front Bumper Lower Grill,1,1
+17639,Front Fog Lamp - RH,1,1
+17639,Bonnet Chrome Garnish - LH,1,1
+17559,Front Brake pad,1,1
+17557,Rear Tail Lamp - LH,1,1
+17626,Bumper Grill,1,1
+17627,Front Bumper Bracket,1,1
+17627,Front Bumper,1,1
+17627,Fender Lining,1,1
+17612,Front Bumper,1,1
+17612,Front Bumper Bracket,1,1
+17612,Rear Bumper,1,1
+17960,Splash Guard Front Bumper,1,1
+17960,Mirror Assy - LH,1,1
+18092,Front Fender - RH,1,1
+17568,Ac Vent,1,1
+17568,Front Glass Channel - LH,1,1
+17563,Air Filter,1,1
+17608,Front Bumper,1,1
+17608,Front Fog Lamp - LH,1,1
+17571,Lower Arm - LH,1,1
+17584,Front Brake pad,1,1
+17584,Brake Disc,1,1
+17584,Caliper Pin,1,1
+17594,Front Wheel Bearing,1,1
+17583,Front Bumper,1,1
+17583,Radiator Support Bracket Upper,1,1
+17580,Idler Pulley,1,1
+17580,Rear Tail Lamp - RH,1,1
+17585,Towing cap,1,1
+17564,Front Bumper,1,1
+17575,Clutch Slave Cylinder,1,1
+17666,Front Bumper,1,1
+17666,Rear Bumper,1,1
+17666,Front Bumper Bracket - LH,1,1
+17992,Quarter Panel Rear - RH,1,1
+17992,Rear Tail Lamp - RH,1,1
+17992,Front Bumper Bracket - RH,1,1
+17992,Rear Bumper Bracket - LH,1,1
+17992,Rear Bumper Bracket - RH,1,1
+17597,Alternator Belt,1,1
+17597,Belt,1,1
+17597,Compressor,1,1
+17573,Pipe,1,1
+17582,Air Filter,1,1
+17582,Front Stabilizer Link Set,1,1
+17623,Pipe,1,1
+17623,Rear Suspension Bush Kit,1,1
+17586,Coolant bottom hose,1,1
+17586,Hose,1,1
+17590,Air Filter,1,1
+17569,Centre Ac Vent,1,1
+17576,Front Brake pad,1,1
+17576,Front Brake Disc,1,1
+17578,Clutch Cable,1,1
+17578,Clutch Kit (Disc+Pressure Plate),1,1
+17591,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17591,Lower Arm - LH,1,1
+17591,Lower Arm - RH,1,1
+17591,Balance Rod Bush,1,1
+17588,Lower Arm - RH,1,1
+17588,Lower Arm - LH,1,1
+17602,Rear Tail Lamp - RH,1,1
+17596,Lower Arm - LH,1,1
+17721,Cap,1,1
+17593,Front Bumper Upper Grill,1,1
+17592,Clutch Kit (Disc+Pressure Plate),1,1
+17592,Clutch Release Bearing,1,1
+17592,Clutch Cable,1,1
+17838,Rear Bumper,1,1
+17838,Front Bumper Upper Grill,1,1
+17838,Front Bumper Lower Grill,1,1
+17838,Dicky Panel,1,1
+17838,Panel Assy -Tail Gate Trim,1,1
+17838,Panel,1,1
+17838,Back,1,1
+17840,Air Filter Pipe,1,1
+17840,Shock Absorber Mount,1,1
+17656,Engine Under Cover,1,1
+17595,Ac Control Unit,1,1
+17595,Door Beeding,1,1
+17603,Tie Rod (Steering),1,1
+17598,Rear Bumper,1,1
+17616,Thermostat Housing,1,1
+17616,Hose Pipe,1,1
+17607,Front Fender Lining - LH,1,1
+17638,Engine Oil - 5W30 - 210L,1,1
+17617,Valve Door Gasket,1,1
+17617,Air Filter,1,1
+17617,Oil Filter,1,1
+17617,Timing Kit,1,1
+17605,Windshield Beeding,1,1
+17615,Head Lamp - RH,1,1
+17615,Holder,1,1
+17615,Front Bumper - RH,1,1
+17665,Front Bumper,1,1
+17665,Front Fender - RH,1,1
+17696,AC Cutoff Switch,1,1
+17606,Horn,1,1
+17653,Engine Oil - Taxi Special - 5W30 (209L),1,1
+17654,Engine Oil - Taxi Special - 5W30 (209L),1,1
+17618,Throttle Body,1,1
+17629,Clutch Kit (Disc+Pressure Plate),1,1
+17629,Clutch Cable,1,1
+17657,Oil Filter,1,1
+17657,Air Filter,1,1
+17611,Front Bumper,1,1
+17621,Clutch Kit (Disc+Pressure Plate),1,1
+17621,Clutch Release Bearing,1,1
+17619,Coolant Green,1,1
+17624,Rear Tail Lamp (Body Side) - RH,1,1
+17622,Clutch Kit (Disc+Pressure Plate),1,1
+17622,Clutch Release Bearing,1,1
+17620,Front Brake pad,1,1
+17630,Radiator,1,1
+18099,Dicky Panel,1,1
+18099,Dicky Emblems,1,1
+18152,Mirror Assy - RH,1,1
+17640,Front Bumper,1,1
+17640,Holder,2,1
+17640,Front Bumper - RH,1,1
+17640,Front Bumper - LH,1,1
+17646,Idler Timing,1,1
+17647,Valve Door Gasket,1,1
+17647,Gasket Injector,1,1
+17647,Timing Kit,1,1
+17647,Tensioner Assy,1,1
+17634,Rear Parcel Tray Shelf,1,1
+17634,Front Bumper Lower Grill,1,1
+17648,Oil Filter,1,1
+17783,Oil Filter,1,1
+17641,Lower Arm Set,1,1
+17641,Front Stabilizer Link - LH/RH,1,1
+17641,Rear Brake Shoe Set,1,1
+17641,Oil Filter,1,1
+17641,Air Filter,1,1
+17631,Oil Filter,1,1
+17664,Regulator Assy Front Window - RH,1,1
+17662,Brake Master Cylinder,1,1
+17650,Cylinder Head Gasket,1,1
+17650,Oil Seal,1,1
+17650,Oil Seal Crankshaft,1,1
+17650,Thermoshaft Valve,1,1
+17650,Thermostat Housing,1,1
+17650,Valve Door Gasket,1,1
+17650,Hose Pipe,1,1
+17644,Panel,1,1
+17644,Back,1,1
+17645,Front Brake Pad Set,1,1
+17659,Air Filter,1,1
+17659,AC Filter,1,1
+17669,Engine Oil - Taxi Special - 5W30 (209L),1,1
+17651,Wheel Cap,1,1
+17667,Clutch Release Bearing,1,1
+17667,Clutch Kit (Disc+Pressure Plate),1,1
+17655,Clutch Kit (Disc+Pressure Plate),1,1
+17655,Clutch Cable,1,1
+17672,Steering Box,1,1
+17672,Brake Master Cylinder,1,1
+17672,Lower Arm,1,1
+17672,Front Suspension Strut - RH,1,1
+17672,Front Suspension Strut - LH,1,1
+17672,Rear Shock Absorber - LH,1,1
+17675,Member Front Side,1,1
+17660,Rear Tail Lamp - LH,1,1
+17660,Shock Absorber Strut,1,1
+17670,Engine Oil - 5W30 - 210L,1,1
+17774,Clutch Kit (Disc+Pressure Plate),1,1
+17774,Clutch Release Bearing,1,1
+17674,Parking Bulb,1,1
+17663,Timing Kit,1,1
+17688,Rear Wiper Blade With Arm,1,1
+17671,Front Brake pad,1,1
+17671,Brake Disc,1,1
+17678,Spark Plug,1,1
+17681,Engine Oil - Taxi Special - 5W30 (209L),1,1
+17677,Lower Arm,1,1
+17677,Drain Nut,1,1
+17677,Drain Plug,1,1
+17677,Caliper Pin,1,1
+17694,Horn,1,1
+17680,Engine Oil - 5W30 (208L),1,1
+17679,Engine Oil - Taxi Special - 5W30 (209L),1,1
+17710,Front Brake pad,1,1
+17710,Front Brake Disc,1,1
+17710,Air Filter,1,1
+17710,Oil Filter,1,1
+17710,Power Window Switch,1,1
+17710,Front Stabilizer Link - LH/RH,1,1
+17710,Centre Ac Vent,1,1
+17685,Bumper Clip,1,1
+17685,Front Bumper Bracket - LH,1,1
+17685,Front Bumper Bracket - RH,1,1
+17685,Front Bumper,1,1
+17704,Rubber Hose Radiator Upper,1,1
+17743,Dicky Shocks,1,1
+17819,Power Window Switch,1,1
+17693,Wheel Brake Cylinder,1,1
+17693,Rear - LH,1,1
+17693,Rear Door Latch Assy - RH,1,1
+17693,Rear Door Latch Assy - LH,1,1
+17798,Rear Outer Door Handle - RH,1,1
+17701,Head Lamp - RH,1,1
+17701,Mirror Assy - RH,1,1
+17701,Wiper Nozzle,1,1
+17701,Alternator Belt,1,1
+17701,Belt,1,1
+17701,Compressor,1,1
+17701,Fuel Filter,1,1
+17686,Brake Disc,1,1
+17689,Rear Tail Lamp - RH,1,1
+17714,Rear Tail Lamp - RH,1,1
+17726,Front Stabilizer Link - LH/RH,1,1
+17726,Wheel Cap,1,1
+17698,Monogram Set,1,1
+17695,Steering Assy,1,1
+17695,Balance Rod Bush,1,1
+17695,Front Stabilizer Link - LH/RH,1,1
+17695,Front Brake pad,1,1
+17695,Engine Mounting Pad - A,1,1
+17695,Front Brake Disc,1,1
+17695,Gear Leaver Knob,1,1
+17695,AC Filter,1,1
+17695,Air Filter,1,1
+17695,Oil Filter,1,1
+17695,Fog Lamp Bulb,1,1
+17695,Parking Bulb,1,1
+17695,Spark Plug Set Of 4,1,1
+17695,Hose,1,1
+17695,Vacuum(Vgt To Pipe),1,1
+17886,AC Cooling Module Assy,1,1
+17886,Air Filter,1,1
+17683,Belt,1,1
+17683,Compressor,1,1
+17687,Clutch Slave Cylinder,1,1
+17687,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17687,Tensioner Belt,1,1
+17687,Tensioner Assy,1,1
+17684,Rear Shock Absorber,1,1
+17691,Pedal Set,1,1
+17691,Clutch And Brake,1,1
+17760,Pad Accelerator Pedal,1,1
+17692,Rear Tail Lamp - RH,1,1
+17690,Water Pump,1,1
+17690,Alternator Belt,1,1
+17702,Lower Arm,1,1
+17697,Air Filter,1,1
+17729,Coolant Tank,1,1
+17699,Rear Bumper,1,1
+17699,Holder,2,1
+17699,Rear Bumper Side - RH,1,1
+17699,Rear Bumper Side - LH,1,1
+17699,Bumper Grill,1,1
+17700,Thermostat Housing,1,1
+17705,Clutch Release Bearing,1,1
+17705,Clutch Slave Cylinder,1,1
+17705,Clutch Kit (Disc+Pressure Plate),1,1
+17703,Mirror Assy - LH,1,1
+17707,Ac Vent,1,1
+17903,Shock Absorber Strut,1,1
+17708,Clutch Kit (Disc+Pressure Plate),1,1
+17708,Clutch Release Bearing,1,1
+17725,Oil Filter,1,1
+17725,Air Filter,1,1
+17727,Engine Oil - 5W40,1,1
+18004,Fuel Filter,1,1
+17744,Silencer,1,1
+17706,Winding Machine,1,1
+17706,Front Glass Bottom Channel,1,1
+17706,Rubber Bush,1,1
+17755,Power Window Switch,1,1
+17709,Front Bumper,1,1
+17709,Front Bumper Lower,1,1
+17709,Front Bumper Bracket - LH,1,1
+17709,Front Bumper Bracket - RH,1,1
+17709,Fuel Filter,1,1
+17709,Head Lamp - RH,1,1
+17709,Front Fender - RH,1,1
+17709,Front Fender Lining - RH,1,1
+17709,Lower Arm - RH,1,1
+17709,Front Shock Absorber,1,1
+17709,Bonnet Hinge Assy - LH,1,1
+17711,Front Bumper,1,1
+17711,Splash Cover - LH,1,1
+17712,Front Fender - RH,2,1
+17712,Front Bumper,1,1
+17712,Head Lamp - RH,1,1
+17712,Front Wheel Arch Cladding - RH,1,1
+17712,Head Light Bracket - RH,1,1
+17712,Fender Lining,1,1
+17712,Holder,1,1
+17712,Front Bumper - RH,1,1
+17712,Front Front Bumper Lower Grill,1,1
+17712,Fender Indicator - RH,1,1
+17712,Bezel Rear Fog Lamp - RH,1,1
+17712,Cap,1,1
+17712,Wiper Tank,1,1
+17712,Wiper Spray Motor,1,1
+17712,Cladding,1,1
+17717,Rear Suspension Strut Assy - LH/RH,1,1
+17717,Tie Rod End - LH,1,1
+17717,Tie Rod End - RH,1,1
+17718,Front Suspension Strut Assy - LH/RH,1,1
+17718,Front Stabilizer Link - LH/RH,1,1
+17718,Lower Arm - LH,1,1
+17718,Lower Arm - RH,1,1
+17718,Balance Rod Bush,1,1
+17718,Ball Joint Set,1,1
+17766,Gear Box Beeding,1,1
+17800,Front Bumper,1,1
+17800,Holder,2,1
+17800,Front Bumper - RH,1,1
+17800,Front Bumper - LH,1,1
+17904,Front Wheel Arch Cladding - RH,1,1
+17735,Brake Booster,1,1
+18097,Front Door - RH,1,1
+18097,Rear Door - RH,1,1
+18097,Mirror Assy - RH,1,1
+18097,Front Fender - RH,1,1
+18041,Rear Bumper,1,1
+18041,Rear Bumper Bracket - LH,1,1
+18041,Rear Bumper Bracket - RH,1,1
+18041,Rear Fender Lining - RH,1,1
+18232,Rear Tail Lamp - RH,1,1
+17713,Brake Booster,1,1
+17719,Front Bumper,1,1
+17719,Front Bumper Bracket - RH,1,1
+17719,Front Fender Lining - RH,1,1
+17719,Fog Lamp Cover - RH,1,1
+17797,Air Filter,1,1
+17797,AC Filter,1,1
+17763,Spark Plug Set Of 4,1,1
+17763,Air Filter,1,1
+17715,Clutch Slave Cylinder,1,1
+17716,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17716,Clutch Cable,1,1
+17716,Flywheel Bearing,1,1
+17716,Flywheel,1,1
+17716,Front Wheel Bearing,1,1
+17782,Rear Bumper,1,1
+17742,Front Bumper,1,1
+17720,Clutch Cable,1,1
+17737,Antenna Base,1,1
+17898,Front Door Latch Assy - LH,1,1
+17724,Clutch Kit (Disc+Pressure Plate),1,1
+17724,Clutch Release Bearing,1,1
+17722,Rear Wheel Bearing,1,1
+17722,Clutch Release Bearing,1,1
+18039,Front Door - RH,1,1
+18039,Hinge Front Door,1,1
+17741,Radiator Inlet Hose,1,1
+17756,Indicator Assly,1,1
+18070,Front Fender - LH,1,1
+18070,Head Lamp - LH,1,1
+18070,Front Door - LH,1,1
+18070,Bonnet Assy,1,1
+18070,Front Fog Lamp - LH,1,1
+18070,Fog Lamp Cover - LH,1,1
+18237,Front Fender Lining - LH,1,1
+18237,Bonnet Hinge Assy - RH,1,1
+18237,Bonnet Hinge Assy - LH,1,1
+17733,Rear Tail Lamp - RH,1,1
+17732,Mirror Assy - RH,1,1
+17739,Front Bumper,1,1
+17739,Front Bumper Bracket - LH,1,1
+17739,Front Bumper Bracket - RH,1,1
+17739,Front Wiper Arm,1,1
+17739,Front Fender - LH,1,1
+17739,Front Fender Lining - LH,1,1
+17739,Head Lamp - LH,1,1
+17739,Radiator,1,1
+17739,Bonnet Assy,1,1
+17739,Bonnet Hinge Assy - LH,1,1
+17739,Bonnet Hinge Assy - RH,1,1
+17739,Member Comp Front Bumper Upper,1,1
+17739,Cross Member - Front Lower,1,1
+17739,Fender Apron - LH,1,1
+17739,Mirror Assy - LH,1,1
+17739,Front Windshield,1,1
+17739,Panel - Side Cover - LH,1,1
+17748,AC Condenser,1,1
+17748,Radiator Fan Motor,1,1
+17748,Panel Battery Box,1,1
+17748,Moulding - Windshield Glass,1,1
+17748,Sealant,1,1
+17772,Radiator Shroud,1,1
+17728,Front Bumper,1,1
+17728,Front Bumper Upper Grill,1,1
+17728,Bumper Chrome,1,1
+17730,Oil Filter,1,1
+17731,Run Rear Door Glass - LH,1,1
+17734,Clutch Kit,1,1
+17734,Clutch Master Cylinder,1,1
+17734,Clutch Slave Cylinder,1,1
+17894,Head Lamp - RH,1,1
+17894,Head Lamp - LH,1,1
+17750,Petrol Pipe,1,1
+17740,Front Splash Guard - LH,1,1
+17771,Front Brake pad,1,1
+17777,Head Lamp - LH,1,1
+17738,Gear Shift Control Lever,1,1
+17897,Front Windshield,1,1
+17897,Tie Member Assy,1,1
+17897,Engine Under Cover,1,1
+17745,Clutch Kit (Disc+Pressure Plate),1,1
+17746,Front Brake pad,1,1
+17747,Clutch Release Bearing,1,1
+17736,Oil Filter,1,1
+17751,Front Drive Shaft - LH,1,1
+17775,Front Bumper,1,1
+17775,Fog Lamp Cover - RH,1,1
+17775,Fog Lamp Cover - LH,1,1
+17775,Rear Tail Lamp (Body Side) - LH,1,1
+17775,Holder,3,1
+17775,Front Bumper - RH,1,1
+17775,Front Bumper - LH,1,1
+17775,Rear Bumper Side - LH,1,1
+17775,Radiator Shroud,1,1
+17775,Clamp,1,1
+17775,Mount,1,1
+17775,Radiator Support Lower,1,1
+17759,Oil Filter,1,1
+17759,Air Filter,1,1
+17759,Fuel Filter,1,1
+17808,Front Fender Lining - RH,1,1
+17920,Radiator Fan Assy,1,1
+17749,Head Lamp - LH,1,1
+17749,Knob,1,1
+17749,Inside Lock,1,1
+17768,Fog Lamp Cover - RH,1,1
+18185,Return Valve,1,1
+17753,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17753,Flywheel,1,1
+17754,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17754,Flywheel,1,1
+17901,Radiator Inlet Hose,1,1
+17901,Radiator Outlet Hose,1,1
+17778,Strut Bush Kit,1,1
+17778,Strut Mount Kit,1,1
+17764,Rear Brake Pad,1,1
+17765,Rear Control Arm Bush,1,1
+17752,Oil Seal,1,1
+17757,Oil Sump Packing,1,1
+17762,Front Brake pad,1,1
+17801,Ac Heater Coil,1,1
+17801,Valve Door Gasket,1,1
+18019,Rear Axle,1,1
+17761,Shock Absorber Strut,1,1
+17761,Rear Shock Absorber,1,1
+17761,Gear Leaver,1,1
+17761,Gear Leaver Knob,1,1
+17761,Splash Guard Front Bumper,1,1
+17758,Rear Tail Lamp - RH,1,1
+17767,Front Bumper Bracket - RH,1,1
+17767,Front Bumper Bracket - LH,1,1
+17769,Front Bumper,1,1
+17769,Fog Lamp Cover - LH,1,1
+17807,Front Fender Lining - LH,1,1
+17807,Fender Indicator - LH,1,1
+17807,Fender Liner Clip,1,1
+17770,Fog Lamp Set,1,1
+17780,Head Lamp - LH,1,1
+17789,Belt,1,1
+17789,Compressor,1,1
+17789,Alternator Belt,1,1
+17789,Valve Door Gasket,1,1
+17789,Spark Plug Set Of 4,1,1
+17789,Air Filter,1,1
+17789,Oil Filter,1,1
+17789,Front Stabilizer Link Set,1,1
+17789,Front Strut Set - RH,1,1
+17789,Front Strut Set - LH,1,1
+17789,Front Brake pad,1,1
+17829,Ball Joint,1,1
+17830,Ball Joint,1,1
+17773,Front Suspension Strut Mount,1,1
+17815,Clutch Master Cylinder,1,1
+17779,Clutch Slave Cylinder,1,1
+17784,Front Suspension Strut - RH,1,1
+17784,Front Suspension Strut - LH,1,1
+17784,Front Suspension Strut Mounting,1,1
+17865,Rear Bumper,1,1
+17865,Rear Bumper Bracket - LH,1,1
+17865,Rear Bumper Bracket - RH,1,1
+17878,Front Bumper,1,1
+17878,Front Bumper Bracket - LH,1,1
+17878,Front Bumper Bracket - RH,1,1
+17781,Front Brake pad,1,1
+17790,Gear Synchronized Ring,1,1
+17788,Gear Oil 20L - S2 G 80W90,1,1
+17776,Rear Tail Lamp - LH,1,1
+17885,Head Lamp - RH,1,1
+17785,Head Lamp - RH,1,1
+17791,Front Strut Set - LH,1,1
+17791,Front Strut Set - RH,1,1
+17796,Front Fender Lining - LH,1,1
+17806,Rear Bumper,1,1
+17806,Holder,1,1
+17806,Rear Bumper Side - RH,1,1
+17804,Upper Control Arm Bush,1,1
+17804,Lower Ball Joint - LH,1,1
+17804,Front Stabilizer Link - LH/RH,1,1
+17786,Fuel Filter,1,1
+17787,Front Bumper,1,1
+17935,Oil Filter,1,1
+17935,Timing Kit,1,1
+17935,Cylinder Head Gasket,1,1
+17935,Main Seal,1,1
+17935,Coolant Elbow,1,1
+17935,Hose Pipe,1,1
+17935,Return Line,1,1
+17935,Fuel Filter,1,1
+17935,Belt,1,1
+17795,Clutch Kit (Disc+Pressure Plate),1,1
+17795,Air Filter,1,1
+17795,Oil Filter,1,1
+17803,Clutch Release Bearing,1,1
+17805,Clutch Slave Cylinder,1,1
+17805,Clutch Master Cylinder,1,1
+17794,Power Window Switch,1,1
+17811,Room Lamp Assy,1,1
+17816,Fender Liner Clip,1,1
+17816,Front Fender Lining - RH,1,1
+17816,Front Fender Lining - LH,1,1
+17902,AC Compressor,1,1
+17792,Front Suspension Strut - LH,1,1
+17802,Front Fog Lamp - LH,1,1
+17793,Power Window Switch,1,1
+17820,Run Rear Door Glass - LH,1,1
+17928,Front Bumper,1,1
+17928,Bumper Grill,1,1
+17928,Front Bumper Bracket - RH,1,1
+17837,Head Lamp - RH,1,1
+17837,Bonnet Assy,1,1
+17799,Front Bumper,1,1
+17799,Bumper Grill,1,1
+17809,Seal,2,1
+17809,Diff Side Oil - RH,1,1
+17809,Diff Side Oil - LH,1,1
+17813,Garnish,1,1
+17813,Front Bumper Lower - RH,1,1
+17813,Bezel,1,1
+17813,Non Fog Lamp - RH,1,1
+17813,Holder,2,1
+17813,Front Bumper - LH,1,1
+17813,Front Bumper - RH,1,1
+17813,Front Bumper,1,1
+17812,Tie Member Assy,1,1
+17810,Clutch Kit (Disc+Pressure Plate),1,1
+17810,Clutch Slave Cylinder,1,1
+17810,Clutch Release Bearing,1,1
+17810,Air Filter,1,1
+17825,Front Stabilizer Link - LH/RH,1,1
+17814,AC Filter,1,1
+17814,Front Brake pad,1,1
+17826,Hose Pipe Pvc,1,1
+17823,Timing Kit,1,1
+17828,Front Bumper,1,1
+17828,Front Bumper Bracket - LH,1,1
+17828,Front Bumper Bracket - RH,1,1
+17821,Front Bumper Lower Grill,1,1
+17818,Towing cap,1,1
+17817,Front Drive Shaft - LH,1,1
+17850,Wheel Cap,1,1
+17827,Rear Bumper Bracket - LH,1,1
+17827,Rear Bumper Bracket - RH,1,1
+17827,Monogram Set,1,1
+17827,Dicky Rear Tail Lamp - RH,1,1
+17867,Front Wheel Arch Cladding - LH,1,1
+17867,Rear Wheel Arch Cladding - LH,1,1
+17867,Door Beeding,1,1
+17834,Front Fender Lining - RH,1,1
+17834,Front Fender Lining - LH,1,1
+17832,Front Suspension Strut - RH,1,1
+17832,Front Suspension Strut - LH,1,1
+17849,Front Bumper,1,1
+17835,Front Bumper,1,1
+17835,Rear Bumper,1,1
+17835,Rear Bumper Bracket - LH,1,1
+17835,Dicky Emblems,1,1
+17836,Bumper Clip,1,1
+17836,Rear Bumper Bracket - RH,1,1
+17836,Front Bumper Bracket - LH,1,1
+17836,Front Bumper Bracket - RH,1,1
+17836,Mud Flap Set,1,1
+17831,Air Filter,1,1
+17870,Head Lamp - RH,1,1
+17870,Head Lamp Set,1,1
+17870,Rear Tail Lamp - LH,1,1
+17870,Rear Tail Lamp - RH,1,1
+17870,Weatherstrip,4,1
+17870,Front Door Outer - RH,1,1
+17870,Front Door Outer - LH,1,1
+17870,Rear Door Outer - RH,1,1
+17870,Rear Door Outer - LH,1,1
+17870,Emblem Kit,1,1
+17870,Front Bumper,1,1
+17870,Rear Bumper,1,1
+17870,Front Outer Door Handle - LH,1,1
+17870,Front Outer Door Handle - RH,1,1
+17870,Rear Outer Door Handle - LH,1,1
+17870,Rear Outer Door Handle - RH,1,1
+17870,Emblem(S),1,1
+17833,Fuel Pump Assy,1,1
+17839,Pipe,1,1
+17937,Brake Light Switch,1,1
+17908,Side Mirror Indicator - LH,1,1
+17929,Front Bumper,1,1
+17880,Suspension Strut Mounting,1,1
+17880,Ball Joint Set,1,1
+17880,Front Shock Absorber,1,1
+17880,Shock Absorber Strut Kit,1,1
+17880,Caliper Kit,1,1
+18010,Front Bumper,1,1
+17842,Steering Assy,1,1
+17847,Rear Tail Lamp - LH,1,1
+17871,Power Window Switch,1,1
+17864,Front Shock Absorber,1,1
+17864,Rear Shock Absorber,1,1
+17900,Front Fender Lining - LH,1,1
+17856,Front Bumper,1,1
+17856,Front Bumper Bracket,1,1
+17856,Head Lamp - LH,1,1
+17843,Front Stabilizer Link - LH/RH,1,1
+17863,Clutch Disc Assy,1,1
+17863,Clutch Cover Assy,1,1
+17863,Clutch Release Bearing,1,1
+17863,Clutch Cable,1,1
+17863,Lower Arm - LH,1,1
+17863,Lower Arm - RH,1,1
+17863,Front Bumper,1,1
+17863,Dicky Shocks - LH,1,1
+17863,Dicky Shocks - RH,1,1
+17863,Fog Lamp Cover - LH,1,1
+17863,Thermostat Housing,1,1
+17881,Mirror Assy - RH,1,1
+17881,Door Mirror Inner Sash,1,1
+17846,Brake Lining,1,1
+17846,Front Brake Disc,1,1
+17846,Front Brake pad,1,1
+17853,Power Window Switch,1,1
+17844,Front Brake pad,1,1
+17845,AC Filter,1,1
+17899,Contact Assy,1,1
+17899,Clock Spring,1,1
+17876,Front Bumper,1,1
+17876,Towing cap,1,1
+17876,Belt Water Pump,1,1
+17876,Front Stabilizer Link Set,1,1
+17876,Front Stabilizer Bush,1,1
+17876,Fender Lining,1,1
+17876,Crankshaft Oil Seal,1,1
+17876,Air Filter,1,1
+17876,Front Brake pad,1,1
+17877,Front Bumper,1,1
+17877,Towing cap,1,1
+17877,Belt Water Pump,1,1
+17877,Front Stabilizer Link Set,1,1
+17877,Front Stabilizer Bush,1,1
+17877,Fender Lining,1,1
+17877,Crankshaft Oil Seal,1,1
+17877,Air Filter,1,1
+17877,Front Brake pad,1,1
+17893,Oil Filter,1,1
+17851,Front Shock Absorber,1,1
+17851,Shock Absorber Strut Kit,1,1
+17851,Air Filter,1,1
+17851,AC Filter,1,1
+17866,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17866,Rear Shock Absorber,1,1
+17875,Air Filter,1,1
+17848,Front Suspension Strut - LH,1,1
+17855,Front Bumper,1,1
+17855,Head Lamp - RH,1,1
+17855,Head Lamp - LH,1,1
+17857,Front Brake Disc,1,1
+17857,Front Brake pad,1,1
+17857,Rear Brake Pad,1,1
+17858,Front Brake Disc,1,1
+17858,Front Brake pad,1,1
+17858,Rear Brake Pad,1,1
+17852,Valve Door Gasket,1,1
+17872,Rear Door - RH,1,1
+17854,Front Fender Lining - RH,1,1
+17854,Front Fender Lining - LH,1,1
+17859,Rear Tail Lamp - LH,1,1
+17859,Mirror Assy - LH,1,1
+17936,Rubber Buffer,1,1
+17936,Rear Shock Absorber,1,1
+17861,Sensor,1,1
+17860,Rear Tail Lamp - LH,1,1
+17869,Clutch Kit (Disc+Pressure Plate),1,1
+17869,Clutch Release Bearing,1,1
+18166,Rear Door - RH,1,1
+17922,Front Bumper,1,1
+17922,Head Lamp - RH,1,1
+17862,Front Drive Shaft - LH,1,1
+18161,Indicator Assly,1,1
+17868,Front Suspension Strut - RH,1,1
+17868,Door Beeding,1,1
+17884,Bonnet Assy,1,1
+17884,Front Bumper,1,1
+17884,Front Bumper Upper Grill,1,1
+17889,Rear Door - RH,1,1
+17889,Moulding Assy,1,1
+17889,Rear - RH,1,1
+17975,Clutch Kit (Disc+Pressure Plate),1,1
+17874,Head Lining Roof,1,1
+17874,Front Bumper,1,1
+17939,AC Hose,1,1
+18054,Front Bumper,1,1
+18054,Front Bumper Lower Grill,1,1
+18054,Bumper Holder,1,1
+18054,Fog Lamp Bezel Set,1,1
+17913,Mirror Lens - RH,1,1
+17873,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+17873,Clutch Slave Cylinder,1,1
+17879,Water Pump,1,1
+17879,Belt,1,1
+17907,Front Fender - RH,1,1
+17887,Clutch Kit (Disc+Pressure Plate),1,1
+17887,Clutch Release Bearing,1,1
+17882,Front Windshield,1,1
+17883,Front Suspension Strut - LH,1,1
+17888,Wiper Tank,1,1
+17892,Front Fender Lining - RH,1,1
+17892,Front Fender Lining - LH,1,1
+17892,Lower Arm - RH,1,1
+17891,Front Bumper,1,1
+17891,Bumper Holder,1,1
+17891,Front Bumper Upper Grill,1,1
+17905,Radiator Fan Assy,1,1
+18172,Granite Black Air Vent Assy - RH,1,1
+18172,Granite Black Air Vent Assy - LH,1,1
+17895,Rear Tail Lamp - RH,1,1
+17896,Front Bumper,1,1
+17896,Bonnet Assy,1,1
+17906,Front Bumper,1,1
+17948,Rear Bumper,1,1
+17948,Rear Tail Lamp - RH,1,1
+17948,Holder,2,1
+17948,Rear Bumper Side - RH,1,1
+17948,Rear Bumper Side - LH,1,1
+17950,Rear Tail Lamp - LH,1,1
+17979,Contact Assy,1,1
+17979,Clock Spring,1,1
+17951,Side Mirror Indicator - RH,1,1
+17924,Front Bumper,1,1
+17924,Stay Lamp Support,1,1
+17924,Head Lamp - RH,1,1
+17924,Fog Lamp Cover - RH,1,1
+17924,Front Fog Lamp - RH,1,1
+17924,Bonnet Hinge Assy - LH,1,1
+17924,Bonnet Hinge Assy - RH,1,1
+17924,Towing cap,1,1
+17924,Front Bumper Upper Grill,1,1
+17924,Front Fender Lining - RH,1,1
+17924,Clip,1,1
+17949,Dicky Panel,1,1
+17949,Rear Tail Lamp - RH,1,1
+17949,Rear Bumper,1,1
+17912,Clutch Kit (Disc+Pressure Plate),1,1
+17912,Clutch Release Bearing,1,1
+17909,Rear Wiper Arm,1,1
+17910,Rear Wiper Blade,1,1
+17947,Accelerator Cable,1,1
+17947,Pad Accelerator Pedal,1,1
+17947,Tie Rod End,1,1
+17947,Gear Lever Bush,1,1
+17947,Axle Seal,1,1
+17947,Wheel Brake Cylinder,2,1
+17947,Rear - RH,1,1
+17947,Rear - LH,1,1
+17947,Brake Shoe,1,1
+17947,Combination Switch,1,1
+17947,Front Strut Bush Kit,1,1
+17947,Front Wiper Arm,1,1
+17947,Gear Leaver,1,1
+17911,Wiper Blade 21,1,1
+17911,Wiper Blade 14,1,1
+17914,Front Bumper,1,1
+17914,Front Bumper Lower Grill,1,1
+17914,Splash Guard Front Bumper,1,1
+17914,Bumper Clip,1,1
+17914,Wheel Cap,1,1
+17923,Rear Bumper,1,1
+17917,Hose,1,1
+17917,Inter Cooler Outlet N0 1,1,1
+17919,Timing Kit Packing,1,1
+18011,Mirror Assy - LH,1,1
+17941,Wiring Kit,1,1
+17941,Engine Compartment Wiring Harness,1,1
+17926,Battery,1,1
+17934,Clutch Kit (Disc+Pressure Plate),1,1
+17934,Clutch Release Bearing,1,1
+17915,Clip,1,1
+17916,Cowl Top,1,1
+17916,Mud Flap Set,1,1
+17921,Power Window Switch,1,1
+17918,Oil Filter,1,1
+17944,Front Door - LH,1,1
+17944,Rear Door - LH,1,1
+17925,Oil Filter,1,1
+17925,Air Filter,1,1
+17927,Fuel Filter,1,1
+17940,Holder,1,1
+17940,Front Bumper - RH,1,1
+17940,Front Fender Lining - RH,1,1
+17930,Radiator,1,1
+17933,Front Brake pad,1,1
+17933,Front Brake Disc,1,1
+17938,Air Filter,1,1
+17932,Spark Plug,1,1
+17931,Spark Plug,1,1
+17942,Wiper Blade,1,1
+17943,Air Filter,1,1
+17945,Front Bumper Upper Grill,1,1
+17946,Inlet Separator Hose,1,1
+17953,Clutch Release Bearing,1,1
+17953,Clutch Kit (Disc+Pressure Plate),1,1
+17953,Coolant Tank,1,1
+17954,Clutch Release Bearing,1,1
+17954,Clutch Kit (Disc+Pressure Plate),1,1
+17954,Coolant Tank,1,1
+17955,Lower Arm - LH,1,1
+17955,Ball Joint,1,1
+17955,Brake Shoe,1,1
+17955,Front Mud Flap - RH,1,1
+17955,Front Mud Flap - LH,1,1
+17955,Fender Indicator - LH,1,1
+17955,Front Brake Drum,1,1
+17955,Indicator Front - RH,1,1
+18073,Splash Guard Front Fender - LH,1,1
+18073,Front Splash Guard - LH,1,1
+18073,Radiator Outlet Hose,1,1
+18077,Splash Guard Front Bumper,1,1
+17958,Lower Arm - LH,1,1
+17958,Lower Arm - RH,1,1
+17956,Oil Filter,1,1
+17956,Air Filter,1,1
+17956,Rear Wheel Bearing,1,1
+17956,Wiper Blade,1,1
+17952,Water Pump,1,1
+17952,Idler Pulley,1,1
+17974,Mirror Assy - RH,1,1
+17959,Front Stabilizer Link - LH/RH,1,1
+17980,Power Window Switch,1,1
+17957,Front Brake pad,1,1
+17961,Brake Disc,1,1
+18086,Front Drive Shaft - RH,1,1
+18086,Oil Seal,1,1
+18015,Rear Door - RH,1,1
+18015,Front Door - RH,1,1
+17966,Oil Filter,1,1
+17966,AC Filter,1,1
+17966,Air Filter,1,1
+18071,Hose Pipe,1,1
+17962,Steering Box,1,1
+17965,Wheel Cap,1,1
+17968,Front Bumper,1,1
+17968,Front Bumper Upper Grill,1,1
+17968,Cap,1,1
+17968,Front Fender Lining - RH,1,1
+17968,Head Lamp - RH,1,1
+17968,Splash Guard Front Bumper,1,1
+17963,Oil Filter,1,1
+17963,Air Filter,1,1
+17964,Air Filter,1,1
+17964,AC Filter,1,1
+17984,Wiper Motor & Link Set,1,1
+17978,Engine Mounting - RH,1,1
+17985,Air Filter,1,1
+17985,Front Brake pad,1,1
+17977,Garnish Assy Roof Side - LH,1,1
+17972,Rear Wheel Bearing,1,1
+17972,Air Filter,1,1
+17972,AC Filter,1,1
+17972,Oil Filter,1,1
+17981,Gear Shift Control Lever,1,1
+17983,Front Bumper,1,1
+17983,Rear Bumper,1,1
+17970,Air Filter,1,1
+17973,Belt,1,1
+17971,Oil Filter,1,1
+17971,Air Filter,1,1
+17967,Rear Brake Shoe Set,1,1
+17982,Transmission Bearing,1,1
+17982,Bearing,1,1
+17969,Front Door - RH,1,1
+17969,Front Fender - RH,1,1
+18034,Bonnet Assy Stay Rod,1,1
+17976,Front Bumper,1,1
+17976,Front Fender Lining - RH,1,1
+17976,Front Fender Lining - LH,1,1
+17998,Front Fender Lining - RH,1,1
+17986,Spark Plug Set Of 4,1,1
+17986,AC Filter,1,1
+17986,Wiper Blade,1,1
+17986,Wiper Blade 16,1,1
+17988,Air Filter,1,1
+17989,Fog Lamp Bulb,1,1
+18000,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+18002,Clutch Cable,1,1
+18002,Shock Absorber Mount,1,1
+18002,Front Bumper,1,1
+18002,Front Bumper Lower Grill,1,1
+18002,Holder,2,1
+18002,Front Bumper - LH,1,1
+18002,Oil Seal,1,1
+18002,Gear Lever Boot,1,1
+18002,Front Bumper - RH,1,1
+18006,Brake Lining,1,1
+18013,Axle Seal,1,1
+18013,Axle Seal - LH,1,1
+17990,Rear Bumper,1,1
+17990,Rear Tail Lamp - RH,1,1
+18007,Front Suspension Strut - RH,1,1
+18007,Air Filter,1,1
+18007,Front Suspension Strut - LH,1,1
+18116,Mirror Lens - RH,1,1
+17991,Front Wiper Arm,1,1
+17993,Air Filter,1,1
+17993,AC Filter,1,1
+17993,Cap,1,1
+17997,Oil Filter,1,1
+18045,Front Stabilizer Link - LH/RH,1,1
+18045,Balance Rod Bush,1,1
+17994,Clutch Kit (Disc+Pressure Plate),1,1
+17994,Clutch Release Bearing,1,1
+17996,Front Brake pad,1,1
+18009,Fuel Filter,1,1
+18009,Oil Filter,1,1
+18186,Wheel Cap,1,1
+18186,Engine Mounting,1,1
+18008,Head Lamp - LH,1,1
+17999,Lower Arm,1,1
+17999,Front Fender Lining - RH,1,1
+17995,Front Bumper,1,1
+18001,Wheel Cap,1,1
+18048,Air Filter,1,1
+18048,AC Filter,1,1
+18048,Rear Wheel Bearing,1,1
+18048,Front Brake pad,1,1
+18048,Front Wheel Arch Cladding - RH,1,1
+18048,Oil Filter,1,1
+18003,Clutch Kit (Disc+Pressure Plate),1,1
+18003,Clutch Release Bearing,1,1
+18005,Coolant Tank,1,1
+18020,Silencer,1,1
+18047,Coolant Tank,1,1
+18065,Car Wash Shampoo - 250ml,1,1
+18042,Front Bumper,1,1
+18042,Front Fender - LH,1,1
+18042,Mirror Assy - LH,1,1
+18042,Front Fender Protector - LH,1,1
+18042,Garnish,1,1
+18042,Front Bumper Side - LH,1,1
+18043,Front Bumper,1,1
+18043,Front Fender - LH,1,1
+18043,Mirror Assy - LH,1,1
+18043,Front Fender Protector - LH,1,1
+18043,Garnish,1,1
+18043,Front Bumper Side - LH,1,1
+18014,Front Bumper,1,1
+18022,Dicky Emblems,1,1
+18012,Cylinder Head Gasket,1,1
+18012,Coolant Elbow,1,1
+18012,Adjuster,1,1
+18012,Hdyr Valve,1,1
+18017,Gasket,1,1
+18046,Speed Sensor,1,1
+18018,Silencer,1,1
+18029,Power Window Switch,1,1
+18016,Lower Arm Set,1,1
+18016,Front Stabilizer Link Set,1,1
+18024,Fender Liner Clip,1,1
+18148,Front Wheel Arch Cladding - RH,1,1
+18148,Garnish,1,1
+18148,Front Bumper Side - RH,1,1
+18148,Indicator Assly,1,1
+18148,Holder,2,1
+18148,Front Bumper - RH,1,1
+18148,Front Bumper - LH,1,1
+18021,Ball Joint,1,1
+18021,Tie Rod End,1,1
+18050,Lock,1,1
+18112,Front Bumper,1,1
+18112,Holder,2,1
+18112,Front Bumper - RH,1,1
+18112,Front Bumper - LH,1,1
+18136,Head Lamp - RH,1,1
+18136,Wiper Tank,1,1
+18136,Front Fender Lining - RH,1,1
+18136,Impact Absorber Beam - Front Bumper,1,1
+18137,Bonnet Assy,1,1
+18078,AC Compressor,1,1
+18055,Bumper Holder,1,1
+18063,Wiper Tank,1,1
+18064,Cowl Top,1,1
+18064,Reverse Camera,1,1
+18023,Head Lamp - RH,1,1
+18049,Front Wheel Arch Cladding - RH,1,1
+18049,Holder,1,1
+18049,Front Bumper - RH,1,1
+18049,Front Bumper,1,1
+18040,Oil Filter,1,1
+18061,Mud Flap Set,1,1
+18061,Dicky Shocks - LH,1,1
+18061,Dicky Shocks - RH,1,1
+18072,Upper Ball Joint,1,1
+18072,Head Lamp - LH,1,1
+18072,Front Brake pad,1,1
+18072,Front Stabilizer Link - LH,1,1
+18076,Balance Rod Bush,1,1
+18076,Hose Pipe,1,1
+18076,Wiper Tank,1,1
+18027,Petrol Pipe,1,1
+18025,Rear Brake Shoe Set,1,1
+18025,Caliper Pin 1,1,1
+18025,Dicky Shocks - LH,1,1
+18025,Dicky Shocks - RH,1,1
+18025,Front Stabilizer Link - LH/RH,1,1
+18025,Balance Rod Bush,1,1
+18025,Glow Plug,1,1
+18025,AC Filter,1,1
+18025,Oil Filter,1,1
+18025,Air Filter,1,1
+18025,Rear Brake Adjuster Spring,1,1
+18025,Drain Nut,1,1
+18028,Ball Joint,1,1
+18028,Lower Arm - LH,1,1
+18028,Lower Arm - RH,1,1
+18028,Balance Rod Bush,1,1
+18028,Front Shock Absorber,1,1
+18031,Rear Bumper,1,1
+18031,Rear Bumper Bracket - LH,1,1
+18031,Rear Bumper Bracket - RH,1,1
+18026,Front Stabilizer Link - LH/RH,1,1
+18035,Reverse Light Switch,1,1
+18035,Rear Brake Shoe Set,1,1
+18035,Rear Window Regulator Manual - RH,1,1
+18035,Door Mirror Inner Sash,1,1
+18139,Front Bumper,1,1
+18139,Front Bumper Bracket - RH,1,1
+18139,Head Lamp - RH,1,1
+18139,Front Fender - RH,1,1
+18139,Radiator Frame,1,1
+18139,Lamp Support Member - RH,1,1
+18139,Front Fender Lining - RH,1,1
+18032,Clutch Master Cylinder,1,1
+18037,Bolt,1,1
+18030,AC Filter,1,1
+18036,Clutch Kit (Disc+Pressure Plate),1,1
+18036,Clutch Release Bearing,1,1
+18033,Bonnet Stay Rod Holder,1,1
+18129,Dicky Panel,1,1
+18129,Rear Bumper,1,1
+18129,Holder,2,1
+18129,Rear Bumper Side - RH,1,1
+18129,Rear Bumper Side - LH,1,1
+18084,Head Lamp - RH,1,1
+18084,Head Lamp - LH,1,1
+18038,Front Bumper,1,1
+18038,Wheel Cap,1,1
+18038,Mirror Assy - RH,1,1
+18038,Front Fender - RH,1,1
+18038,Fog Lamp Cover - RH,1,1
+18044,Steering Oil,1,1
+18058,Spark Plug,1,1
+18059,Spark Plug,1,1
+18060,Spark Plug,1,1
+18052,Clutch Master Cylinder,1,1
+18051,Fuel Pipe,1,1
+18051,Assy,1,1
+18053,Front Bumper,1,1
+18175,Head Lamp - LH,1,1
+18175,Front Bumper,1,1
+18057,Front Brake pad,1,1
+18062,Brake Disc,1,1
+18091,Run Rear Door Glass - LH,1,1
+18091,Garnish Rear Quarter - LH,1,1
+18091,Run Front Door Glass - RH,1,1
+18085,Front Bumper,1,1
+18085,Front Bumper Bracket - LH,1,1
+18089,Head Lamp - LH,1,1
+18056,Evaporator,1,1
+18144,Sensor,1,1
+18144,Engine Under Cover - LH,1,1
+18144,Front Fender Lining - LH,1,1
+18144,Wiring Harness Main Assy,1,1
+18066,Rear Outer Door Handle - LH,1,1
+18066,Front Outer Door Handle - LH,1,1
+18066,Front Outer Door Handle - RH,1,1
+18102,Door Latch,1,1
+18102,Front Bumper Bracket - LH,1,1
+18102,Front Bumper Bracket - RH,1,1
+18158,Ac Discharge Pipe,1,1
+18158,Engine Bedding,1,1
+18067,Oil Filter,1,1
+18067,Air Filter,1,1
+18067,Spark Plug Set Of 4,1,1
+18067,Spark Plug Wire,1,1
+18068,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+18068,Clutch Cable,1,1
+18140,Mirror Assy - LH,1,1
+18069,Clutch Slave Cylinder,1,1
+18103,Front Bumper,1,1
+18103,Front Bumper Bracket - LH,1,1
+18103,Front Wheel Arch Cladding - LH,1,1
+18103,Head Lamp - LH,1,1
+18079,Belt,1,1
+18079,Interior Rear View Mirror,1,1
+18079,Rear Wiper Blade,1,1
+18079,Mud Flap Set,1,1
+18080,V Belt,1,1
+18074,Front Bumper,1,1
+18074,Front Bumper Upper Grill,1,1
+18074,Front Bumper Lower Grill,1,1
+18074,Head Lamp - LH,1,1
+18074,AC Condenser,1,1
+18074,Side Turn Signal Lamp - LH,1,1
+18075,Air Filter,1,1
+18082,Carrier Assy - Front,1,1
+18083,Rear Wheel Bearing,1,1
+18111,Window Regulator Without Motor,1,1
+18113,Front Brake pad,1,1
+18081,Valve Guide,1,1
+18110,Return Line,1,1
+18094,Clutch Release Bearing,1,1
+18095,Clutch Cover Assy,1,1
+18095,Clutch Disc Assy,1,1
+18095,Front Brake pad,1,1
+18096,Lower Arm - LH,1,1
+18096,Front Suspension Strut Assy - LH,1,1
+18105,Gear Lever Boot,1,1
+18100,Front Bumper,1,1
+18100,Rear Bumper,1,1
+18100,Front Fog Lamp - RH,1,1
+18100,Front Fog Lamp - LH,1,1
+18100,Fog Lamp Cover - RH,1,1
+18100,Fog Lamp Cover - LH,1,1
+18128,Moulding,1,1
+18128,Holder,1,1
+18128,Rear Bumper Side - LH,1,1
+18098,Garnish,2,1
+18098,Front Bumper Side - RH,1,1
+18098,Front Bumper Side - LH,1,1
+18090,Lower Arm - RH,1,1
+18087,Oil Filter Assy,1,1
+18088,Oil Cooler,1,1
+18093,Cap,1,1
+18101,Dicky Shocks,1,1
+18118,Front Bumper,1,1
+18174,Rear Tail Lamp - RH,1,1
+18174,Rear Tail Lamp (Trunk Side) - RH,1,1
+18188,Dicky Body Panel,1,1
+18188,Glass,1,1
+18188,Rear Bumper,1,1
+18125,Front Door Latch Assy - RH,1,1
+18131,Front Stabilizer Link - LH/RH,1,1
+18131,Lower Arm - LH,1,1
+18131,Lower Arm - RH,1,1
+18131,Front Shock Absorber,1,1
+18131,Suspension Strut Mounting,1,1
+18131,Front Strut Bush Kit,1,1
+18202,Front Suspension Strut - RH,1,1
+18106,Front Suspension Strut Assy - LH/RH,1,1
+18106,Lower Arm - LH,1,1
+18106,Lower Arm - RH,1,1
+18106,Ball Joint Set,1,1
+18106,Balance Rod Bush,1,1
+18107,Front Suspension Strut Assy - LH/RH,1,1
+18107,Lower Arm - LH,1,1
+18107,Lower Arm - RH,1,1
+18107,Ball Joint Set,1,1
+18107,Balance Rod Bush,1,1
+18160,Door Beeding,1,1
+18160,Rear Wheel Arch Cladding - RH,1,1
+18108,Pipe,1,1
+18133,Engine Mounting Pad - A,1,1
+18133,Engine Mounting Pad - B,1,1
+18133,Engine Mounting Pad - C,1,1
+18104,Front Wheel Bearing,1,1
+18167,Gear Shifter/Selector Cable,1,1
+18117,Clutch Kit (Disc+Pressure Plate),1,1
+18117,Clutch Release Bearing,1,1
+18117,Clutch Cable,1,1
+18117,Rear Power Window Regulator - RH,1,1
+18109,Clutch Kit,1,1
+18134,Radiator Fan Assy,1,1
+18115,Clutch Kit (Disc+Pressure Plate),1,1
+18115,Clutch Cable,1,1
+18132,Oil Seal,1,1
+18121,Regulator Assy Front Window - LH,1,1
+18114,AC Filter,1,1
+18114,Air Filter,1,1
+18114,Front Brake pad,1,1
+18119,Front Bumper,1,1
+18165,Weatherstrip,1,1
+18165,Front Door Outer - RH,1,1
+18165,Mud Flap Set,1,1
+18127,Front Shock Absorber,1,1
+18127,Rear Shock Absorber,1,1
+18127,Balance Rod Bush,1,1
+18127,Axle Seal - LH,1,1
+18127,Front Wheel Bearing,1,1
+18127,Alternator Belt,1,1
+18127,Caliper Pin,1,1
+18141,V Belt,1,1
+18120,Rear Bumper,1,1
+18120,Holder,2,1
+18120,Rear Bumper Side - RH,1,1
+18120,Rear Bumper Side - LH,1,1
+18120,Rear Fender Lining - LH/RH,1,1
+18135,AC Compressor,1,1
+18142,Front Bumper,1,1
+18142,AC Condenser,1,1
+18142,Radiator Fan Assy,1,1
+18126,Clutch Kit (Disc+Pressure Plate),1,1
+18126,Clutch Release Bearing,1,1
+18123,Oil Filter,1,1
+18124,Front Brake pad,1,1
+18157,Air Filter,1,1
+18157,AC Filter,1,1
+18159,Oil Filter,1,1
+18130,Flywheel Bearing,1,1
+18122,Oil Seal,1,1
+18150,Mirror Assy - RH,1,1
+18151,Head Lamp - RH,1,1
+18151,Head Lamp - LH,1,1
+18138,Sensor,1,1
+18163,Steering Box,1,1
+18163,Caliper Pin,1,1
+18163,Balance Rod Bush,1,1
+18143,Front Bumper Bracket - LH,1,1
+18143,Rear Glass Channel - RH,1,1
+18143,Fender Indicator - LH,1,1
+18164,Oil Filter,1,1
+18146,Fuel Filter,1,1
+18162,Front Mud Flap Set,1,1
+18162,Front Fender Lining - RH,1,1
+18162,Door Stopper,1,1
+18145,Sensor,1,1
+18187,Clutch Cable,1,1
+18187,Wheel Brake Cylinder,1,1
+18187,Rear - RH,1,1
+18171,Rear Glass Bottom Channel,1,1
+18171,Rubber Bush,1,1
+18181,Annabond,1,1
+18155,Front Brake pad,1,1
+18155,Air Filter,1,1
+18155,AC Filter,1,1
+18156,Front Brake pad,1,1
+18154,Belt,1,1
+18154,Front Stabilizer Link - RH,1,1
+18154,Timing Belt,1,1
+18154,Tensioner Assy,1,1
+18154,Water Pump,1,1
+18154,Oil Sump Packing,1,1
+18154,Front Wheel Bearing,1,1
+18153,Oil Filter,1,1
+18147,Oil Filter,1,1
+18149,Oil Filter,1,1
+18192,Head Lamp - RH,1,1
+18200,Timing Kit,1,1
+18200,Water Pump,1,1
+18200,Fog Lamp Set,1,1
+18200,Front Fender Lining - RH,1,1
+18168,Front Brake pad,1,1
+18169,Oil Filter,1,1
+18170,Oil Filter,1,1
+18180,Power Steering Motor Assy,1,1
+18180,Radiator Fan Assy,1,1
+18180,Caliper Pin,1,1
+18179,Mirror Lens - RH,1,1
+18182,Outer Door Handle - LH,1,1
+18182,Front Stabilizer Link - LH/RH,1,1
+18182,Balance Rod Bush,1,1
+18182,Ball Joint Set,1,1
+18182,Lower Arm - RH,1,1
+18182,Lower Arm - LH,1,1
+18182,Front Suspension Strut Assy - LH/RH,1,1
+18184,Clutch Kit (Disc+Pressure Plate),1,1
+18184,Clutch Release Bearing,1,1
+18183,Rear Tail Lamp - LH,1,1
+18183,Rear Tail Lamp - RH,1,1
+18183,Front Door Latch Assy - RH,1,1
+18173,Front Bumper,1,1
+18173,Front Bumper Lower Grill,1,1
+18173,Front Bumper Bracket - RH,1,1
+18176,AC Filter,1,1
+18176,Oil Filter,1,1
+18176,Air Filter,1,1
+18178,Front Shock Absorber,1,1
+18178,Front Wheel Bearing,1,1
+18177,Clutch Kit (Disc+Pressure Plate),1,1
+18177,Clutch Release Bearing,1,1
+18177,Front Inner Door Handle,1,1
+18191,Dicky Latch,1,1
+18189,AC Gas - 450G,1,1
+18190,Air Filter,1,1
+18190,Oil Filter,1,1
+18195,Front Fender Lining - LH,1,1
+18195,Mud Flap Set,1,1
+18193,Clutch Kit (Disc+Pressure Plate),1,1
+18193,Clutch Release Bearing,1,1
+18194,Clutch Cable,1,1
+18194,Flywheel,1,1
+18199,Mirror Lens - RH,1,1
+18196,Power Window Regulator - RH,1,1
+18197,Front Drive Shaft - LH,1,1
+18197,Front Drive Shaft - RH,1,1
+18197,Fuel Filter,1,1
+18197,Front Brake Disc,1,1
+18198,Rear Shock Absorber - RH,1,1
+18198,Rear Shock Absorber - LH,1,1
+18215,Engine Oil - Taxi Special - 5W30 (209L),1,1
+18224,Contact Assy,1,1
+18224,Clock Spring,1,1
+18220,Wiper Blade 14,1,1
+18220,Wiper Blade 18,1,1
+18220,Wiper Blade 22,1,1
+18220,Wiper Blade 24,1,1
+18220,Wiper Blade 26,1,1
+18235,Lower Arm - RH,1,1
+18235,Front Drive Shaft - RH,1,1
+18235,Front Fender Lining - RH,1,1
+18235,Front Fender - RH,1,1
+18235,Front Bumper,1,1
+18201,Clutch Cable,1,1
+18205,Mirror Assy - RH,1,1
+18213,Air Filter,1,1
+18213,Clutch Release Bearing,1,1
+18213,Clutch Kit (Disc+Pressure Plate),1,1
+18214,Front Fog Lamp - LH,1,1
+18204,Speed Sensor,1,1
+18206,Rear Tail Lamp - RH,1,1
+18206,Rear Bumper Lamp - RH,1,1
+18203,Front Drive Shaft - LH,1,1
+18203,Front Drive Shaft - RH,1,1
+18203,Caliper Pin,1,1
+18230,Rear Tail Lamp - LH,1,1
+18230,Rear Tail Lamp - RH,1,1
+18207,Rear Bumper,1,1
+18207,Rear Bumper Reflector,1,1
+18208,Clutch Set (Disc+Pressure Plate+Bearing),1,1
+18231,Front Door Latch Assy - RH,1,1
+18209,Clutch Kit (Disc+Pressure Plate),1,1
+18209,Clutch Release Bearing,1,1
+18210,Front Outer Door Handle - RH,1,1
+18210,Balance Rod Bush,1,1
+18210,Lower Arm Set,1,1
+18218,Oil Filter,1,1
+18218,Air Filter,1,1
+18218,AC Filter,1,1
+18218,Fuel Filter,1,1
+18218,Front Brake pad,1,1
+18211,Front Bumper,1,1
+18212,Clutch Master Cylinder,1,1
+18227,Coolant Tank,1,1
+18227,Coolant Tank Cap,1,1
+18241,Rear Wheel Arch Cladding - RH,1,1
+18229,Radiator,1,1
+18234,Rear Bumper Bracket - RH,1,1
+18234,Rear Bumper Reflector,1,1
+18234,Rear Tail Lamp (Body Side) - RH,1,1
+18234,Rear Bumper,1,1
+18216,Front Brake pad,1,1
+18216,Rear Brake Pad,1,1
+18216,AC Filter,1,1
+18216,Air Filter,1,1
+18216,Fog Lamp Set,1,1
+18217,Front Brake pad,1,1
+18217,Rear Brake Pad,1,1
+18217,AC Filter,1,1
+18217,Air Filter,1,1
+18217,Fog Lamp Set,1,1
+18219,Gasket Vacuum Pump,1,1
+18223,Bolt,1,1
+18221,Front Bumper,1,1
+18222,Front Bumper Bracket - RH,1,1
+18222,Front Fender - RH,1,1
+18236,Front Drive Shaft - LH,1,1
+18236,Rear Wheel Hub,1,1
+18236,Axle Nut,1,1
+18228,Glow Plug,1,1
+18228,Front Suspension Strut - LH,1,1
+18225,Power Window Winding,1,1
+18225,Front Door - LH,1,1
+18225,Rear Glass Channel - LH,1,1
+18226,Clutch Release Bearing,1,1
+18240,Rear Tail Lamp - RH,1,1
+18233,Front Brake pad,1,1
+18233,Wheel Brake Cylinder,1,1
+18233,AC Filter,1,1
+18233,Spark Plug Set Of 4,1,1
+18239,Rear Outer Door Handle - LH,1,1
+18239,Outer Door Handle - RH,1,1
+18238,Mirror Cap - RH,1,1
+18238,Side Mirror Indicator - RH,1,1
